@@ -1,0 +1,351 @@
+User Name,Role,Product,User Satisfaction (0-5),Weekly Usage (0-7),Team
+Dakota Robinson,Platform Manager,Runway ML,2,0,The Multiplatform Group
+Dakota Robinson,Platform Manager,Google Gemini,4,2,The Multiplatform Group
+Dakota Robinson,Platform Manager,Adobe Firefly,2,1,The Multiplatform Group
+Dakota Robinson,Platform Manager,ChatGPT,5,1,The Multiplatform Group
+Dakota Robinson,Platform Manager,Microsoft Copilot,0,0,The Multiplatform Group
+Dakota Robinson,Platform Manager,Claude AI,2,0,The Multiplatform Group
+Dakota Robinson,Platform Manager,Cursor,2,0,The Multiplatform Group
+Cameron Roberts,Platform Manager,Runway ML,2,1,The Multiplatform Group
+Cameron Roberts,Platform Manager,Google Gemini,2,1,The Multiplatform Group
+Cameron Roberts,Platform Manager,Adobe Firefly,2,1,The Multiplatform Group
+Cameron Roberts,Platform Manager,ChatGPT,3,3,The Multiplatform Group
+Cameron Roberts,Platform Manager,Microsoft Copilot,1,0,The Multiplatform Group
+Cameron Roberts,Platform Manager,Claude AI,4,1,The Multiplatform Group
+Cameron Roberts,Platform Manager,Cursor,2,0,The Multiplatform Group
+Peyton Campbell,Content Coordinator,Runway ML,1,1,The Multiplatform Group
+Peyton Campbell,Content Coordinator,Google Gemini,0,0,The Multiplatform Group
+Peyton Campbell,Content Coordinator,Adobe Firefly,4,2,The Multiplatform Group
+Peyton Campbell,Content Coordinator,ChatGPT,5,3,The Multiplatform Group
+Peyton Campbell,Content Coordinator,Microsoft Copilot,0,0,The Multiplatform Group
+Peyton Campbell,Content Coordinator,Claude AI,3,1,The Multiplatform Group
+Peyton Campbell,Content Coordinator,Cursor,3,1,The Multiplatform Group
+Palmer Rodriguez,Content Coordinator,Runway ML,2,1,The Multiplatform Group
+Palmer Rodriguez,Content Coordinator,Google Gemini,0,0,The Multiplatform Group
+Palmer Rodriguez,Content Coordinator,Adobe Firefly,4,0,The Multiplatform Group
+Palmer Rodriguez,Content Coordinator,ChatGPT,3,4,The Multiplatform Group
+Palmer Rodriguez,Content Coordinator,Microsoft Copilot,3,0,The Multiplatform Group
+Palmer Rodriguez,Content Coordinator,Claude AI,4,1,The Multiplatform Group
+Palmer Rodriguez,Content Coordinator,Cursor,3,0,The Multiplatform Group
+Morgan Nelson,Platform Manager,Runway ML,0,0,The Multiplatform Group
+Morgan Nelson,Platform Manager,Google Gemini,3,1,The Multiplatform Group
+Morgan Nelson,Platform Manager,Adobe Firefly,4,1,The Multiplatform Group
+Morgan Nelson,Platform Manager,ChatGPT,3,2,The Multiplatform Group
+Morgan Nelson,Platform Manager,Microsoft Copilot,3,0,The Multiplatform Group
+Morgan Nelson,Platform Manager,Claude AI,3,2,The Multiplatform Group
+Morgan Nelson,Platform Manager,Cursor,1,1,The Multiplatform Group
+Avery Allen,Platform Manager,Runway ML,2,0,The Multiplatform Group
+Avery Allen,Platform Manager,Google Gemini,3,0,The Multiplatform Group
+Avery Allen,Platform Manager,Adobe Firefly,3,2,The Multiplatform Group
+Avery Allen,Platform Manager,ChatGPT,1,0,The Multiplatform Group
+Avery Allen,Platform Manager,Microsoft Copilot,1,1,The Multiplatform Group
+Avery Allen,Platform Manager,Claude AI,2,0,The Multiplatform Group
+Avery Allen,Platform Manager,Cursor,0,0,The Multiplatform Group
+Winter Allen,Platform Manager,Runway ML,1,0,The Multiplatform Group
+Winter Allen,Platform Manager,Google Gemini,4,0,The Multiplatform Group
+Winter Allen,Platform Manager,Adobe Firefly,3,1,The Multiplatform Group
+Winter Allen,Platform Manager,ChatGPT,3,1,The Multiplatform Group
+Winter Allen,Platform Manager,Microsoft Copilot,2,1,The Multiplatform Group
+Winter Allen,Platform Manager,Claude AI,2,0,The Multiplatform Group
+Winter Allen,Platform Manager,Cursor,1,0,The Multiplatform Group
+Oakley Adams,Digital Producer,Runway ML,2,1,The Multiplatform Group
+Oakley Adams,Digital Producer,Google Gemini,4,1,The Multiplatform Group
+Oakley Adams,Digital Producer,Adobe Firefly,2,1,The Multiplatform Group
+Oakley Adams,Digital Producer,ChatGPT,3,3,The Multiplatform Group
+Oakley Adams,Digital Producer,Microsoft Copilot,2,1,The Multiplatform Group
+Oakley Adams,Digital Producer,Claude AI,2,0,The Multiplatform Group
+Oakley Adams,Digital Producer,Cursor,3,0,The Multiplatform Group
+Eden Hernandez,Platform Manager,Runway ML,2,2,The Multiplatform Group
+Eden Hernandez,Platform Manager,Google Gemini,4,2,The Multiplatform Group
+Eden Hernandez,Platform Manager,Adobe Firefly,4,1,The Multiplatform Group
+Eden Hernandez,Platform Manager,ChatGPT,5,1,The Multiplatform Group
+Eden Hernandez,Platform Manager,Microsoft Copilot,3,0,The Multiplatform Group
+Eden Hernandez,Platform Manager,Claude AI,3,0,The Multiplatform Group
+Eden Hernandez,Platform Manager,Cursor,2,0,The Multiplatform Group
+River Smith,Social Media Specialist,Runway ML,3,1,The Multiplatform Group
+River Smith,Social Media Specialist,Google Gemini,4,2,The Multiplatform Group
+River Smith,Social Media Specialist,Adobe Firefly,3,2,The Multiplatform Group
+River Smith,Social Media Specialist,ChatGPT,2,0,The Multiplatform Group
+River Smith,Social Media Specialist,Microsoft Copilot,0,0,The Multiplatform Group
+River Smith,Social Media Specialist,Claude AI,4,1,The Multiplatform Group
+River Smith,Social Media Specialist,Cursor,1,0,The Multiplatform Group
+River Thomas,Content Coordinator,Runway ML,2,0,The Multiplatform Group
+River Thomas,Content Coordinator,Google Gemini,4,2,The Multiplatform Group
+River Thomas,Content Coordinator,Adobe Firefly,2,0,The Multiplatform Group
+River Thomas,Content Coordinator,ChatGPT,5,4,The Multiplatform Group
+River Thomas,Content Coordinator,Microsoft Copilot,1,1,The Multiplatform Group
+River Thomas,Content Coordinator,Claude AI,2,0,The Multiplatform Group
+River Thomas,Content Coordinator,Cursor,1,0,The Multiplatform Group
+Arden Hill,Multi-platform Editor,Runway ML,3,2,The Multiplatform Group
+Arden Hill,Multi-platform Editor,Google Gemini,4,1,The Multiplatform Group
+Arden Hill,Multi-platform Editor,Adobe Firefly,3,0,The Multiplatform Group
+Arden Hill,Multi-platform Editor,ChatGPT,4,4,The Multiplatform Group
+Arden Hill,Multi-platform Editor,Microsoft Copilot,2,0,The Multiplatform Group
+Arden Hill,Multi-platform Editor,Claude AI,2,0,The Multiplatform Group
+Arden Hill,Multi-platform Editor,Cursor,3,1,The Multiplatform Group
+Emerson Hall,Platform Manager,Runway ML,1,0,The Multiplatform Group
+Emerson Hall,Platform Manager,Google Gemini,4,2,The Multiplatform Group
+Emerson Hall,Platform Manager,Adobe Firefly,2,1,The Multiplatform Group
+Emerson Hall,Platform Manager,ChatGPT,3,1,The Multiplatform Group
+Emerson Hall,Platform Manager,Microsoft Copilot,2,0,The Multiplatform Group
+Emerson Hall,Platform Manager,Claude AI,2,0,The Multiplatform Group
+Emerson Hall,Platform Manager,Cursor,3,0,The Multiplatform Group
+Parker Robinson,Digital Producer,Runway ML,2,0,The Multiplatform Group
+Parker Robinson,Digital Producer,Google Gemini,2,2,The Multiplatform Group
+Parker Robinson,Digital Producer,Adobe Firefly,4,1,The Multiplatform Group
+Parker Robinson,Digital Producer,ChatGPT,2,0,The Multiplatform Group
+Parker Robinson,Digital Producer,Microsoft Copilot,3,1,The Multiplatform Group
+Parker Robinson,Digital Producer,Claude AI,3,1,The Multiplatform Group
+Parker Robinson,Digital Producer,Cursor,3,0,The Multiplatform Group
+Phoenix Jackson,Audience Developer,Runway ML,1,0,The Multiplatform Group
+Phoenix Jackson,Audience Developer,Google Gemini,4,2,The Multiplatform Group
+Phoenix Jackson,Audience Developer,Adobe Firefly,4,2,The Multiplatform Group
+Phoenix Jackson,Audience Developer,ChatGPT,5,3,The Multiplatform Group
+Phoenix Jackson,Audience Developer,Microsoft Copilot,1,0,The Multiplatform Group
+Phoenix Jackson,Audience Developer,Claude AI,3,2,The Multiplatform Group
+Phoenix Jackson,Audience Developer,Cursor,3,0,The Multiplatform Group
+Nico Lopez,Content Coordinator,Runway ML,3,0,The Multiplatform Group
+Nico Lopez,Content Coordinator,Google Gemini,4,1,The Multiplatform Group
+Nico Lopez,Content Coordinator,Adobe Firefly,4,2,The Multiplatform Group
+Nico Lopez,Content Coordinator,ChatGPT,5,4,The Multiplatform Group
+Nico Lopez,Content Coordinator,Microsoft Copilot,0,0,The Multiplatform Group
+Nico Lopez,Content Coordinator,Claude AI,1,0,The Multiplatform Group
+Nico Lopez,Content Coordinator,Cursor,1,1,The Multiplatform Group
+Sam Turner,Content Strategist,Runway ML,3,1,The Multiplatform Group
+Sam Turner,Content Strategist,Google Gemini,4,0,The Multiplatform Group
+Sam Turner,Content Strategist,Adobe Firefly,3,0,The Multiplatform Group
+Sam Turner,Content Strategist,ChatGPT,5,4,The Multiplatform Group
+Sam Turner,Content Strategist,Microsoft Copilot,3,1,The Multiplatform Group
+Sam Turner,Content Strategist,Claude AI,4,1,The Multiplatform Group
+Sam Turner,Content Strategist,Cursor,1,1,The Multiplatform Group
+Arden Baker,Content Coordinator,Runway ML,1,0,The Multiplatform Group
+Arden Baker,Content Coordinator,Google Gemini,2,2,The Multiplatform Group
+Arden Baker,Content Coordinator,Adobe Firefly,3,0,The Multiplatform Group
+Arden Baker,Content Coordinator,ChatGPT,5,4,The Multiplatform Group
+Arden Baker,Content Coordinator,Microsoft Copilot,1,1,The Multiplatform Group
+Arden Baker,Content Coordinator,Claude AI,0,0,The Multiplatform Group
+Arden Baker,Content Coordinator,Cursor,3,0,The Multiplatform Group
+Madison Moore,Multi-platform Editor,Runway ML,1,0,The Multiplatform Group
+Madison Moore,Multi-platform Editor,Google Gemini,3,0,The Multiplatform Group
+Madison Moore,Multi-platform Editor,Adobe Firefly,1,0,The Multiplatform Group
+Madison Moore,Multi-platform Editor,ChatGPT,5,1,The Multiplatform Group
+Madison Moore,Multi-platform Editor,Microsoft Copilot,3,1,The Multiplatform Group
+Madison Moore,Multi-platform Editor,Claude AI,4,2,The Multiplatform Group
+Madison Moore,Multi-platform Editor,Cursor,3,1,The Multiplatform Group
+Cameron King,Platform Manager,Runway ML,3,0,The Multiplatform Group
+Cameron King,Platform Manager,Google Gemini,0,0,The Multiplatform Group
+Cameron King,Platform Manager,Adobe Firefly,2,2,The Multiplatform Group
+Cameron King,Platform Manager,ChatGPT,4,4,The Multiplatform Group
+Cameron King,Platform Manager,Microsoft Copilot,1,0,The Multiplatform Group
+Cameron King,Platform Manager,Claude AI,3,0,The Multiplatform Group
+Cameron King,Platform Manager,Cursor,3,0,The Multiplatform Group
+Palmer Lee,Distribution Manager,Runway ML,1,1,The Multiplatform Group
+Palmer Lee,Distribution Manager,Google Gemini,2,0,The Multiplatform Group
+Palmer Lee,Distribution Manager,Adobe Firefly,3,2,The Multiplatform Group
+Palmer Lee,Distribution Manager,ChatGPT,4,3,The Multiplatform Group
+Palmer Lee,Distribution Manager,Microsoft Copilot,2,0,The Multiplatform Group
+Palmer Lee,Distribution Manager,Claude AI,4,0,The Multiplatform Group
+Palmer Lee,Distribution Manager,Cursor,1,0,The Multiplatform Group
+Madison Turner,Platform Manager,Runway ML,1,2,The Multiplatform Group
+Madison Turner,Platform Manager,Google Gemini,4,1,The Multiplatform Group
+Madison Turner,Platform Manager,Adobe Firefly,2,2,The Multiplatform Group
+Madison Turner,Platform Manager,ChatGPT,0,0,The Multiplatform Group
+Madison Turner,Platform Manager,Microsoft Copilot,1,0,The Multiplatform Group
+Madison Turner,Platform Manager,Claude AI,4,0,The Multiplatform Group
+Madison Turner,Platform Manager,Cursor,1,1,The Multiplatform Group
+Parker Green,Distribution Manager,Runway ML,2,0,The Multiplatform Group
+Parker Green,Distribution Manager,Google Gemini,2,0,The Multiplatform Group
+Parker Green,Distribution Manager,Adobe Firefly,4,0,The Multiplatform Group
+Parker Green,Distribution Manager,ChatGPT,2,0,The Multiplatform Group
+Parker Green,Distribution Manager,Microsoft Copilot,1,1,The Multiplatform Group
+Parker Green,Distribution Manager,Claude AI,1,0,The Multiplatform Group
+Parker Green,Distribution Manager,Cursor,2,1,The Multiplatform Group
+Jordan Walker,Digital Producer,Runway ML,1,0,The Multiplatform Group
+Jordan Walker,Digital Producer,Google Gemini,4,1,The Multiplatform Group
+Jordan Walker,Digital Producer,Adobe Firefly,2,1,The Multiplatform Group
+Jordan Walker,Digital Producer,ChatGPT,5,4,The Multiplatform Group
+Jordan Walker,Digital Producer,Microsoft Copilot,0,0,The Multiplatform Group
+Jordan Walker,Digital Producer,Claude AI,4,2,The Multiplatform Group
+Jordan Walker,Digital Producer,Cursor,3,0,The Multiplatform Group
+Tatum Mitchell,Content Coordinator,Runway ML,1,1,The Multiplatform Group
+Tatum Mitchell,Content Coordinator,Google Gemini,0,0,The Multiplatform Group
+Tatum Mitchell,Content Coordinator,Adobe Firefly,0,0,The Multiplatform Group
+Tatum Mitchell,Content Coordinator,ChatGPT,5,3,The Multiplatform Group
+Tatum Mitchell,Content Coordinator,Microsoft Copilot,3,1,The Multiplatform Group
+Tatum Mitchell,Content Coordinator,Claude AI,2,1,The Multiplatform Group
+Tatum Mitchell,Content Coordinator,Cursor,2,0,The Multiplatform Group
+Devon Perez,Content Coordinator,Runway ML,1,2,The Multiplatform Group
+Devon Perez,Content Coordinator,Google Gemini,2,1,The Multiplatform Group
+Devon Perez,Content Coordinator,Adobe Firefly,2,1,The Multiplatform Group
+Devon Perez,Content Coordinator,ChatGPT,4,4,The Multiplatform Group
+Devon Perez,Content Coordinator,Microsoft Copilot,2,1,The Multiplatform Group
+Devon Perez,Content Coordinator,Claude AI,2,0,The Multiplatform Group
+Devon Perez,Content Coordinator,Cursor,1,1,The Multiplatform Group
+Emerson Rodriguez,Content Coordinator,Runway ML,2,1,The Multiplatform Group
+Emerson Rodriguez,Content Coordinator,Google Gemini,3,1,The Multiplatform Group
+Emerson Rodriguez,Content Coordinator,Adobe Firefly,2,2,The Multiplatform Group
+Emerson Rodriguez,Content Coordinator,ChatGPT,2,0,The Multiplatform Group
+Emerson Rodriguez,Content Coordinator,Microsoft Copilot,3,0,The Multiplatform Group
+Emerson Rodriguez,Content Coordinator,Claude AI,2,2,The Multiplatform Group
+Emerson Rodriguez,Content Coordinator,Cursor,3,1,The Multiplatform Group
+Skyler Williams,Multi-platform Editor,Runway ML,3,2,The Multiplatform Group
+Skyler Williams,Multi-platform Editor,Google Gemini,2,1,The Multiplatform Group
+Skyler Williams,Multi-platform Editor,Adobe Firefly,4,2,The Multiplatform Group
+Skyler Williams,Multi-platform Editor,ChatGPT,3,3,The Multiplatform Group
+Skyler Williams,Multi-platform Editor,Microsoft Copilot,3,0,The Multiplatform Group
+Skyler Williams,Multi-platform Editor,Claude AI,2,0,The Multiplatform Group
+Skyler Williams,Multi-platform Editor,Cursor,2,0,The Multiplatform Group
+Indigo Nelson,Digital Producer,Runway ML,3,2,The Multiplatform Group
+Indigo Nelson,Digital Producer,Google Gemini,3,0,The Multiplatform Group
+Indigo Nelson,Digital Producer,Adobe Firefly,1,0,The Multiplatform Group
+Indigo Nelson,Digital Producer,ChatGPT,3,3,The Multiplatform Group
+Indigo Nelson,Digital Producer,Microsoft Copilot,2,0,The Multiplatform Group
+Indigo Nelson,Digital Producer,Claude AI,3,0,The Multiplatform Group
+Indigo Nelson,Digital Producer,Cursor,3,1,The Multiplatform Group
+Finley Nguyen,Digital Producer,Runway ML,2,2,The Multiplatform Group
+Finley Nguyen,Digital Producer,Google Gemini,4,2,The Multiplatform Group
+Finley Nguyen,Digital Producer,Adobe Firefly,2,2,The Multiplatform Group
+Finley Nguyen,Digital Producer,ChatGPT,3,4,The Multiplatform Group
+Finley Nguyen,Digital Producer,Microsoft Copilot,2,0,The Multiplatform Group
+Finley Nguyen,Digital Producer,Claude AI,0,0,The Multiplatform Group
+Finley Nguyen,Digital Producer,Cursor,3,1,The Multiplatform Group
+Cameron Hernandez,Content Coordinator,Runway ML,3,2,The Multiplatform Group
+Cameron Hernandez,Content Coordinator,Google Gemini,4,0,The Multiplatform Group
+Cameron Hernandez,Content Coordinator,Adobe Firefly,2,0,The Multiplatform Group
+Cameron Hernandez,Content Coordinator,ChatGPT,4,3,The Multiplatform Group
+Cameron Hernandez,Content Coordinator,Microsoft Copilot,2,0,The Multiplatform Group
+Cameron Hernandez,Content Coordinator,Claude AI,2,2,The Multiplatform Group
+Cameron Hernandez,Content Coordinator,Cursor,1,0,The Multiplatform Group
+Sam Brown,Digital Producer,Runway ML,2,0,The Multiplatform Group
+Sam Brown,Digital Producer,Google Gemini,3,2,The Multiplatform Group
+Sam Brown,Digital Producer,Adobe Firefly,4,0,The Multiplatform Group
+Sam Brown,Digital Producer,ChatGPT,5,3,The Multiplatform Group
+Sam Brown,Digital Producer,Microsoft Copilot,1,1,The Multiplatform Group
+Sam Brown,Digital Producer,Claude AI,1,0,The Multiplatform Group
+Sam Brown,Digital Producer,Cursor,3,0,The Multiplatform Group
+Charlie Roberts,Digital Producer,Runway ML,3,2,The Multiplatform Group
+Charlie Roberts,Digital Producer,Google Gemini,2,2,The Multiplatform Group
+Charlie Roberts,Digital Producer,Adobe Firefly,3,2,The Multiplatform Group
+Charlie Roberts,Digital Producer,ChatGPT,2,0,The Multiplatform Group
+Charlie Roberts,Digital Producer,Microsoft Copilot,3,1,The Multiplatform Group
+Charlie Roberts,Digital Producer,Claude AI,2,0,The Multiplatform Group
+Charlie Roberts,Digital Producer,Cursor,3,0,The Multiplatform Group
+Gray Allen,Platform Manager,Runway ML,1,1,The Multiplatform Group
+Gray Allen,Platform Manager,Google Gemini,4,2,The Multiplatform Group
+Gray Allen,Platform Manager,Adobe Firefly,4,2,The Multiplatform Group
+Gray Allen,Platform Manager,ChatGPT,4,2,The Multiplatform Group
+Gray Allen,Platform Manager,Microsoft Copilot,2,0,The Multiplatform Group
+Gray Allen,Platform Manager,Claude AI,3,1,The Multiplatform Group
+Gray Allen,Platform Manager,Cursor,3,0,The Multiplatform Group
+Finley Walker,Social Media Specialist,Runway ML,1,1,The Multiplatform Group
+Finley Walker,Social Media Specialist,Google Gemini,4,1,The Multiplatform Group
+Finley Walker,Social Media Specialist,Adobe Firefly,2,2,The Multiplatform Group
+Finley Walker,Social Media Specialist,ChatGPT,3,4,The Multiplatform Group
+Finley Walker,Social Media Specialist,Microsoft Copilot,1,1,The Multiplatform Group
+Finley Walker,Social Media Specialist,Claude AI,2,0,The Multiplatform Group
+Finley Walker,Social Media Specialist,Cursor,3,1,The Multiplatform Group
+Gray Ramirez,Content Coordinator,Runway ML,3,1,The Multiplatform Group
+Gray Ramirez,Content Coordinator,Google Gemini,3,0,The Multiplatform Group
+Gray Ramirez,Content Coordinator,Adobe Firefly,2,0,The Multiplatform Group
+Gray Ramirez,Content Coordinator,ChatGPT,5,4,The Multiplatform Group
+Gray Ramirez,Content Coordinator,Microsoft Copilot,3,1,The Multiplatform Group
+Gray Ramirez,Content Coordinator,Claude AI,4,0,The Multiplatform Group
+Gray Ramirez,Content Coordinator,Cursor,2,0,The Multiplatform Group
+Kendall Gomez,Content Coordinator,Runway ML,3,2,The Multiplatform Group
+Kendall Gomez,Content Coordinator,Google Gemini,2,0,The Multiplatform Group
+Kendall Gomez,Content Coordinator,Adobe Firefly,2,0,The Multiplatform Group
+Kendall Gomez,Content Coordinator,ChatGPT,4,4,The Multiplatform Group
+Kendall Gomez,Content Coordinator,Microsoft Copilot,2,0,The Multiplatform Group
+Kendall Gomez,Content Coordinator,Claude AI,4,1,The Multiplatform Group
+Kendall Gomez,Content Coordinator,Cursor,2,1,The Multiplatform Group
+Kirby Brown,Digital Producer,Runway ML,3,1,The Multiplatform Group
+Kirby Brown,Digital Producer,Google Gemini,2,2,The Multiplatform Group
+Kirby Brown,Digital Producer,Adobe Firefly,2,0,The Multiplatform Group
+Kirby Brown,Digital Producer,ChatGPT,5,4,The Multiplatform Group
+Kirby Brown,Digital Producer,Microsoft Copilot,2,0,The Multiplatform Group
+Kirby Brown,Digital Producer,Claude AI,2,0,The Multiplatform Group
+Kirby Brown,Digital Producer,Cursor,2,1,The Multiplatform Group
+Kendall Nguyen,Social Media Specialist,Runway ML,3,0,The Multiplatform Group
+Kendall Nguyen,Social Media Specialist,Google Gemini,2,0,The Multiplatform Group
+Kendall Nguyen,Social Media Specialist,Adobe Firefly,4,2,The Multiplatform Group
+Kendall Nguyen,Social Media Specialist,ChatGPT,4,2,The Multiplatform Group
+Kendall Nguyen,Social Media Specialist,Microsoft Copilot,3,0,The Multiplatform Group
+Kendall Nguyen,Social Media Specialist,Claude AI,0,0,The Multiplatform Group
+Kendall Nguyen,Social Media Specialist,Cursor,2,0,The Multiplatform Group
+Elliott Jackson,Content Coordinator,Runway ML,1,2,The Multiplatform Group
+Elliott Jackson,Content Coordinator,Google Gemini,4,2,The Multiplatform Group
+Elliott Jackson,Content Coordinator,Adobe Firefly,3,1,The Multiplatform Group
+Elliott Jackson,Content Coordinator,ChatGPT,3,2,The Multiplatform Group
+Elliott Jackson,Content Coordinator,Microsoft Copilot,2,0,The Multiplatform Group
+Elliott Jackson,Content Coordinator,Claude AI,3,0,The Multiplatform Group
+Elliott Jackson,Content Coordinator,Cursor,1,0,The Multiplatform Group
+Logan Thompson,Content Strategist,Runway ML,3,1,The Multiplatform Group
+Logan Thompson,Content Strategist,Google Gemini,2,1,The Multiplatform Group
+Logan Thompson,Content Strategist,Adobe Firefly,3,0,The Multiplatform Group
+Logan Thompson,Content Strategist,ChatGPT,3,3,The Multiplatform Group
+Logan Thompson,Content Strategist,Microsoft Copilot,2,0,The Multiplatform Group
+Logan Thompson,Content Strategist,Claude AI,4,0,The Multiplatform Group
+Logan Thompson,Content Strategist,Cursor,1,0,The Multiplatform Group
+Finch Taylor,Social Media Specialist,Runway ML,1,0,The Multiplatform Group
+Finch Taylor,Social Media Specialist,Google Gemini,0,0,The Multiplatform Group
+Finch Taylor,Social Media Specialist,Adobe Firefly,2,0,The Multiplatform Group
+Finch Taylor,Social Media Specialist,ChatGPT,5,3,The Multiplatform Group
+Finch Taylor,Social Media Specialist,Microsoft Copilot,2,1,The Multiplatform Group
+Finch Taylor,Social Media Specialist,Claude AI,4,1,The Multiplatform Group
+Finch Taylor,Social Media Specialist,Cursor,3,1,The Multiplatform Group
+Valencia Torres,Digital Producer,Runway ML,1,2,The Multiplatform Group
+Valencia Torres,Digital Producer,Google Gemini,1,0,The Multiplatform Group
+Valencia Torres,Digital Producer,Adobe Firefly,3,2,The Multiplatform Group
+Valencia Torres,Digital Producer,ChatGPT,4,3,The Multiplatform Group
+Valencia Torres,Digital Producer,Microsoft Copilot,1,0,The Multiplatform Group
+Valencia Torres,Digital Producer,Claude AI,1,0,The Multiplatform Group
+Valencia Torres,Digital Producer,Cursor,1,0,The Multiplatform Group
+Harper Moore,Audience Developer,Runway ML,3,1,The Multiplatform Group
+Harper Moore,Audience Developer,Google Gemini,3,1,The Multiplatform Group
+Harper Moore,Audience Developer,Adobe Firefly,4,1,The Multiplatform Group
+Harper Moore,Audience Developer,ChatGPT,4,3,The Multiplatform Group
+Harper Moore,Audience Developer,Microsoft Copilot,3,0,The Multiplatform Group
+Harper Moore,Audience Developer,Claude AI,4,1,The Multiplatform Group
+Harper Moore,Audience Developer,Cursor,3,1,The Multiplatform Group
+Peyton Martinez,Digital Producer,Runway ML,1,0,The Multiplatform Group
+Peyton Martinez,Digital Producer,Google Gemini,2,2,The Multiplatform Group
+Peyton Martinez,Digital Producer,Adobe Firefly,4,1,The Multiplatform Group
+Peyton Martinez,Digital Producer,ChatGPT,4,3,The Multiplatform Group
+Peyton Martinez,Digital Producer,Microsoft Copilot,1,0,The Multiplatform Group
+Peyton Martinez,Digital Producer,Claude AI,2,0,The Multiplatform Group
+Peyton Martinez,Digital Producer,Cursor,2,1,The Multiplatform Group
+Hollis Scott,Multi-platform Editor,Runway ML,2,0,The Multiplatform Group
+Hollis Scott,Multi-platform Editor,Google Gemini,3,2,The Multiplatform Group
+Hollis Scott,Multi-platform Editor,Adobe Firefly,2,2,The Multiplatform Group
+Hollis Scott,Multi-platform Editor,ChatGPT,5,4,The Multiplatform Group
+Hollis Scott,Multi-platform Editor,Microsoft Copilot,3,1,The Multiplatform Group
+Hollis Scott,Multi-platform Editor,Claude AI,3,0,The Multiplatform Group
+Hollis Scott,Multi-platform Editor,Cursor,2,1,The Multiplatform Group
+Sam Parker,Digital Producer,Runway ML,3,1,The Multiplatform Group
+Sam Parker,Digital Producer,Google Gemini,4,2,The Multiplatform Group
+Sam Parker,Digital Producer,Adobe Firefly,0,0,The Multiplatform Group
+Sam Parker,Digital Producer,ChatGPT,4,4,The Multiplatform Group
+Sam Parker,Digital Producer,Microsoft Copilot,2,1,The Multiplatform Group
+Sam Parker,Digital Producer,Claude AI,3,2,The Multiplatform Group
+Sam Parker,Digital Producer,Cursor,0,0,The Multiplatform Group
+Jamie Campbell,Social Media Specialist,Runway ML,3,1,The Multiplatform Group
+Jamie Campbell,Social Media Specialist,Google Gemini,0,0,The Multiplatform Group
+Jamie Campbell,Social Media Specialist,Adobe Firefly,1,0,The Multiplatform Group
+Jamie Campbell,Social Media Specialist,ChatGPT,5,3,The Multiplatform Group
+Jamie Campbell,Social Media Specialist,Microsoft Copilot,1,0,The Multiplatform Group
+Jamie Campbell,Social Media Specialist,Claude AI,2,0,The Multiplatform Group
+Jamie Campbell,Social Media Specialist,Cursor,2,1,The Multiplatform Group
+Tatum Jackson,Audience Developer,Runway ML,0,0,The Multiplatform Group
+Tatum Jackson,Audience Developer,Google Gemini,2,0,The Multiplatform Group
+Tatum Jackson,Audience Developer,Adobe Firefly,3,1,The Multiplatform Group
+Tatum Jackson,Audience Developer,ChatGPT,5,3,The Multiplatform Group
+Tatum Jackson,Audience Developer,Microsoft Copilot,3,0,The Multiplatform Group
+Tatum Jackson,Audience Developer,Claude AI,3,2,The Multiplatform Group
+Tatum Jackson,Audience Developer,Cursor,3,1,The Multiplatform Group
+Marley Wright,Multi-platform Editor,Runway ML,2,1,The Multiplatform Group
+Marley Wright,Multi-platform Editor,Google Gemini,2,1,The Multiplatform Group
+Marley Wright,Multi-platform Editor,Adobe Firefly,0,0,The Multiplatform Group
+Marley Wright,Multi-platform Editor,ChatGPT,3,3,The Multiplatform Group
+Marley Wright,Multi-platform Editor,Microsoft Copilot,2,1,The Multiplatform Group
+Marley Wright,Multi-platform Editor,Claude AI,2,2,The Multiplatform Group
+Marley Wright,Multi-platform Editor,Cursor,1,0,The Multiplatform Group

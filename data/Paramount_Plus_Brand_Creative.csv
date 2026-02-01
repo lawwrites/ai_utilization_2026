@@ -1,0 +1,281 @@
+User Name,Role,Product,User Satisfaction (0-5),Weekly Usage (0-7),Team
+Dakota Ramirez,Brand Designer,Runway ML,5,3,Paramount Plus Brand Creative
+Dakota Ramirez,Brand Designer,Google Gemini,5,3,Paramount Plus Brand Creative
+Dakota Ramirez,Brand Designer,Adobe Firefly,4,5,Paramount Plus Brand Creative
+Dakota Ramirez,Brand Designer,ChatGPT,3,4,Paramount Plus Brand Creative
+Dakota Ramirez,Brand Designer,Microsoft Copilot,2,0,Paramount Plus Brand Creative
+Dakota Ramirez,Brand Designer,Claude AI,3,1,Paramount Plus Brand Creative
+Dakota Ramirez,Brand Designer,Cursor,2,0,Paramount Plus Brand Creative
+Sawyer Nelson,Campaign Manager,Runway ML,3,4,Paramount Plus Brand Creative
+Sawyer Nelson,Campaign Manager,Google Gemini,2,0,Paramount Plus Brand Creative
+Sawyer Nelson,Campaign Manager,Adobe Firefly,2,0,Paramount Plus Brand Creative
+Sawyer Nelson,Campaign Manager,ChatGPT,4,4,Paramount Plus Brand Creative
+Sawyer Nelson,Campaign Manager,Microsoft Copilot,0,0,Paramount Plus Brand Creative
+Sawyer Nelson,Campaign Manager,Claude AI,2,0,Paramount Plus Brand Creative
+Sawyer Nelson,Campaign Manager,Cursor,2,1,Paramount Plus Brand Creative
+Charlie Wright,Video Producer,Runway ML,4,2,Paramount Plus Brand Creative
+Charlie Wright,Video Producer,Google Gemini,4,4,Paramount Plus Brand Creative
+Charlie Wright,Video Producer,Adobe Firefly,4,5,Paramount Plus Brand Creative
+Charlie Wright,Video Producer,ChatGPT,3,4,Paramount Plus Brand Creative
+Charlie Wright,Video Producer,Microsoft Copilot,2,1,Paramount Plus Brand Creative
+Charlie Wright,Video Producer,Claude AI,3,2,Paramount Plus Brand Creative
+Charlie Wright,Video Producer,Cursor,3,1,Paramount Plus Brand Creative
+Sawyer Ramirez,Art Director,Runway ML,4,4,Paramount Plus Brand Creative
+Sawyer Ramirez,Art Director,Google Gemini,4,5,Paramount Plus Brand Creative
+Sawyer Ramirez,Art Director,Adobe Firefly,4,3,Paramount Plus Brand Creative
+Sawyer Ramirez,Art Director,ChatGPT,1,0,Paramount Plus Brand Creative
+Sawyer Ramirez,Art Director,Microsoft Copilot,1,0,Paramount Plus Brand Creative
+Sawyer Ramirez,Art Director,Claude AI,4,1,Paramount Plus Brand Creative
+Sawyer Ramirez,Art Director,Cursor,1,0,Paramount Plus Brand Creative
+Kendall White,Animator,Runway ML,0,0,Paramount Plus Brand Creative
+Kendall White,Animator,Google Gemini,4,5,Paramount Plus Brand Creative
+Kendall White,Animator,Adobe Firefly,0,0,Paramount Plus Brand Creative
+Kendall White,Animator,ChatGPT,5,3,Paramount Plus Brand Creative
+Kendall White,Animator,Microsoft Copilot,3,1,Paramount Plus Brand Creative
+Kendall White,Animator,Claude AI,3,1,Paramount Plus Brand Creative
+Kendall White,Animator,Cursor,3,0,Paramount Plus Brand Creative
+Kendall Lee,Campaign Manager,Runway ML,4,2,Paramount Plus Brand Creative
+Kendall Lee,Campaign Manager,Google Gemini,2,0,Paramount Plus Brand Creative
+Kendall Lee,Campaign Manager,Adobe Firefly,1,0,Paramount Plus Brand Creative
+Kendall Lee,Campaign Manager,ChatGPT,5,4,Paramount Plus Brand Creative
+Kendall Lee,Campaign Manager,Microsoft Copilot,0,0,Paramount Plus Brand Creative
+Kendall Lee,Campaign Manager,Claude AI,3,0,Paramount Plus Brand Creative
+Kendall Lee,Campaign Manager,Cursor,2,0,Paramount Plus Brand Creative
+Eden Lee,Campaign Manager,Runway ML,2,0,Paramount Plus Brand Creative
+Eden Lee,Campaign Manager,Google Gemini,5,4,Paramount Plus Brand Creative
+Eden Lee,Campaign Manager,Adobe Firefly,4,4,Paramount Plus Brand Creative
+Eden Lee,Campaign Manager,ChatGPT,3,1,Paramount Plus Brand Creative
+Eden Lee,Campaign Manager,Microsoft Copilot,2,0,Paramount Plus Brand Creative
+Eden Lee,Campaign Manager,Claude AI,4,1,Paramount Plus Brand Creative
+Eden Lee,Campaign Manager,Cursor,3,0,Paramount Plus Brand Creative
+Riley Jones,Visual Designer,Runway ML,4,4,Paramount Plus Brand Creative
+Riley Jones,Visual Designer,Google Gemini,5,4,Paramount Plus Brand Creative
+Riley Jones,Visual Designer,Adobe Firefly,4,3,Paramount Plus Brand Creative
+Riley Jones,Visual Designer,ChatGPT,2,0,Paramount Plus Brand Creative
+Riley Jones,Visual Designer,Microsoft Copilot,3,0,Paramount Plus Brand Creative
+Riley Jones,Visual Designer,Claude AI,2,1,Paramount Plus Brand Creative
+Riley Jones,Visual Designer,Cursor,1,0,Paramount Plus Brand Creative
+Sage Hernandez,Motion Graphics Designer,Runway ML,4,4,Paramount Plus Brand Creative
+Sage Hernandez,Motion Graphics Designer,Google Gemini,5,3,Paramount Plus Brand Creative
+Sage Hernandez,Motion Graphics Designer,Adobe Firefly,5,3,Paramount Plus Brand Creative
+Sage Hernandez,Motion Graphics Designer,ChatGPT,5,4,Paramount Plus Brand Creative
+Sage Hernandez,Motion Graphics Designer,Microsoft Copilot,2,0,Paramount Plus Brand Creative
+Sage Hernandez,Motion Graphics Designer,Claude AI,4,2,Paramount Plus Brand Creative
+Sage Hernandez,Motion Graphics Designer,Cursor,3,0,Paramount Plus Brand Creative
+Jordan Garcia,Brand Designer,Runway ML,5,4,Paramount Plus Brand Creative
+Jordan Garcia,Brand Designer,Google Gemini,4,5,Paramount Plus Brand Creative
+Jordan Garcia,Brand Designer,Adobe Firefly,4,4,Paramount Plus Brand Creative
+Jordan Garcia,Brand Designer,ChatGPT,5,4,Paramount Plus Brand Creative
+Jordan Garcia,Brand Designer,Microsoft Copilot,3,1,Paramount Plus Brand Creative
+Jordan Garcia,Brand Designer,Claude AI,1,0,Paramount Plus Brand Creative
+Jordan Garcia,Brand Designer,Cursor,2,1,Paramount Plus Brand Creative
+Phoenix Hill,Motion Graphics Designer,Runway ML,4,4,Paramount Plus Brand Creative
+Phoenix Hill,Motion Graphics Designer,Google Gemini,1,0,Paramount Plus Brand Creative
+Phoenix Hill,Motion Graphics Designer,Adobe Firefly,4,4,Paramount Plus Brand Creative
+Phoenix Hill,Motion Graphics Designer,ChatGPT,1,0,Paramount Plus Brand Creative
+Phoenix Hill,Motion Graphics Designer,Microsoft Copilot,2,1,Paramount Plus Brand Creative
+Phoenix Hill,Motion Graphics Designer,Claude AI,2,1,Paramount Plus Brand Creative
+Phoenix Hill,Motion Graphics Designer,Cursor,0,0,Paramount Plus Brand Creative
+Devon Allen,Video Producer,Runway ML,4,3,Paramount Plus Brand Creative
+Devon Allen,Video Producer,Google Gemini,4,4,Paramount Plus Brand Creative
+Devon Allen,Video Producer,Adobe Firefly,4,3,Paramount Plus Brand Creative
+Devon Allen,Video Producer,ChatGPT,3,3,Paramount Plus Brand Creative
+Devon Allen,Video Producer,Microsoft Copilot,1,0,Paramount Plus Brand Creative
+Devon Allen,Video Producer,Claude AI,3,2,Paramount Plus Brand Creative
+Devon Allen,Video Producer,Cursor,0,0,Paramount Plus Brand Creative
+Indigo Scott,Creative Strategist,Runway ML,4,4,Paramount Plus Brand Creative
+Indigo Scott,Creative Strategist,Google Gemini,5,5,Paramount Plus Brand Creative
+Indigo Scott,Creative Strategist,Adobe Firefly,5,5,Paramount Plus Brand Creative
+Indigo Scott,Creative Strategist,ChatGPT,3,1,Paramount Plus Brand Creative
+Indigo Scott,Creative Strategist,Microsoft Copilot,2,1,Paramount Plus Brand Creative
+Indigo Scott,Creative Strategist,Claude AI,2,2,Paramount Plus Brand Creative
+Indigo Scott,Creative Strategist,Cursor,0,0,Paramount Plus Brand Creative
+Remy Perez,Video Producer,Runway ML,2,0,Paramount Plus Brand Creative
+Remy Perez,Video Producer,Google Gemini,4,4,Paramount Plus Brand Creative
+Remy Perez,Video Producer,Adobe Firefly,5,3,Paramount Plus Brand Creative
+Remy Perez,Video Producer,ChatGPT,5,3,Paramount Plus Brand Creative
+Remy Perez,Video Producer,Microsoft Copilot,3,1,Paramount Plus Brand Creative
+Remy Perez,Video Producer,Claude AI,3,1,Paramount Plus Brand Creative
+Remy Perez,Video Producer,Cursor,2,1,Paramount Plus Brand Creative
+Logan Nguyen,Visual Designer,Runway ML,5,4,Paramount Plus Brand Creative
+Logan Nguyen,Visual Designer,Google Gemini,5,4,Paramount Plus Brand Creative
+Logan Nguyen,Visual Designer,Adobe Firefly,1,0,Paramount Plus Brand Creative
+Logan Nguyen,Visual Designer,ChatGPT,2,0,Paramount Plus Brand Creative
+Logan Nguyen,Visual Designer,Microsoft Copilot,1,0,Paramount Plus Brand Creative
+Logan Nguyen,Visual Designer,Claude AI,1,0,Paramount Plus Brand Creative
+Logan Nguyen,Visual Designer,Cursor,2,0,Paramount Plus Brand Creative
+Skyler Clark,Animator,Runway ML,5,3,Paramount Plus Brand Creative
+Skyler Clark,Animator,Google Gemini,0,0,Paramount Plus Brand Creative
+Skyler Clark,Animator,Adobe Firefly,5,5,Paramount Plus Brand Creative
+Skyler Clark,Animator,ChatGPT,4,2,Paramount Plus Brand Creative
+Skyler Clark,Animator,Microsoft Copilot,3,1,Paramount Plus Brand Creative
+Skyler Clark,Animator,Claude AI,4,2,Paramount Plus Brand Creative
+Skyler Clark,Animator,Cursor,3,1,Paramount Plus Brand Creative
+Peyton Thomas,Visual Designer,Runway ML,5,3,Paramount Plus Brand Creative
+Peyton Thomas,Visual Designer,Google Gemini,5,4,Paramount Plus Brand Creative
+Peyton Thomas,Visual Designer,Adobe Firefly,5,4,Paramount Plus Brand Creative
+Peyton Thomas,Visual Designer,ChatGPT,5,4,Paramount Plus Brand Creative
+Peyton Thomas,Visual Designer,Microsoft Copilot,3,1,Paramount Plus Brand Creative
+Peyton Thomas,Visual Designer,Claude AI,3,1,Paramount Plus Brand Creative
+Peyton Thomas,Visual Designer,Cursor,2,0,Paramount Plus Brand Creative
+Riley Thompson,Video Producer,Runway ML,5,3,Paramount Plus Brand Creative
+Riley Thompson,Video Producer,Google Gemini,4,3,Paramount Plus Brand Creative
+Riley Thompson,Video Producer,Adobe Firefly,5,5,Paramount Plus Brand Creative
+Riley Thompson,Video Producer,ChatGPT,3,2,Paramount Plus Brand Creative
+Riley Thompson,Video Producer,Microsoft Copilot,3,0,Paramount Plus Brand Creative
+Riley Thompson,Video Producer,Claude AI,2,0,Paramount Plus Brand Creative
+Riley Thompson,Video Producer,Cursor,0,0,Paramount Plus Brand Creative
+Alex Scott,Motion Graphics Designer,Runway ML,4,4,Paramount Plus Brand Creative
+Alex Scott,Motion Graphics Designer,Google Gemini,5,4,Paramount Plus Brand Creative
+Alex Scott,Motion Graphics Designer,Adobe Firefly,5,4,Paramount Plus Brand Creative
+Alex Scott,Motion Graphics Designer,ChatGPT,3,2,Paramount Plus Brand Creative
+Alex Scott,Motion Graphics Designer,Microsoft Copilot,3,0,Paramount Plus Brand Creative
+Alex Scott,Motion Graphics Designer,Claude AI,2,1,Paramount Plus Brand Creative
+Alex Scott,Motion Graphics Designer,Cursor,1,0,Paramount Plus Brand Creative
+Kendall Gomez,Video Producer,Runway ML,3,4,Paramount Plus Brand Creative
+Kendall Gomez,Video Producer,Google Gemini,2,0,Paramount Plus Brand Creative
+Kendall Gomez,Video Producer,Adobe Firefly,4,4,Paramount Plus Brand Creative
+Kendall Gomez,Video Producer,ChatGPT,5,4,Paramount Plus Brand Creative
+Kendall Gomez,Video Producer,Microsoft Copilot,0,0,Paramount Plus Brand Creative
+Kendall Gomez,Video Producer,Claude AI,3,0,Paramount Plus Brand Creative
+Kendall Gomez,Video Producer,Cursor,3,1,Paramount Plus Brand Creative
+Alex Mitchell,UX Designer,Runway ML,4,4,Paramount Plus Brand Creative
+Alex Mitchell,UX Designer,Google Gemini,4,3,Paramount Plus Brand Creative
+Alex Mitchell,UX Designer,Adobe Firefly,5,4,Paramount Plus Brand Creative
+Alex Mitchell,UX Designer,ChatGPT,3,3,Paramount Plus Brand Creative
+Alex Mitchell,UX Designer,Microsoft Copilot,2,1,Paramount Plus Brand Creative
+Alex Mitchell,UX Designer,Claude AI,2,1,Paramount Plus Brand Creative
+Alex Mitchell,UX Designer,Cursor,2,1,Paramount Plus Brand Creative
+Sage Nguyen,Marketing Designer,Runway ML,3,3,Paramount Plus Brand Creative
+Sage Nguyen,Marketing Designer,Google Gemini,4,3,Paramount Plus Brand Creative
+Sage Nguyen,Marketing Designer,Adobe Firefly,2,0,Paramount Plus Brand Creative
+Sage Nguyen,Marketing Designer,ChatGPT,5,3,Paramount Plus Brand Creative
+Sage Nguyen,Marketing Designer,Microsoft Copilot,3,1,Paramount Plus Brand Creative
+Sage Nguyen,Marketing Designer,Claude AI,2,0,Paramount Plus Brand Creative
+Sage Nguyen,Marketing Designer,Cursor,2,0,Paramount Plus Brand Creative
+Kirby White,Copywriter,Runway ML,5,4,Paramount Plus Brand Creative
+Kirby White,Copywriter,Google Gemini,4,3,Paramount Plus Brand Creative
+Kirby White,Copywriter,Adobe Firefly,4,5,Paramount Plus Brand Creative
+Kirby White,Copywriter,ChatGPT,2,0,Paramount Plus Brand Creative
+Kirby White,Copywriter,Microsoft Copilot,3,0,Paramount Plus Brand Creative
+Kirby White,Copywriter,Claude AI,2,0,Paramount Plus Brand Creative
+Kirby White,Copywriter,Cursor,0,0,Paramount Plus Brand Creative
+Remy Nguyen,Video Producer,Runway ML,3,4,Paramount Plus Brand Creative
+Remy Nguyen,Video Producer,Google Gemini,1,0,Paramount Plus Brand Creative
+Remy Nguyen,Video Producer,Adobe Firefly,1,0,Paramount Plus Brand Creative
+Remy Nguyen,Video Producer,ChatGPT,5,2,Paramount Plus Brand Creative
+Remy Nguyen,Video Producer,Microsoft Copilot,1,0,Paramount Plus Brand Creative
+Remy Nguyen,Video Producer,Claude AI,2,1,Paramount Plus Brand Creative
+Remy Nguyen,Video Producer,Cursor,1,0,Paramount Plus Brand Creative
+Casey Walker,Brand Designer,Runway ML,0,0,Paramount Plus Brand Creative
+Casey Walker,Brand Designer,Google Gemini,5,4,Paramount Plus Brand Creative
+Casey Walker,Brand Designer,Adobe Firefly,5,4,Paramount Plus Brand Creative
+Casey Walker,Brand Designer,ChatGPT,4,3,Paramount Plus Brand Creative
+Casey Walker,Brand Designer,Microsoft Copilot,2,0,Paramount Plus Brand Creative
+Casey Walker,Brand Designer,Claude AI,0,0,Paramount Plus Brand Creative
+Casey Walker,Brand Designer,Cursor,1,0,Paramount Plus Brand Creative
+Ryan Baker,Animator,Runway ML,4,4,Paramount Plus Brand Creative
+Ryan Baker,Animator,Google Gemini,4,3,Paramount Plus Brand Creative
+Ryan Baker,Animator,Adobe Firefly,2,0,Paramount Plus Brand Creative
+Ryan Baker,Animator,ChatGPT,3,1,Paramount Plus Brand Creative
+Ryan Baker,Animator,Microsoft Copilot,1,0,Paramount Plus Brand Creative
+Ryan Baker,Animator,Claude AI,2,0,Paramount Plus Brand Creative
+Ryan Baker,Animator,Cursor,3,0,Paramount Plus Brand Creative
+Taylor Sanchez,Video Producer,Runway ML,3,4,Paramount Plus Brand Creative
+Taylor Sanchez,Video Producer,Google Gemini,4,3,Paramount Plus Brand Creative
+Taylor Sanchez,Video Producer,Adobe Firefly,5,3,Paramount Plus Brand Creative
+Taylor Sanchez,Video Producer,ChatGPT,5,4,Paramount Plus Brand Creative
+Taylor Sanchez,Video Producer,Microsoft Copilot,1,0,Paramount Plus Brand Creative
+Taylor Sanchez,Video Producer,Claude AI,3,0,Paramount Plus Brand Creative
+Taylor Sanchez,Video Producer,Cursor,3,0,Paramount Plus Brand Creative
+Madison Scott,Video Producer,Runway ML,3,3,Paramount Plus Brand Creative
+Madison Scott,Video Producer,Google Gemini,5,5,Paramount Plus Brand Creative
+Madison Scott,Video Producer,Adobe Firefly,1,0,Paramount Plus Brand Creative
+Madison Scott,Video Producer,ChatGPT,3,4,Paramount Plus Brand Creative
+Madison Scott,Video Producer,Microsoft Copilot,3,0,Paramount Plus Brand Creative
+Madison Scott,Video Producer,Claude AI,2,2,Paramount Plus Brand Creative
+Madison Scott,Video Producer,Cursor,2,0,Paramount Plus Brand Creative
+Finley Wilson,UX Designer,Runway ML,5,2,Paramount Plus Brand Creative
+Finley Wilson,UX Designer,Google Gemini,5,3,Paramount Plus Brand Creative
+Finley Wilson,UX Designer,Adobe Firefly,4,3,Paramount Plus Brand Creative
+Finley Wilson,UX Designer,ChatGPT,2,0,Paramount Plus Brand Creative
+Finley Wilson,UX Designer,Microsoft Copilot,3,0,Paramount Plus Brand Creative
+Finley Wilson,UX Designer,Claude AI,3,1,Paramount Plus Brand Creative
+Finley Wilson,UX Designer,Cursor,1,0,Paramount Plus Brand Creative
+Tatum Davis,Video Producer,Runway ML,3,4,Paramount Plus Brand Creative
+Tatum Davis,Video Producer,Google Gemini,4,4,Paramount Plus Brand Creative
+Tatum Davis,Video Producer,Adobe Firefly,5,4,Paramount Plus Brand Creative
+Tatum Davis,Video Producer,ChatGPT,5,4,Paramount Plus Brand Creative
+Tatum Davis,Video Producer,Microsoft Copilot,2,0,Paramount Plus Brand Creative
+Tatum Davis,Video Producer,Claude AI,3,1,Paramount Plus Brand Creative
+Tatum Davis,Video Producer,Cursor,2,1,Paramount Plus Brand Creative
+Indigo Parker,Creative Strategist,Runway ML,2,0,Paramount Plus Brand Creative
+Indigo Parker,Creative Strategist,Google Gemini,1,0,Paramount Plus Brand Creative
+Indigo Parker,Creative Strategist,Adobe Firefly,4,4,Paramount Plus Brand Creative
+Indigo Parker,Creative Strategist,ChatGPT,3,4,Paramount Plus Brand Creative
+Indigo Parker,Creative Strategist,Microsoft Copilot,2,1,Paramount Plus Brand Creative
+Indigo Parker,Creative Strategist,Claude AI,2,0,Paramount Plus Brand Creative
+Indigo Parker,Creative Strategist,Cursor,2,0,Paramount Plus Brand Creative
+Nico Brown,Animator,Runway ML,3,2,Paramount Plus Brand Creative
+Nico Brown,Animator,Google Gemini,4,3,Paramount Plus Brand Creative
+Nico Brown,Animator,Adobe Firefly,4,3,Paramount Plus Brand Creative
+Nico Brown,Animator,ChatGPT,2,0,Paramount Plus Brand Creative
+Nico Brown,Animator,Microsoft Copilot,3,1,Paramount Plus Brand Creative
+Nico Brown,Animator,Claude AI,2,0,Paramount Plus Brand Creative
+Nico Brown,Animator,Cursor,2,0,Paramount Plus Brand Creative
+Rowan Wright,Visual Designer,Runway ML,3,4,Paramount Plus Brand Creative
+Rowan Wright,Visual Designer,Google Gemini,0,0,Paramount Plus Brand Creative
+Rowan Wright,Visual Designer,Adobe Firefly,2,0,Paramount Plus Brand Creative
+Rowan Wright,Visual Designer,ChatGPT,1,0,Paramount Plus Brand Creative
+Rowan Wright,Visual Designer,Microsoft Copilot,2,0,Paramount Plus Brand Creative
+Rowan Wright,Visual Designer,Claude AI,2,1,Paramount Plus Brand Creative
+Rowan Wright,Visual Designer,Cursor,1,0,Paramount Plus Brand Creative
+Hayden Scott,Video Producer,Runway ML,0,0,Paramount Plus Brand Creative
+Hayden Scott,Video Producer,Google Gemini,4,4,Paramount Plus Brand Creative
+Hayden Scott,Video Producer,Adobe Firefly,5,5,Paramount Plus Brand Creative
+Hayden Scott,Video Producer,ChatGPT,3,3,Paramount Plus Brand Creative
+Hayden Scott,Video Producer,Microsoft Copilot,3,1,Paramount Plus Brand Creative
+Hayden Scott,Video Producer,Claude AI,2,2,Paramount Plus Brand Creative
+Hayden Scott,Video Producer,Cursor,1,0,Paramount Plus Brand Creative
+Jordan Wilson,Marketing Designer,Runway ML,3,4,Paramount Plus Brand Creative
+Jordan Wilson,Marketing Designer,Google Gemini,0,0,Paramount Plus Brand Creative
+Jordan Wilson,Marketing Designer,Adobe Firefly,5,5,Paramount Plus Brand Creative
+Jordan Wilson,Marketing Designer,ChatGPT,2,0,Paramount Plus Brand Creative
+Jordan Wilson,Marketing Designer,Microsoft Copilot,3,0,Paramount Plus Brand Creative
+Jordan Wilson,Marketing Designer,Claude AI,0,0,Paramount Plus Brand Creative
+Jordan Wilson,Marketing Designer,Cursor,1,1,Paramount Plus Brand Creative
+Lane Hill,Copywriter,Runway ML,4,2,Paramount Plus Brand Creative
+Lane Hill,Copywriter,Google Gemini,5,4,Paramount Plus Brand Creative
+Lane Hill,Copywriter,Adobe Firefly,2,0,Paramount Plus Brand Creative
+Lane Hill,Copywriter,ChatGPT,5,4,Paramount Plus Brand Creative
+Lane Hill,Copywriter,Microsoft Copilot,0,0,Paramount Plus Brand Creative
+Lane Hill,Copywriter,Claude AI,3,2,Paramount Plus Brand Creative
+Lane Hill,Copywriter,Cursor,1,1,Paramount Plus Brand Creative
+Avery Garcia,Brand Designer,Runway ML,4,3,Paramount Plus Brand Creative
+Avery Garcia,Brand Designer,Google Gemini,0,0,Paramount Plus Brand Creative
+Avery Garcia,Brand Designer,Adobe Firefly,5,4,Paramount Plus Brand Creative
+Avery Garcia,Brand Designer,ChatGPT,5,3,Paramount Plus Brand Creative
+Avery Garcia,Brand Designer,Microsoft Copilot,1,1,Paramount Plus Brand Creative
+Avery Garcia,Brand Designer,Claude AI,2,1,Paramount Plus Brand Creative
+Avery Garcia,Brand Designer,Cursor,1,0,Paramount Plus Brand Creative
+Drew Baker,Copywriter,Runway ML,3,2,Paramount Plus Brand Creative
+Drew Baker,Copywriter,Google Gemini,0,0,Paramount Plus Brand Creative
+Drew Baker,Copywriter,Adobe Firefly,5,4,Paramount Plus Brand Creative
+Drew Baker,Copywriter,ChatGPT,4,2,Paramount Plus Brand Creative
+Drew Baker,Copywriter,Microsoft Copilot,2,0,Paramount Plus Brand Creative
+Drew Baker,Copywriter,Claude AI,1,0,Paramount Plus Brand Creative
+Drew Baker,Copywriter,Cursor,2,1,Paramount Plus Brand Creative
+Phoenix Lewis,UX Designer,Runway ML,4,4,Paramount Plus Brand Creative
+Phoenix Lewis,UX Designer,Google Gemini,4,4,Paramount Plus Brand Creative
+Phoenix Lewis,UX Designer,Adobe Firefly,4,4,Paramount Plus Brand Creative
+Phoenix Lewis,UX Designer,ChatGPT,4,4,Paramount Plus Brand Creative
+Phoenix Lewis,UX Designer,Microsoft Copilot,1,1,Paramount Plus Brand Creative
+Phoenix Lewis,UX Designer,Claude AI,2,0,Paramount Plus Brand Creative
+Phoenix Lewis,UX Designer,Cursor,1,0,Paramount Plus Brand Creative
+Hollis Johnson,Video Producer,Runway ML,5,2,Paramount Plus Brand Creative
+Hollis Johnson,Video Producer,Google Gemini,1,0,Paramount Plus Brand Creative
+Hollis Johnson,Video Producer,Adobe Firefly,5,3,Paramount Plus Brand Creative
+Hollis Johnson,Video Producer,ChatGPT,3,4,Paramount Plus Brand Creative
+Hollis Johnson,Video Producer,Microsoft Copilot,1,1,Paramount Plus Brand Creative
+Hollis Johnson,Video Producer,Claude AI,3,2,Paramount Plus Brand Creative
+Hollis Johnson,Video Producer,Cursor,3,1,Paramount Plus Brand Creative

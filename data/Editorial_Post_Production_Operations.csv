@@ -1,0 +1,246 @@
+User Name,Role,Product,User Satisfaction (0-5),Weekly Usage (0-7),Team
+Palmer Gomez,Post Production Supervisor,Runway ML,4,4,Editorial Post Production Operations
+Palmer Gomez,Post Production Supervisor,Google Gemini,2,0,Editorial Post Production Operations
+Palmer Gomez,Post Production Supervisor,Adobe Firefly,4,0,Editorial Post Production Operations
+Palmer Gomez,Post Production Supervisor,ChatGPT,3,4,Editorial Post Production Operations
+Palmer Gomez,Post Production Supervisor,Microsoft Copilot,3,4,Editorial Post Production Operations
+Palmer Gomez,Post Production Supervisor,Claude AI,0,0,Editorial Post Production Operations
+Palmer Gomez,Post Production Supervisor,Cursor,1,0,Editorial Post Production Operations
+Madison Allen,Media Manager,Runway ML,4,4,Editorial Post Production Operations
+Madison Allen,Media Manager,Google Gemini,2,0,Editorial Post Production Operations
+Madison Allen,Media Manager,Adobe Firefly,4,1,Editorial Post Production Operations
+Madison Allen,Media Manager,ChatGPT,2,0,Editorial Post Production Operations
+Madison Allen,Media Manager,Microsoft Copilot,2,3,Editorial Post Production Operations
+Madison Allen,Media Manager,Claude AI,2,2,Editorial Post Production Operations
+Madison Allen,Media Manager,Cursor,1,0,Editorial Post Production Operations
+Quincy Hall,Encoder,Runway ML,5,4,Editorial Post Production Operations
+Quincy Hall,Encoder,Google Gemini,4,2,Editorial Post Production Operations
+Quincy Hall,Encoder,Adobe Firefly,4,1,Editorial Post Production Operations
+Quincy Hall,Encoder,ChatGPT,3,2,Editorial Post Production Operations
+Quincy Hall,Encoder,Microsoft Copilot,2,4,Editorial Post Production Operations
+Quincy Hall,Encoder,Claude AI,2,1,Editorial Post Production Operations
+Quincy Hall,Encoder,Cursor,1,1,Editorial Post Production Operations
+Charlie Perez,Quality Control Specialist,Runway ML,0,0,Editorial Post Production Operations
+Charlie Perez,Quality Control Specialist,Google Gemini,0,0,Editorial Post Production Operations
+Charlie Perez,Quality Control Specialist,Adobe Firefly,1,0,Editorial Post Production Operations
+Charlie Perez,Quality Control Specialist,ChatGPT,0,0,Editorial Post Production Operations
+Charlie Perez,Quality Control Specialist,Microsoft Copilot,2,2,Editorial Post Production Operations
+Charlie Perez,Quality Control Specialist,Claude AI,2,1,Editorial Post Production Operations
+Charlie Perez,Quality Control Specialist,Cursor,0,0,Editorial Post Production Operations
+Cameron Turner,Workflow Manager,Runway ML,3,2,Editorial Post Production Operations
+Cameron Turner,Workflow Manager,Google Gemini,2,1,Editorial Post Production Operations
+Cameron Turner,Workflow Manager,Adobe Firefly,2,1,Editorial Post Production Operations
+Cameron Turner,Workflow Manager,ChatGPT,4,4,Editorial Post Production Operations
+Cameron Turner,Workflow Manager,Microsoft Copilot,0,0,Editorial Post Production Operations
+Cameron Turner,Workflow Manager,Claude AI,1,0,Editorial Post Production Operations
+Cameron Turner,Workflow Manager,Cursor,3,1,Editorial Post Production Operations
+Madison Green,Post Coordinator,Runway ML,3,4,Editorial Post Production Operations
+Madison Green,Post Coordinator,Google Gemini,4,1,Editorial Post Production Operations
+Madison Green,Post Coordinator,Adobe Firefly,1,0,Editorial Post Production Operations
+Madison Green,Post Coordinator,ChatGPT,3,3,Editorial Post Production Operations
+Madison Green,Post Coordinator,Microsoft Copilot,1,0,Editorial Post Production Operations
+Madison Green,Post Coordinator,Claude AI,2,0,Editorial Post Production Operations
+Madison Green,Post Coordinator,Cursor,2,1,Editorial Post Production Operations
+Ryan Lopez,Media Manager,Runway ML,5,3,Editorial Post Production Operations
+Ryan Lopez,Media Manager,Google Gemini,3,2,Editorial Post Production Operations
+Ryan Lopez,Media Manager,Adobe Firefly,3,1,Editorial Post Production Operations
+Ryan Lopez,Media Manager,ChatGPT,5,4,Editorial Post Production Operations
+Ryan Lopez,Media Manager,Microsoft Copilot,2,3,Editorial Post Production Operations
+Ryan Lopez,Media Manager,Claude AI,3,0,Editorial Post Production Operations
+Ryan Lopez,Media Manager,Cursor,2,0,Editorial Post Production Operations
+Emerson Taylor,Archive Specialist,Runway ML,3,2,Editorial Post Production Operations
+Emerson Taylor,Archive Specialist,Google Gemini,3,1,Editorial Post Production Operations
+Emerson Taylor,Archive Specialist,Adobe Firefly,2,0,Editorial Post Production Operations
+Emerson Taylor,Archive Specialist,ChatGPT,5,4,Editorial Post Production Operations
+Emerson Taylor,Archive Specialist,Microsoft Copilot,3,3,Editorial Post Production Operations
+Emerson Taylor,Archive Specialist,Claude AI,0,0,Editorial Post Production Operations
+Emerson Taylor,Archive Specialist,Cursor,2,0,Editorial Post Production Operations
+Riley Jackson,Archive Specialist,Runway ML,5,4,Editorial Post Production Operations
+Riley Jackson,Archive Specialist,Google Gemini,0,0,Editorial Post Production Operations
+Riley Jackson,Archive Specialist,Adobe Firefly,3,0,Editorial Post Production Operations
+Riley Jackson,Archive Specialist,ChatGPT,4,3,Editorial Post Production Operations
+Riley Jackson,Archive Specialist,Microsoft Copilot,3,2,Editorial Post Production Operations
+Riley Jackson,Archive Specialist,Claude AI,2,2,Editorial Post Production Operations
+Riley Jackson,Archive Specialist,Cursor,2,0,Editorial Post Production Operations
+Dakota Evans,Media Manager,Runway ML,4,3,Editorial Post Production Operations
+Dakota Evans,Media Manager,Google Gemini,4,0,Editorial Post Production Operations
+Dakota Evans,Media Manager,Adobe Firefly,4,0,Editorial Post Production Operations
+Dakota Evans,Media Manager,ChatGPT,3,1,Editorial Post Production Operations
+Dakota Evans,Media Manager,Microsoft Copilot,2,4,Editorial Post Production Operations
+Dakota Evans,Media Manager,Claude AI,4,1,Editorial Post Production Operations
+Dakota Evans,Media Manager,Cursor,2,1,Editorial Post Production Operations
+River Diaz,Post Coordinator,Runway ML,4,4,Editorial Post Production Operations
+River Diaz,Post Coordinator,Google Gemini,3,1,Editorial Post Production Operations
+River Diaz,Post Coordinator,Adobe Firefly,0,0,Editorial Post Production Operations
+River Diaz,Post Coordinator,ChatGPT,4,4,Editorial Post Production Operations
+River Diaz,Post Coordinator,Microsoft Copilot,3,3,Editorial Post Production Operations
+River Diaz,Post Coordinator,Claude AI,3,2,Editorial Post Production Operations
+River Diaz,Post Coordinator,Cursor,2,0,Editorial Post Production Operations
+Taylor Rodriguez,Assistant Editor,Runway ML,4,4,Editorial Post Production Operations
+Taylor Rodriguez,Assistant Editor,Google Gemini,4,2,Editorial Post Production Operations
+Taylor Rodriguez,Assistant Editor,Adobe Firefly,3,1,Editorial Post Production Operations
+Taylor Rodriguez,Assistant Editor,ChatGPT,4,2,Editorial Post Production Operations
+Taylor Rodriguez,Assistant Editor,Microsoft Copilot,3,4,Editorial Post Production Operations
+Taylor Rodriguez,Assistant Editor,Claude AI,0,0,Editorial Post Production Operations
+Taylor Rodriguez,Assistant Editor,Cursor,2,0,Editorial Post Production Operations
+Kirby Young,Post Production Supervisor,Runway ML,1,0,Editorial Post Production Operations
+Kirby Young,Post Production Supervisor,Google Gemini,3,0,Editorial Post Production Operations
+Kirby Young,Post Production Supervisor,Adobe Firefly,0,0,Editorial Post Production Operations
+Kirby Young,Post Production Supervisor,ChatGPT,4,4,Editorial Post Production Operations
+Kirby Young,Post Production Supervisor,Microsoft Copilot,0,0,Editorial Post Production Operations
+Kirby Young,Post Production Supervisor,Claude AI,2,2,Editorial Post Production Operations
+Kirby Young,Post Production Supervisor,Cursor,3,0,Editorial Post Production Operations
+Finch Wilson,Assistant Editor,Runway ML,3,3,Editorial Post Production Operations
+Finch Wilson,Assistant Editor,Google Gemini,4,2,Editorial Post Production Operations
+Finch Wilson,Assistant Editor,Adobe Firefly,4,2,Editorial Post Production Operations
+Finch Wilson,Assistant Editor,ChatGPT,5,3,Editorial Post Production Operations
+Finch Wilson,Assistant Editor,Microsoft Copilot,2,2,Editorial Post Production Operations
+Finch Wilson,Assistant Editor,Claude AI,3,2,Editorial Post Production Operations
+Finch Wilson,Assistant Editor,Cursor,3,1,Editorial Post Production Operations
+Devon Robinson,Encoder,Runway ML,5,2,Editorial Post Production Operations
+Devon Robinson,Encoder,Google Gemini,3,2,Editorial Post Production Operations
+Devon Robinson,Encoder,Adobe Firefly,3,1,Editorial Post Production Operations
+Devon Robinson,Encoder,ChatGPT,5,3,Editorial Post Production Operations
+Devon Robinson,Encoder,Microsoft Copilot,2,4,Editorial Post Production Operations
+Devon Robinson,Encoder,Claude AI,3,1,Editorial Post Production Operations
+Devon Robinson,Encoder,Cursor,1,0,Editorial Post Production Operations
+Taylor Thomas,Assistant Editor,Runway ML,4,4,Editorial Post Production Operations
+Taylor Thomas,Assistant Editor,Google Gemini,4,0,Editorial Post Production Operations
+Taylor Thomas,Assistant Editor,Adobe Firefly,4,0,Editorial Post Production Operations
+Taylor Thomas,Assistant Editor,ChatGPT,0,0,Editorial Post Production Operations
+Taylor Thomas,Assistant Editor,Microsoft Copilot,3,3,Editorial Post Production Operations
+Taylor Thomas,Assistant Editor,Claude AI,3,0,Editorial Post Production Operations
+Taylor Thomas,Assistant Editor,Cursor,2,0,Editorial Post Production Operations
+Palmer Mitchell,Encoder,Runway ML,4,3,Editorial Post Production Operations
+Palmer Mitchell,Encoder,Google Gemini,1,0,Editorial Post Production Operations
+Palmer Mitchell,Encoder,Adobe Firefly,2,2,Editorial Post Production Operations
+Palmer Mitchell,Encoder,ChatGPT,4,3,Editorial Post Production Operations
+Palmer Mitchell,Encoder,Microsoft Copilot,2,2,Editorial Post Production Operations
+Palmer Mitchell,Encoder,Claude AI,2,2,Editorial Post Production Operations
+Palmer Mitchell,Encoder,Cursor,1,1,Editorial Post Production Operations
+Dylan Hernandez,Assistant Editor,Runway ML,1,0,Editorial Post Production Operations
+Dylan Hernandez,Assistant Editor,Google Gemini,2,2,Editorial Post Production Operations
+Dylan Hernandez,Assistant Editor,Adobe Firefly,2,0,Editorial Post Production Operations
+Dylan Hernandez,Assistant Editor,ChatGPT,3,4,Editorial Post Production Operations
+Dylan Hernandez,Assistant Editor,Microsoft Copilot,2,0,Editorial Post Production Operations
+Dylan Hernandez,Assistant Editor,Claude AI,4,0,Editorial Post Production Operations
+Dylan Hernandez,Assistant Editor,Cursor,1,0,Editorial Post Production Operations
+Sage Lewis,Post Production Supervisor,Runway ML,1,0,Editorial Post Production Operations
+Sage Lewis,Post Production Supervisor,Google Gemini,2,0,Editorial Post Production Operations
+Sage Lewis,Post Production Supervisor,Adobe Firefly,1,0,Editorial Post Production Operations
+Sage Lewis,Post Production Supervisor,ChatGPT,3,2,Editorial Post Production Operations
+Sage Lewis,Post Production Supervisor,Microsoft Copilot,2,2,Editorial Post Production Operations
+Sage Lewis,Post Production Supervisor,Claude AI,0,0,Editorial Post Production Operations
+Sage Lewis,Post Production Supervisor,Cursor,1,1,Editorial Post Production Operations
+Charlie Lee,Media Manager,Runway ML,0,0,Editorial Post Production Operations
+Charlie Lee,Media Manager,Google Gemini,4,1,Editorial Post Production Operations
+Charlie Lee,Media Manager,Adobe Firefly,2,0,Editorial Post Production Operations
+Charlie Lee,Media Manager,ChatGPT,4,4,Editorial Post Production Operations
+Charlie Lee,Media Manager,Microsoft Copilot,2,3,Editorial Post Production Operations
+Charlie Lee,Media Manager,Claude AI,2,0,Editorial Post Production Operations
+Charlie Lee,Media Manager,Cursor,0,0,Editorial Post Production Operations
+Logan Martin,Operations Manager,Runway ML,4,2,Editorial Post Production Operations
+Logan Martin,Operations Manager,Google Gemini,4,0,Editorial Post Production Operations
+Logan Martin,Operations Manager,Adobe Firefly,2,2,Editorial Post Production Operations
+Logan Martin,Operations Manager,ChatGPT,5,4,Editorial Post Production Operations
+Logan Martin,Operations Manager,Microsoft Copilot,3,4,Editorial Post Production Operations
+Logan Martin,Operations Manager,Claude AI,3,0,Editorial Post Production Operations
+Logan Martin,Operations Manager,Cursor,3,1,Editorial Post Production Operations
+Marley Mitchell,Post Coordinator,Runway ML,5,4,Editorial Post Production Operations
+Marley Mitchell,Post Coordinator,Google Gemini,0,0,Editorial Post Production Operations
+Marley Mitchell,Post Coordinator,Adobe Firefly,3,0,Editorial Post Production Operations
+Marley Mitchell,Post Coordinator,ChatGPT,3,4,Editorial Post Production Operations
+Marley Mitchell,Post Coordinator,Microsoft Copilot,0,0,Editorial Post Production Operations
+Marley Mitchell,Post Coordinator,Claude AI,4,0,Editorial Post Production Operations
+Marley Mitchell,Post Coordinator,Cursor,3,1,Editorial Post Production Operations
+Phoenix Rodriguez,Workflow Manager,Runway ML,4,4,Editorial Post Production Operations
+Phoenix Rodriguez,Workflow Manager,Google Gemini,2,2,Editorial Post Production Operations
+Phoenix Rodriguez,Workflow Manager,Adobe Firefly,3,2,Editorial Post Production Operations
+Phoenix Rodriguez,Workflow Manager,ChatGPT,3,1,Editorial Post Production Operations
+Phoenix Rodriguez,Workflow Manager,Microsoft Copilot,2,2,Editorial Post Production Operations
+Phoenix Rodriguez,Workflow Manager,Claude AI,4,0,Editorial Post Production Operations
+Phoenix Rodriguez,Workflow Manager,Cursor,3,0,Editorial Post Production Operations
+Hayden King,Media Manager,Runway ML,3,3,Editorial Post Production Operations
+Hayden King,Media Manager,Google Gemini,0,0,Editorial Post Production Operations
+Hayden King,Media Manager,Adobe Firefly,2,2,Editorial Post Production Operations
+Hayden King,Media Manager,ChatGPT,3,2,Editorial Post Production Operations
+Hayden King,Media Manager,Microsoft Copilot,2,3,Editorial Post Production Operations
+Hayden King,Media Manager,Claude AI,3,0,Editorial Post Production Operations
+Hayden King,Media Manager,Cursor,0,0,Editorial Post Production Operations
+Sage Jackson,Operations Manager,Runway ML,4,4,Editorial Post Production Operations
+Sage Jackson,Operations Manager,Google Gemini,3,0,Editorial Post Production Operations
+Sage Jackson,Operations Manager,Adobe Firefly,3,1,Editorial Post Production Operations
+Sage Jackson,Operations Manager,ChatGPT,4,4,Editorial Post Production Operations
+Sage Jackson,Operations Manager,Microsoft Copilot,3,2,Editorial Post Production Operations
+Sage Jackson,Operations Manager,Claude AI,3,0,Editorial Post Production Operations
+Sage Jackson,Operations Manager,Cursor,2,0,Editorial Post Production Operations
+Cameron Taylor,Quality Control Specialist,Runway ML,4,3,Editorial Post Production Operations
+Cameron Taylor,Quality Control Specialist,Google Gemini,3,2,Editorial Post Production Operations
+Cameron Taylor,Quality Control Specialist,Adobe Firefly,1,0,Editorial Post Production Operations
+Cameron Taylor,Quality Control Specialist,ChatGPT,2,0,Editorial Post Production Operations
+Cameron Taylor,Quality Control Specialist,Microsoft Copilot,3,3,Editorial Post Production Operations
+Cameron Taylor,Quality Control Specialist,Claude AI,3,1,Editorial Post Production Operations
+Cameron Taylor,Quality Control Specialist,Cursor,2,1,Editorial Post Production Operations
+Nico Nguyen,Video Editor,Runway ML,4,2,Editorial Post Production Operations
+Nico Nguyen,Video Editor,Google Gemini,2,1,Editorial Post Production Operations
+Nico Nguyen,Video Editor,Adobe Firefly,2,0,Editorial Post Production Operations
+Nico Nguyen,Video Editor,ChatGPT,4,4,Editorial Post Production Operations
+Nico Nguyen,Video Editor,Microsoft Copilot,1,0,Editorial Post Production Operations
+Nico Nguyen,Video Editor,Claude AI,3,2,Editorial Post Production Operations
+Nico Nguyen,Video Editor,Cursor,2,0,Editorial Post Production Operations
+Emerson Green,Post Production Supervisor,Runway ML,5,4,Editorial Post Production Operations
+Emerson Green,Post Production Supervisor,Google Gemini,3,2,Editorial Post Production Operations
+Emerson Green,Post Production Supervisor,Adobe Firefly,4,0,Editorial Post Production Operations
+Emerson Green,Post Production Supervisor,ChatGPT,5,3,Editorial Post Production Operations
+Emerson Green,Post Production Supervisor,Microsoft Copilot,2,2,Editorial Post Production Operations
+Emerson Green,Post Production Supervisor,Claude AI,4,2,Editorial Post Production Operations
+Emerson Green,Post Production Supervisor,Cursor,2,0,Editorial Post Production Operations
+Peyton Ramirez,Assistant Editor,Runway ML,4,3,Editorial Post Production Operations
+Peyton Ramirez,Assistant Editor,Google Gemini,4,2,Editorial Post Production Operations
+Peyton Ramirez,Assistant Editor,Adobe Firefly,3,2,Editorial Post Production Operations
+Peyton Ramirez,Assistant Editor,ChatGPT,2,0,Editorial Post Production Operations
+Peyton Ramirez,Assistant Editor,Microsoft Copilot,3,2,Editorial Post Production Operations
+Peyton Ramirez,Assistant Editor,Claude AI,2,2,Editorial Post Production Operations
+Peyton Ramirez,Assistant Editor,Cursor,2,0,Editorial Post Production Operations
+Charlie Young,Post Production Supervisor,Runway ML,3,2,Editorial Post Production Operations
+Charlie Young,Post Production Supervisor,Google Gemini,3,2,Editorial Post Production Operations
+Charlie Young,Post Production Supervisor,Adobe Firefly,3,2,Editorial Post Production Operations
+Charlie Young,Post Production Supervisor,ChatGPT,0,0,Editorial Post Production Operations
+Charlie Young,Post Production Supervisor,Microsoft Copilot,2,3,Editorial Post Production Operations
+Charlie Young,Post Production Supervisor,Claude AI,2,0,Editorial Post Production Operations
+Charlie Young,Post Production Supervisor,Cursor,3,0,Editorial Post Production Operations
+Peyton Taylor,Quality Control Specialist,Runway ML,4,4,Editorial Post Production Operations
+Peyton Taylor,Quality Control Specialist,Google Gemini,1,0,Editorial Post Production Operations
+Peyton Taylor,Quality Control Specialist,Adobe Firefly,0,0,Editorial Post Production Operations
+Peyton Taylor,Quality Control Specialist,ChatGPT,4,3,Editorial Post Production Operations
+Peyton Taylor,Quality Control Specialist,Microsoft Copilot,0,0,Editorial Post Production Operations
+Peyton Taylor,Quality Control Specialist,Claude AI,4,2,Editorial Post Production Operations
+Peyton Taylor,Quality Control Specialist,Cursor,1,0,Editorial Post Production Operations
+Arden Smith,Quality Control Specialist,Runway ML,5,4,Editorial Post Production Operations
+Arden Smith,Quality Control Specialist,Google Gemini,3,1,Editorial Post Production Operations
+Arden Smith,Quality Control Specialist,Adobe Firefly,3,2,Editorial Post Production Operations
+Arden Smith,Quality Control Specialist,ChatGPT,4,3,Editorial Post Production Operations
+Arden Smith,Quality Control Specialist,Microsoft Copilot,2,3,Editorial Post Production Operations
+Arden Smith,Quality Control Specialist,Claude AI,1,0,Editorial Post Production Operations
+Arden Smith,Quality Control Specialist,Cursor,2,0,Editorial Post Production Operations
+Kendall Campbell,Assistant Editor,Runway ML,2,0,Editorial Post Production Operations
+Kendall Campbell,Assistant Editor,Google Gemini,3,2,Editorial Post Production Operations
+Kendall Campbell,Assistant Editor,Adobe Firefly,2,1,Editorial Post Production Operations
+Kendall Campbell,Assistant Editor,ChatGPT,5,3,Editorial Post Production Operations
+Kendall Campbell,Assistant Editor,Microsoft Copilot,2,2,Editorial Post Production Operations
+Kendall Campbell,Assistant Editor,Claude AI,3,0,Editorial Post Production Operations
+Kendall Campbell,Assistant Editor,Cursor,1,1,Editorial Post Production Operations
+Reese Hill,Encoder,Runway ML,4,4,Editorial Post Production Operations
+Reese Hill,Encoder,Google Gemini,2,1,Editorial Post Production Operations
+Reese Hill,Encoder,Adobe Firefly,3,2,Editorial Post Production Operations
+Reese Hill,Encoder,ChatGPT,3,4,Editorial Post Production Operations
+Reese Hill,Encoder,Microsoft Copilot,2,2,Editorial Post Production Operations
+Reese Hill,Encoder,Claude AI,2,1,Editorial Post Production Operations
+Reese Hill,Encoder,Cursor,1,0,Editorial Post Production Operations
+Quinn Walker,Archive Specialist,Runway ML,3,2,Editorial Post Production Operations
+Quinn Walker,Archive Specialist,Google Gemini,1,0,Editorial Post Production Operations
+Quinn Walker,Archive Specialist,Adobe Firefly,1,0,Editorial Post Production Operations
+Quinn Walker,Archive Specialist,ChatGPT,4,4,Editorial Post Production Operations
+Quinn Walker,Archive Specialist,Microsoft Copilot,2,0,Editorial Post Production Operations
+Quinn Walker,Archive Specialist,Claude AI,4,2,Editorial Post Production Operations
+Quinn Walker,Archive Specialist,Cursor,3,1,Editorial Post Production Operations

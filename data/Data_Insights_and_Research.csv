@@ -1,0 +1,316 @@
+User Name,Role,Product,User Satisfaction (0-5),Weekly Usage (0-7),Team
+Arden White,SQL Developer,Runway ML,3,2,Data Insights and Research
+Arden White,SQL Developer,Google Gemini,2,0,Data Insights and Research
+Arden White,SQL Developer,Adobe Firefly,3,0,Data Insights and Research
+Arden White,SQL Developer,ChatGPT,3,3,Data Insights and Research
+Arden White,SQL Developer,Microsoft Copilot,2,1,Data Insights and Research
+Arden White,SQL Developer,Claude AI,1,0,Data Insights and Research
+Arden White,SQL Developer,Cursor,3,3,Data Insights and Research
+Hollis Nguyen,Dashboard Developer,Runway ML,1,1,Data Insights and Research
+Hollis Nguyen,Dashboard Developer,Google Gemini,3,2,Data Insights and Research
+Hollis Nguyen,Dashboard Developer,Adobe Firefly,4,0,Data Insights and Research
+Hollis Nguyen,Dashboard Developer,ChatGPT,3,4,Data Insights and Research
+Hollis Nguyen,Dashboard Developer,Microsoft Copilot,1,0,Data Insights and Research
+Hollis Nguyen,Dashboard Developer,Claude AI,4,3,Data Insights and Research
+Hollis Nguyen,Dashboard Developer,Cursor,4,1,Data Insights and Research
+Kai Walker,Research Analyst,Runway ML,2,2,Data Insights and Research
+Kai Walker,Research Analyst,Google Gemini,3,0,Data Insights and Research
+Kai Walker,Research Analyst,Adobe Firefly,1,0,Data Insights and Research
+Kai Walker,Research Analyst,ChatGPT,5,2,Data Insights and Research
+Kai Walker,Research Analyst,Microsoft Copilot,3,0,Data Insights and Research
+Kai Walker,Research Analyst,Claude AI,4,3,Data Insights and Research
+Kai Walker,Research Analyst,Cursor,4,1,Data Insights and Research
+Marley Lopez,Data Scientist,Runway ML,3,2,Data Insights and Research
+Marley Lopez,Data Scientist,Google Gemini,2,2,Data Insights and Research
+Marley Lopez,Data Scientist,Adobe Firefly,2,1,Data Insights and Research
+Marley Lopez,Data Scientist,ChatGPT,4,1,Data Insights and Research
+Marley Lopez,Data Scientist,Microsoft Copilot,3,0,Data Insights and Research
+Marley Lopez,Data Scientist,Claude AI,4,3,Data Insights and Research
+Marley Lopez,Data Scientist,Cursor,4,1,Data Insights and Research
+Finch Young,SQL Developer,Runway ML,3,1,Data Insights and Research
+Finch Young,SQL Developer,Google Gemini,4,1,Data Insights and Research
+Finch Young,SQL Developer,Adobe Firefly,3,1,Data Insights and Research
+Finch Young,SQL Developer,ChatGPT,5,1,Data Insights and Research
+Finch Young,SQL Developer,Microsoft Copilot,2,0,Data Insights and Research
+Finch Young,SQL Developer,Claude AI,5,2,Data Insights and Research
+Finch Young,SQL Developer,Cursor,3,1,Data Insights and Research
+Sam Allen,Insights Specialist,Runway ML,1,0,Data Insights and Research
+Sam Allen,Insights Specialist,Google Gemini,3,0,Data Insights and Research
+Sam Allen,Insights Specialist,Adobe Firefly,4,2,Data Insights and Research
+Sam Allen,Insights Specialist,ChatGPT,1,0,Data Insights and Research
+Sam Allen,Insights Specialist,Microsoft Copilot,2,0,Data Insights and Research
+Sam Allen,Insights Specialist,Claude AI,1,0,Data Insights and Research
+Sam Allen,Insights Specialist,Cursor,5,3,Data Insights and Research
+Logan Baker,Quantitative Researcher,Runway ML,2,2,Data Insights and Research
+Logan Baker,Quantitative Researcher,Google Gemini,0,0,Data Insights and Research
+Logan Baker,Quantitative Researcher,Adobe Firefly,0,0,Data Insights and Research
+Logan Baker,Quantitative Researcher,ChatGPT,5,4,Data Insights and Research
+Logan Baker,Quantitative Researcher,Microsoft Copilot,2,0,Data Insights and Research
+Logan Baker,Quantitative Researcher,Claude AI,5,4,Data Insights and Research
+Logan Baker,Quantitative Researcher,Cursor,4,3,Data Insights and Research
+Taylor Carter,Quantitative Researcher,Runway ML,3,0,Data Insights and Research
+Taylor Carter,Quantitative Researcher,Google Gemini,2,2,Data Insights and Research
+Taylor Carter,Quantitative Researcher,Adobe Firefly,2,1,Data Insights and Research
+Taylor Carter,Quantitative Researcher,ChatGPT,3,3,Data Insights and Research
+Taylor Carter,Quantitative Researcher,Microsoft Copilot,1,0,Data Insights and Research
+Taylor Carter,Quantitative Researcher,Claude AI,5,4,Data Insights and Research
+Taylor Carter,Quantitative Researcher,Cursor,4,1,Data Insights and Research
+Arden Wilson,Business Intelligence Analyst,Runway ML,1,2,Data Insights and Research
+Arden Wilson,Business Intelligence Analyst,Google Gemini,3,2,Data Insights and Research
+Arden Wilson,Business Intelligence Analyst,Adobe Firefly,3,2,Data Insights and Research
+Arden Wilson,Business Intelligence Analyst,ChatGPT,5,2,Data Insights and Research
+Arden Wilson,Business Intelligence Analyst,Microsoft Copilot,1,0,Data Insights and Research
+Arden Wilson,Business Intelligence Analyst,Claude AI,4,3,Data Insights and Research
+Arden Wilson,Business Intelligence Analyst,Cursor,3,3,Data Insights and Research
+Harper Martinez,Data Engineer,Runway ML,1,2,Data Insights and Research
+Harper Martinez,Data Engineer,Google Gemini,2,2,Data Insights and Research
+Harper Martinez,Data Engineer,Adobe Firefly,4,1,Data Insights and Research
+Harper Martinez,Data Engineer,ChatGPT,3,3,Data Insights and Research
+Harper Martinez,Data Engineer,Microsoft Copilot,2,1,Data Insights and Research
+Harper Martinez,Data Engineer,Claude AI,5,3,Data Insights and Research
+Harper Martinez,Data Engineer,Cursor,2,0,Data Insights and Research
+Riley Campbell,Quantitative Researcher,Runway ML,3,2,Data Insights and Research
+Riley Campbell,Quantitative Researcher,Google Gemini,2,2,Data Insights and Research
+Riley Campbell,Quantitative Researcher,Adobe Firefly,3,0,Data Insights and Research
+Riley Campbell,Quantitative Researcher,ChatGPT,4,3,Data Insights and Research
+Riley Campbell,Quantitative Researcher,Microsoft Copilot,2,1,Data Insights and Research
+Riley Campbell,Quantitative Researcher,Claude AI,1,0,Data Insights and Research
+Riley Campbell,Quantitative Researcher,Cursor,3,1,Data Insights and Research
+Drew Lewis,Quantitative Researcher,Runway ML,1,1,Data Insights and Research
+Drew Lewis,Quantitative Researcher,Google Gemini,4,0,Data Insights and Research
+Drew Lewis,Quantitative Researcher,Adobe Firefly,3,0,Data Insights and Research
+Drew Lewis,Quantitative Researcher,ChatGPT,2,0,Data Insights and Research
+Drew Lewis,Quantitative Researcher,Microsoft Copilot,2,0,Data Insights and Research
+Drew Lewis,Quantitative Researcher,Claude AI,5,4,Data Insights and Research
+Drew Lewis,Quantitative Researcher,Cursor,3,2,Data Insights and Research
+Remy Miller,Data Analyst,Runway ML,2,0,Data Insights and Research
+Remy Miller,Data Analyst,Google Gemini,2,2,Data Insights and Research
+Remy Miller,Data Analyst,Adobe Firefly,2,0,Data Insights and Research
+Remy Miller,Data Analyst,ChatGPT,1,0,Data Insights and Research
+Remy Miller,Data Analyst,Microsoft Copilot,1,0,Data Insights and Research
+Remy Miller,Data Analyst,Claude AI,5,2,Data Insights and Research
+Remy Miller,Data Analyst,Cursor,3,3,Data Insights and Research
+Sam Jones,SQL Developer,Runway ML,3,0,Data Insights and Research
+Sam Jones,SQL Developer,Google Gemini,2,1,Data Insights and Research
+Sam Jones,SQL Developer,Adobe Firefly,2,2,Data Insights and Research
+Sam Jones,SQL Developer,ChatGPT,0,0,Data Insights and Research
+Sam Jones,SQL Developer,Microsoft Copilot,1,0,Data Insights and Research
+Sam Jones,SQL Developer,Claude AI,5,3,Data Insights and Research
+Sam Jones,SQL Developer,Cursor,4,1,Data Insights and Research
+Nico Garcia,Business Intelligence Analyst,Runway ML,3,2,Data Insights and Research
+Nico Garcia,Business Intelligence Analyst,Google Gemini,4,1,Data Insights and Research
+Nico Garcia,Business Intelligence Analyst,Adobe Firefly,4,0,Data Insights and Research
+Nico Garcia,Business Intelligence Analyst,ChatGPT,5,3,Data Insights and Research
+Nico Garcia,Business Intelligence Analyst,Microsoft Copilot,2,0,Data Insights and Research
+Nico Garcia,Business Intelligence Analyst,Claude AI,4,3,Data Insights and Research
+Nico Garcia,Business Intelligence Analyst,Cursor,3,2,Data Insights and Research
+Casey King,Data Analyst,Runway ML,2,0,Data Insights and Research
+Casey King,Data Analyst,Google Gemini,3,1,Data Insights and Research
+Casey King,Data Analyst,Adobe Firefly,2,1,Data Insights and Research
+Casey King,Data Analyst,ChatGPT,3,2,Data Insights and Research
+Casey King,Data Analyst,Microsoft Copilot,1,0,Data Insights and Research
+Casey King,Data Analyst,Claude AI,5,4,Data Insights and Research
+Casey King,Data Analyst,Cursor,5,3,Data Insights and Research
+Madison Hall,Insights Specialist,Runway ML,1,2,Data Insights and Research
+Madison Hall,Insights Specialist,Google Gemini,4,0,Data Insights and Research
+Madison Hall,Insights Specialist,Adobe Firefly,3,0,Data Insights and Research
+Madison Hall,Insights Specialist,ChatGPT,3,3,Data Insights and Research
+Madison Hall,Insights Specialist,Microsoft Copilot,3,0,Data Insights and Research
+Madison Hall,Insights Specialist,Claude AI,5,4,Data Insights and Research
+Madison Hall,Insights Specialist,Cursor,3,1,Data Insights and Research
+Madison Davis,Quantitative Researcher,Runway ML,2,0,Data Insights and Research
+Madison Davis,Quantitative Researcher,Google Gemini,4,2,Data Insights and Research
+Madison Davis,Quantitative Researcher,Adobe Firefly,2,0,Data Insights and Research
+Madison Davis,Quantitative Researcher,ChatGPT,5,3,Data Insights and Research
+Madison Davis,Quantitative Researcher,Microsoft Copilot,0,0,Data Insights and Research
+Madison Davis,Quantitative Researcher,Claude AI,5,4,Data Insights and Research
+Madison Davis,Quantitative Researcher,Cursor,3,2,Data Insights and Research
+Rowan King,Research Analyst,Runway ML,2,2,Data Insights and Research
+Rowan King,Research Analyst,Google Gemini,4,0,Data Insights and Research
+Rowan King,Research Analyst,Adobe Firefly,2,0,Data Insights and Research
+Rowan King,Research Analyst,ChatGPT,3,3,Data Insights and Research
+Rowan King,Research Analyst,Microsoft Copilot,3,0,Data Insights and Research
+Rowan King,Research Analyst,Claude AI,4,2,Data Insights and Research
+Rowan King,Research Analyst,Cursor,1,0,Data Insights and Research
+Hayden Martinez,Data Scientist,Runway ML,1,2,Data Insights and Research
+Hayden Martinez,Data Scientist,Google Gemini,4,2,Data Insights and Research
+Hayden Martinez,Data Scientist,Adobe Firefly,2,1,Data Insights and Research
+Hayden Martinez,Data Scientist,ChatGPT,5,3,Data Insights and Research
+Hayden Martinez,Data Scientist,Microsoft Copilot,2,0,Data Insights and Research
+Hayden Martinez,Data Scientist,Claude AI,1,0,Data Insights and Research
+Hayden Martinez,Data Scientist,Cursor,4,2,Data Insights and Research
+Hollis Robinson,Data Analyst,Runway ML,2,0,Data Insights and Research
+Hollis Robinson,Data Analyst,Google Gemini,3,2,Data Insights and Research
+Hollis Robinson,Data Analyst,Adobe Firefly,3,1,Data Insights and Research
+Hollis Robinson,Data Analyst,ChatGPT,4,1,Data Insights and Research
+Hollis Robinson,Data Analyst,Microsoft Copilot,1,0,Data Insights and Research
+Hollis Robinson,Data Analyst,Claude AI,4,2,Data Insights and Research
+Hollis Robinson,Data Analyst,Cursor,5,3,Data Insights and Research
+Phoenix Smith,Insights Specialist,Runway ML,3,2,Data Insights and Research
+Phoenix Smith,Insights Specialist,Google Gemini,2,2,Data Insights and Research
+Phoenix Smith,Insights Specialist,Adobe Firefly,3,1,Data Insights and Research
+Phoenix Smith,Insights Specialist,ChatGPT,3,4,Data Insights and Research
+Phoenix Smith,Insights Specialist,Microsoft Copilot,3,1,Data Insights and Research
+Phoenix Smith,Insights Specialist,Claude AI,5,3,Data Insights and Research
+Phoenix Smith,Insights Specialist,Cursor,0,0,Data Insights and Research
+Marley Evans,Insights Specialist,Runway ML,1,2,Data Insights and Research
+Marley Evans,Insights Specialist,Google Gemini,3,2,Data Insights and Research
+Marley Evans,Insights Specialist,Adobe Firefly,2,1,Data Insights and Research
+Marley Evans,Insights Specialist,ChatGPT,4,2,Data Insights and Research
+Marley Evans,Insights Specialist,Microsoft Copilot,2,1,Data Insights and Research
+Marley Evans,Insights Specialist,Claude AI,2,0,Data Insights and Research
+Marley Evans,Insights Specialist,Cursor,1,0,Data Insights and Research
+Ryan Lee,Insights Specialist,Runway ML,1,2,Data Insights and Research
+Ryan Lee,Insights Specialist,Google Gemini,2,1,Data Insights and Research
+Ryan Lee,Insights Specialist,Adobe Firefly,2,0,Data Insights and Research
+Ryan Lee,Insights Specialist,ChatGPT,4,4,Data Insights and Research
+Ryan Lee,Insights Specialist,Microsoft Copilot,0,0,Data Insights and Research
+Ryan Lee,Insights Specialist,Claude AI,5,3,Data Insights and Research
+Ryan Lee,Insights Specialist,Cursor,5,2,Data Insights and Research
+Cameron Johnson,Insights Specialist,Runway ML,2,2,Data Insights and Research
+Cameron Johnson,Insights Specialist,Google Gemini,2,0,Data Insights and Research
+Cameron Johnson,Insights Specialist,Adobe Firefly,0,0,Data Insights and Research
+Cameron Johnson,Insights Specialist,ChatGPT,3,1,Data Insights and Research
+Cameron Johnson,Insights Specialist,Microsoft Copilot,3,0,Data Insights and Research
+Cameron Johnson,Insights Specialist,Claude AI,0,0,Data Insights and Research
+Cameron Johnson,Insights Specialist,Cursor,3,3,Data Insights and Research
+Jamie Garcia,Data Engineer,Runway ML,1,0,Data Insights and Research
+Jamie Garcia,Data Engineer,Google Gemini,2,0,Data Insights and Research
+Jamie Garcia,Data Engineer,Adobe Firefly,3,2,Data Insights and Research
+Jamie Garcia,Data Engineer,ChatGPT,3,3,Data Insights and Research
+Jamie Garcia,Data Engineer,Microsoft Copilot,1,1,Data Insights and Research
+Jamie Garcia,Data Engineer,Claude AI,4,2,Data Insights and Research
+Jamie Garcia,Data Engineer,Cursor,5,1,Data Insights and Research
+Devon Clark,SQL Developer,Runway ML,1,0,Data Insights and Research
+Devon Clark,SQL Developer,Google Gemini,2,0,Data Insights and Research
+Devon Clark,SQL Developer,Adobe Firefly,2,2,Data Insights and Research
+Devon Clark,SQL Developer,ChatGPT,5,1,Data Insights and Research
+Devon Clark,SQL Developer,Microsoft Copilot,2,1,Data Insights and Research
+Devon Clark,SQL Developer,Claude AI,5,3,Data Insights and Research
+Devon Clark,SQL Developer,Cursor,5,2,Data Insights and Research
+River Hill,Business Intelligence Analyst,Runway ML,1,0,Data Insights and Research
+River Hill,Business Intelligence Analyst,Google Gemini,4,1,Data Insights and Research
+River Hill,Business Intelligence Analyst,Adobe Firefly,2,0,Data Insights and Research
+River Hill,Business Intelligence Analyst,ChatGPT,3,3,Data Insights and Research
+River Hill,Business Intelligence Analyst,Microsoft Copilot,1,1,Data Insights and Research
+River Hill,Business Intelligence Analyst,Claude AI,4,2,Data Insights and Research
+River Hill,Business Intelligence Analyst,Cursor,4,3,Data Insights and Research
+Jules Johnson,Data Engineer,Runway ML,0,0,Data Insights and Research
+Jules Johnson,Data Engineer,Google Gemini,3,2,Data Insights and Research
+Jules Johnson,Data Engineer,Adobe Firefly,0,0,Data Insights and Research
+Jules Johnson,Data Engineer,ChatGPT,2,0,Data Insights and Research
+Jules Johnson,Data Engineer,Microsoft Copilot,1,0,Data Insights and Research
+Jules Johnson,Data Engineer,Claude AI,0,0,Data Insights and Research
+Jules Johnson,Data Engineer,Cursor,5,3,Data Insights and Research
+Winter Davis,SQL Developer,Runway ML,2,0,Data Insights and Research
+Winter Davis,SQL Developer,Google Gemini,4,1,Data Insights and Research
+Winter Davis,SQL Developer,Adobe Firefly,3,1,Data Insights and Research
+Winter Davis,SQL Developer,ChatGPT,3,3,Data Insights and Research
+Winter Davis,SQL Developer,Microsoft Copilot,2,0,Data Insights and Research
+Winter Davis,SQL Developer,Claude AI,5,2,Data Insights and Research
+Winter Davis,SQL Developer,Cursor,3,2,Data Insights and Research
+Quincy Jackson,Data Scientist,Runway ML,2,0,Data Insights and Research
+Quincy Jackson,Data Scientist,Google Gemini,4,1,Data Insights and Research
+Quincy Jackson,Data Scientist,Adobe Firefly,1,0,Data Insights and Research
+Quincy Jackson,Data Scientist,ChatGPT,5,2,Data Insights and Research
+Quincy Jackson,Data Scientist,Microsoft Copilot,1,1,Data Insights and Research
+Quincy Jackson,Data Scientist,Claude AI,4,3,Data Insights and Research
+Quincy Jackson,Data Scientist,Cursor,3,3,Data Insights and Research
+Riley Evans,Data Engineer,Runway ML,2,0,Data Insights and Research
+Riley Evans,Data Engineer,Google Gemini,1,0,Data Insights and Research
+Riley Evans,Data Engineer,Adobe Firefly,1,0,Data Insights and Research
+Riley Evans,Data Engineer,ChatGPT,4,4,Data Insights and Research
+Riley Evans,Data Engineer,Microsoft Copilot,2,1,Data Insights and Research
+Riley Evans,Data Engineer,Claude AI,5,2,Data Insights and Research
+Riley Evans,Data Engineer,Cursor,5,3,Data Insights and Research
+Reese Hernandez,Quantitative Researcher,Runway ML,1,0,Data Insights and Research
+Reese Hernandez,Quantitative Researcher,Google Gemini,3,1,Data Insights and Research
+Reese Hernandez,Quantitative Researcher,Adobe Firefly,1,0,Data Insights and Research
+Reese Hernandez,Quantitative Researcher,ChatGPT,3,4,Data Insights and Research
+Reese Hernandez,Quantitative Researcher,Microsoft Copilot,3,1,Data Insights and Research
+Reese Hernandez,Quantitative Researcher,Claude AI,1,0,Data Insights and Research
+Reese Hernandez,Quantitative Researcher,Cursor,0,0,Data Insights and Research
+Peyton Clark,SQL Developer,Runway ML,3,2,Data Insights and Research
+Peyton Clark,SQL Developer,Google Gemini,4,1,Data Insights and Research
+Peyton Clark,SQL Developer,Adobe Firefly,2,0,Data Insights and Research
+Peyton Clark,SQL Developer,ChatGPT,0,0,Data Insights and Research
+Peyton Clark,SQL Developer,Microsoft Copilot,0,0,Data Insights and Research
+Peyton Clark,SQL Developer,Claude AI,4,2,Data Insights and Research
+Peyton Clark,SQL Developer,Cursor,3,2,Data Insights and Research
+Sage Gomez,Insights Specialist,Runway ML,2,1,Data Insights and Research
+Sage Gomez,Insights Specialist,Google Gemini,3,0,Data Insights and Research
+Sage Gomez,Insights Specialist,Adobe Firefly,3,0,Data Insights and Research
+Sage Gomez,Insights Specialist,ChatGPT,4,3,Data Insights and Research
+Sage Gomez,Insights Specialist,Microsoft Copilot,2,1,Data Insights and Research
+Sage Gomez,Insights Specialist,Claude AI,2,0,Data Insights and Research
+Sage Gomez,Insights Specialist,Cursor,1,0,Data Insights and Research
+Blair Wright,Insights Specialist,Runway ML,3,0,Data Insights and Research
+Blair Wright,Insights Specialist,Google Gemini,3,2,Data Insights and Research
+Blair Wright,Insights Specialist,Adobe Firefly,4,2,Data Insights and Research
+Blair Wright,Insights Specialist,ChatGPT,4,3,Data Insights and Research
+Blair Wright,Insights Specialist,Microsoft Copilot,1,1,Data Insights and Research
+Blair Wright,Insights Specialist,Claude AI,4,4,Data Insights and Research
+Blair Wright,Insights Specialist,Cursor,5,3,Data Insights and Research
+Lane Martinez,Research Analyst,Runway ML,2,0,Data Insights and Research
+Lane Martinez,Research Analyst,Google Gemini,2,0,Data Insights and Research
+Lane Martinez,Research Analyst,Adobe Firefly,2,0,Data Insights and Research
+Lane Martinez,Research Analyst,ChatGPT,5,3,Data Insights and Research
+Lane Martinez,Research Analyst,Microsoft Copilot,2,1,Data Insights and Research
+Lane Martinez,Research Analyst,Claude AI,4,2,Data Insights and Research
+Lane Martinez,Research Analyst,Cursor,4,3,Data Insights and Research
+Ryan Parker,Data Analyst,Runway ML,3,2,Data Insights and Research
+Ryan Parker,Data Analyst,Google Gemini,3,0,Data Insights and Research
+Ryan Parker,Data Analyst,Adobe Firefly,2,2,Data Insights and Research
+Ryan Parker,Data Analyst,ChatGPT,3,2,Data Insights and Research
+Ryan Parker,Data Analyst,Microsoft Copilot,3,1,Data Insights and Research
+Ryan Parker,Data Analyst,Claude AI,5,3,Data Insights and Research
+Ryan Parker,Data Analyst,Cursor,5,3,Data Insights and Research
+Cameron Moore,Insights Specialist,Runway ML,1,2,Data Insights and Research
+Cameron Moore,Insights Specialist,Google Gemini,1,0,Data Insights and Research
+Cameron Moore,Insights Specialist,Adobe Firefly,1,0,Data Insights and Research
+Cameron Moore,Insights Specialist,ChatGPT,4,4,Data Insights and Research
+Cameron Moore,Insights Specialist,Microsoft Copilot,2,0,Data Insights and Research
+Cameron Moore,Insights Specialist,Claude AI,4,2,Data Insights and Research
+Cameron Moore,Insights Specialist,Cursor,5,2,Data Insights and Research
+River Moore,Insights Specialist,Runway ML,1,0,Data Insights and Research
+River Moore,Insights Specialist,Google Gemini,2,1,Data Insights and Research
+River Moore,Insights Specialist,Adobe Firefly,4,1,Data Insights and Research
+River Moore,Insights Specialist,ChatGPT,2,0,Data Insights and Research
+River Moore,Insights Specialist,Microsoft Copilot,0,0,Data Insights and Research
+River Moore,Insights Specialist,Claude AI,0,0,Data Insights and Research
+River Moore,Insights Specialist,Cursor,1,0,Data Insights and Research
+Charlie Robinson,SQL Developer,Runway ML,2,2,Data Insights and Research
+Charlie Robinson,SQL Developer,Google Gemini,4,0,Data Insights and Research
+Charlie Robinson,SQL Developer,Adobe Firefly,3,2,Data Insights and Research
+Charlie Robinson,SQL Developer,ChatGPT,1,0,Data Insights and Research
+Charlie Robinson,SQL Developer,Microsoft Copilot,3,0,Data Insights and Research
+Charlie Robinson,SQL Developer,Claude AI,2,0,Data Insights and Research
+Charlie Robinson,SQL Developer,Cursor,3,1,Data Insights and Research
+Palmer Wilson,Analytics Manager,Runway ML,3,1,Data Insights and Research
+Palmer Wilson,Analytics Manager,Google Gemini,4,0,Data Insights and Research
+Palmer Wilson,Analytics Manager,Adobe Firefly,0,0,Data Insights and Research
+Palmer Wilson,Analytics Manager,ChatGPT,3,4,Data Insights and Research
+Palmer Wilson,Analytics Manager,Microsoft Copilot,3,1,Data Insights and Research
+Palmer Wilson,Analytics Manager,Claude AI,5,3,Data Insights and Research
+Palmer Wilson,Analytics Manager,Cursor,3,2,Data Insights and Research
+Frankie Evans,Dashboard Developer,Runway ML,2,0,Data Insights and Research
+Frankie Evans,Dashboard Developer,Google Gemini,4,1,Data Insights and Research
+Frankie Evans,Dashboard Developer,Adobe Firefly,4,2,Data Insights and Research
+Frankie Evans,Dashboard Developer,ChatGPT,5,3,Data Insights and Research
+Frankie Evans,Dashboard Developer,Microsoft Copilot,3,1,Data Insights and Research
+Frankie Evans,Dashboard Developer,Claude AI,5,4,Data Insights and Research
+Frankie Evans,Dashboard Developer,Cursor,2,0,Data Insights and Research
+Valencia Thomas,Data Analyst,Runway ML,3,1,Data Insights and Research
+Valencia Thomas,Data Analyst,Google Gemini,4,0,Data Insights and Research
+Valencia Thomas,Data Analyst,Adobe Firefly,4,1,Data Insights and Research
+Valencia Thomas,Data Analyst,ChatGPT,4,3,Data Insights and Research
+Valencia Thomas,Data Analyst,Microsoft Copilot,3,0,Data Insights and Research
+Valencia Thomas,Data Analyst,Claude AI,4,4,Data Insights and Research
+Valencia Thomas,Data Analyst,Cursor,4,3,Data Insights and Research
+Sage Diaz,Data Scientist,Runway ML,0,0,Data Insights and Research
+Sage Diaz,Data Scientist,Google Gemini,3,0,Data Insights and Research
+Sage Diaz,Data Scientist,Adobe Firefly,4,2,Data Insights and Research
+Sage Diaz,Data Scientist,ChatGPT,3,3,Data Insights and Research
+Sage Diaz,Data Scientist,Microsoft Copilot,1,1,Data Insights and Research
+Sage Diaz,Data Scientist,Claude AI,5,3,Data Insights and Research
+Sage Diaz,Data Scientist,Cursor,4,2,Data Insights and Research

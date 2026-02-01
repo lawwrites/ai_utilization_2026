@@ -1,0 +1,421 @@
+User Name,Role,Product,User Satisfaction (0-5),Weekly Usage (0-7),Team
+Blair Jackson,Brand Manager,Runway ML,3,2,Nickelodeon Digital
+Blair Jackson,Brand Manager,Google Gemini,2,1,Nickelodeon Digital
+Blair Jackson,Brand Manager,Adobe Firefly,5,4,Nickelodeon Digital
+Blair Jackson,Brand Manager,ChatGPT,5,4,Nickelodeon Digital
+Blair Jackson,Brand Manager,Microsoft Copilot,1,1,Nickelodeon Digital
+Blair Jackson,Brand Manager,Claude AI,4,2,Nickelodeon Digital
+Blair Jackson,Brand Manager,Cursor,3,1,Nickelodeon Digital
+Tatum Wright,Graphic Designer,Runway ML,4,2,Nickelodeon Digital
+Tatum Wright,Graphic Designer,Google Gemini,2,0,Nickelodeon Digital
+Tatum Wright,Graphic Designer,Adobe Firefly,5,5,Nickelodeon Digital
+Tatum Wright,Graphic Designer,ChatGPT,0,0,Nickelodeon Digital
+Tatum Wright,Graphic Designer,Microsoft Copilot,0,0,Nickelodeon Digital
+Tatum Wright,Graphic Designer,Claude AI,1,0,Nickelodeon Digital
+Tatum Wright,Graphic Designer,Cursor,3,0,Nickelodeon Digital
+Sam Smith,Creative Lead,Runway ML,3,3,Nickelodeon Digital
+Sam Smith,Creative Lead,Google Gemini,3,1,Nickelodeon Digital
+Sam Smith,Creative Lead,Adobe Firefly,0,0,Nickelodeon Digital
+Sam Smith,Creative Lead,ChatGPT,1,0,Nickelodeon Digital
+Sam Smith,Creative Lead,Microsoft Copilot,1,0,Nickelodeon Digital
+Sam Smith,Creative Lead,Claude AI,3,1,Nickelodeon Digital
+Sam Smith,Creative Lead,Cursor,1,0,Nickelodeon Digital
+Parker Thomas,Kids Content Creator,Runway ML,3,3,Nickelodeon Digital
+Parker Thomas,Kids Content Creator,Google Gemini,2,2,Nickelodeon Digital
+Parker Thomas,Kids Content Creator,Adobe Firefly,4,4,Nickelodeon Digital
+Parker Thomas,Kids Content Creator,ChatGPT,4,3,Nickelodeon Digital
+Parker Thomas,Kids Content Creator,Microsoft Copilot,3,0,Nickelodeon Digital
+Parker Thomas,Kids Content Creator,Claude AI,0,0,Nickelodeon Digital
+Parker Thomas,Kids Content Creator,Cursor,3,0,Nickelodeon Digital
+Harper Green,Community Manager,Runway ML,1,0,Nickelodeon Digital
+Harper Green,Community Manager,Google Gemini,4,0,Nickelodeon Digital
+Harper Green,Community Manager,Adobe Firefly,4,3,Nickelodeon Digital
+Harper Green,Community Manager,ChatGPT,5,4,Nickelodeon Digital
+Harper Green,Community Manager,Microsoft Copilot,0,0,Nickelodeon Digital
+Harper Green,Community Manager,Claude AI,4,2,Nickelodeon Digital
+Harper Green,Community Manager,Cursor,2,0,Nickelodeon Digital
+Sam Hall,Motion Designer,Runway ML,3,2,Nickelodeon Digital
+Sam Hall,Motion Designer,Google Gemini,3,2,Nickelodeon Digital
+Sam Hall,Motion Designer,Adobe Firefly,5,4,Nickelodeon Digital
+Sam Hall,Motion Designer,ChatGPT,3,4,Nickelodeon Digital
+Sam Hall,Motion Designer,Microsoft Copilot,1,1,Nickelodeon Digital
+Sam Hall,Motion Designer,Claude AI,4,1,Nickelodeon Digital
+Sam Hall,Motion Designer,Cursor,2,0,Nickelodeon Digital
+Gray Thompson,Digital Producer,Runway ML,5,3,Nickelodeon Digital
+Gray Thompson,Digital Producer,Google Gemini,2,0,Nickelodeon Digital
+Gray Thompson,Digital Producer,Adobe Firefly,4,4,Nickelodeon Digital
+Gray Thompson,Digital Producer,ChatGPT,4,4,Nickelodeon Digital
+Gray Thompson,Digital Producer,Microsoft Copilot,3,1,Nickelodeon Digital
+Gray Thompson,Digital Producer,Claude AI,2,2,Nickelodeon Digital
+Gray Thompson,Digital Producer,Cursor,3,0,Nickelodeon Digital
+Casey Nelson,Motion Designer,Runway ML,4,2,Nickelodeon Digital
+Casey Nelson,Motion Designer,Google Gemini,1,0,Nickelodeon Digital
+Casey Nelson,Motion Designer,Adobe Firefly,5,4,Nickelodeon Digital
+Casey Nelson,Motion Designer,ChatGPT,0,0,Nickelodeon Digital
+Casey Nelson,Motion Designer,Microsoft Copilot,1,0,Nickelodeon Digital
+Casey Nelson,Motion Designer,Claude AI,2,0,Nickelodeon Digital
+Casey Nelson,Motion Designer,Cursor,3,1,Nickelodeon Digital
+Frankie Flores,Brand Manager,Runway ML,4,2,Nickelodeon Digital
+Frankie Flores,Brand Manager,Google Gemini,0,0,Nickelodeon Digital
+Frankie Flores,Brand Manager,Adobe Firefly,5,3,Nickelodeon Digital
+Frankie Flores,Brand Manager,ChatGPT,5,3,Nickelodeon Digital
+Frankie Flores,Brand Manager,Microsoft Copilot,3,0,Nickelodeon Digital
+Frankie Flores,Brand Manager,Claude AI,0,0,Nickelodeon Digital
+Frankie Flores,Brand Manager,Cursor,2,0,Nickelodeon Digital
+Frankie Miller,Animation Designer,Runway ML,5,2,Nickelodeon Digital
+Frankie Miller,Animation Designer,Google Gemini,2,0,Nickelodeon Digital
+Frankie Miller,Animation Designer,Adobe Firefly,4,5,Nickelodeon Digital
+Frankie Miller,Animation Designer,ChatGPT,3,3,Nickelodeon Digital
+Frankie Miller,Animation Designer,Microsoft Copilot,1,1,Nickelodeon Digital
+Frankie Miller,Animation Designer,Claude AI,4,2,Nickelodeon Digital
+Frankie Miller,Animation Designer,Cursor,1,0,Nickelodeon Digital
+Hollis Sanchez,Motion Designer,Runway ML,2,0,Nickelodeon Digital
+Hollis Sanchez,Motion Designer,Google Gemini,3,1,Nickelodeon Digital
+Hollis Sanchez,Motion Designer,Adobe Firefly,5,4,Nickelodeon Digital
+Hollis Sanchez,Motion Designer,ChatGPT,5,2,Nickelodeon Digital
+Hollis Sanchez,Motion Designer,Microsoft Copilot,1,0,Nickelodeon Digital
+Hollis Sanchez,Motion Designer,Claude AI,4,2,Nickelodeon Digital
+Hollis Sanchez,Motion Designer,Cursor,2,1,Nickelodeon Digital
+Alex Campbell,Kids Content Creator,Runway ML,0,0,Nickelodeon Digital
+Alex Campbell,Kids Content Creator,Google Gemini,3,0,Nickelodeon Digital
+Alex Campbell,Kids Content Creator,Adobe Firefly,4,3,Nickelodeon Digital
+Alex Campbell,Kids Content Creator,ChatGPT,3,3,Nickelodeon Digital
+Alex Campbell,Kids Content Creator,Microsoft Copilot,1,0,Nickelodeon Digital
+Alex Campbell,Kids Content Creator,Claude AI,1,0,Nickelodeon Digital
+Alex Campbell,Kids Content Creator,Cursor,3,0,Nickelodeon Digital
+Blair Martin,Animation Designer,Runway ML,5,3,Nickelodeon Digital
+Blair Martin,Animation Designer,Google Gemini,1,0,Nickelodeon Digital
+Blair Martin,Animation Designer,Adobe Firefly,5,3,Nickelodeon Digital
+Blair Martin,Animation Designer,ChatGPT,5,4,Nickelodeon Digital
+Blair Martin,Animation Designer,Microsoft Copilot,2,0,Nickelodeon Digital
+Blair Martin,Animation Designer,Claude AI,0,0,Nickelodeon Digital
+Blair Martin,Animation Designer,Cursor,2,1,Nickelodeon Digital
+Madison Clark,Animation Designer,Runway ML,3,4,Nickelodeon Digital
+Madison Clark,Animation Designer,Google Gemini,4,0,Nickelodeon Digital
+Madison Clark,Animation Designer,Adobe Firefly,5,3,Nickelodeon Digital
+Madison Clark,Animation Designer,ChatGPT,3,3,Nickelodeon Digital
+Madison Clark,Animation Designer,Microsoft Copilot,2,0,Nickelodeon Digital
+Madison Clark,Animation Designer,Claude AI,4,1,Nickelodeon Digital
+Madison Clark,Animation Designer,Cursor,3,0,Nickelodeon Digital
+Dakota Gomez,Community Manager,Runway ML,3,2,Nickelodeon Digital
+Dakota Gomez,Community Manager,Google Gemini,3,2,Nickelodeon Digital
+Dakota Gomez,Community Manager,Adobe Firefly,2,0,Nickelodeon Digital
+Dakota Gomez,Community Manager,ChatGPT,4,4,Nickelodeon Digital
+Dakota Gomez,Community Manager,Microsoft Copilot,1,1,Nickelodeon Digital
+Dakota Gomez,Community Manager,Claude AI,4,0,Nickelodeon Digital
+Dakota Gomez,Community Manager,Cursor,3,0,Nickelodeon Digital
+Rowan Roberts,Community Manager,Runway ML,4,4,Nickelodeon Digital
+Rowan Roberts,Community Manager,Google Gemini,2,0,Nickelodeon Digital
+Rowan Roberts,Community Manager,Adobe Firefly,5,4,Nickelodeon Digital
+Rowan Roberts,Community Manager,ChatGPT,4,3,Nickelodeon Digital
+Rowan Roberts,Community Manager,Microsoft Copilot,1,1,Nickelodeon Digital
+Rowan Roberts,Community Manager,Claude AI,0,0,Nickelodeon Digital
+Rowan Roberts,Community Manager,Cursor,1,0,Nickelodeon Digital
+Sam Carter,Animation Designer,Runway ML,2,0,Nickelodeon Digital
+Sam Carter,Animation Designer,Google Gemini,2,0,Nickelodeon Digital
+Sam Carter,Animation Designer,Adobe Firefly,4,4,Nickelodeon Digital
+Sam Carter,Animation Designer,ChatGPT,3,3,Nickelodeon Digital
+Sam Carter,Animation Designer,Microsoft Copilot,3,1,Nickelodeon Digital
+Sam Carter,Animation Designer,Claude AI,4,2,Nickelodeon Digital
+Sam Carter,Animation Designer,Cursor,3,0,Nickelodeon Digital
+Oakley King,Kids Content Creator,Runway ML,0,0,Nickelodeon Digital
+Oakley King,Kids Content Creator,Google Gemini,4,2,Nickelodeon Digital
+Oakley King,Kids Content Creator,Adobe Firefly,5,5,Nickelodeon Digital
+Oakley King,Kids Content Creator,ChatGPT,3,4,Nickelodeon Digital
+Oakley King,Kids Content Creator,Microsoft Copilot,1,1,Nickelodeon Digital
+Oakley King,Kids Content Creator,Claude AI,4,1,Nickelodeon Digital
+Oakley King,Kids Content Creator,Cursor,2,0,Nickelodeon Digital
+Devon Parker,Brand Manager,Runway ML,2,0,Nickelodeon Digital
+Devon Parker,Brand Manager,Google Gemini,3,2,Nickelodeon Digital
+Devon Parker,Brand Manager,Adobe Firefly,4,3,Nickelodeon Digital
+Devon Parker,Brand Manager,ChatGPT,5,4,Nickelodeon Digital
+Devon Parker,Brand Manager,Microsoft Copilot,1,1,Nickelodeon Digital
+Devon Parker,Brand Manager,Claude AI,3,2,Nickelodeon Digital
+Devon Parker,Brand Manager,Cursor,3,1,Nickelodeon Digital
+Marley Taylor,Community Manager,Runway ML,3,4,Nickelodeon Digital
+Marley Taylor,Community Manager,Google Gemini,2,0,Nickelodeon Digital
+Marley Taylor,Community Manager,Adobe Firefly,2,0,Nickelodeon Digital
+Marley Taylor,Community Manager,ChatGPT,4,3,Nickelodeon Digital
+Marley Taylor,Community Manager,Microsoft Copilot,3,0,Nickelodeon Digital
+Marley Taylor,Community Manager,Claude AI,4,0,Nickelodeon Digital
+Marley Taylor,Community Manager,Cursor,2,1,Nickelodeon Digital
+Jamie Wilson,Social Media Manager,Runway ML,5,4,Nickelodeon Digital
+Jamie Wilson,Social Media Manager,Google Gemini,2,0,Nickelodeon Digital
+Jamie Wilson,Social Media Manager,Adobe Firefly,4,4,Nickelodeon Digital
+Jamie Wilson,Social Media Manager,ChatGPT,3,3,Nickelodeon Digital
+Jamie Wilson,Social Media Manager,Microsoft Copilot,2,0,Nickelodeon Digital
+Jamie Wilson,Social Media Manager,Claude AI,0,0,Nickelodeon Digital
+Jamie Wilson,Social Media Manager,Cursor,3,0,Nickelodeon Digital
+Logan Clark,Graphic Designer,Runway ML,4,4,Nickelodeon Digital
+Logan Clark,Graphic Designer,Google Gemini,4,2,Nickelodeon Digital
+Logan Clark,Graphic Designer,Adobe Firefly,0,0,Nickelodeon Digital
+Logan Clark,Graphic Designer,ChatGPT,5,4,Nickelodeon Digital
+Logan Clark,Graphic Designer,Microsoft Copilot,1,0,Nickelodeon Digital
+Logan Clark,Graphic Designer,Claude AI,2,0,Nickelodeon Digital
+Logan Clark,Graphic Designer,Cursor,1,0,Nickelodeon Digital
+Devon Walker,Social Media Manager,Runway ML,3,2,Nickelodeon Digital
+Devon Walker,Social Media Manager,Google Gemini,3,0,Nickelodeon Digital
+Devon Walker,Social Media Manager,Adobe Firefly,5,3,Nickelodeon Digital
+Devon Walker,Social Media Manager,ChatGPT,3,3,Nickelodeon Digital
+Devon Walker,Social Media Manager,Microsoft Copilot,2,1,Nickelodeon Digital
+Devon Walker,Social Media Manager,Claude AI,2,1,Nickelodeon Digital
+Devon Walker,Social Media Manager,Cursor,1,1,Nickelodeon Digital
+Kendall Flores,Brand Manager,Runway ML,5,4,Nickelodeon Digital
+Kendall Flores,Brand Manager,Google Gemini,4,0,Nickelodeon Digital
+Kendall Flores,Brand Manager,Adobe Firefly,5,4,Nickelodeon Digital
+Kendall Flores,Brand Manager,ChatGPT,3,3,Nickelodeon Digital
+Kendall Flores,Brand Manager,Microsoft Copilot,1,1,Nickelodeon Digital
+Kendall Flores,Brand Manager,Claude AI,1,0,Nickelodeon Digital
+Kendall Flores,Brand Manager,Cursor,2,1,Nickelodeon Digital
+Dakota Robinson,Social Media Manager,Runway ML,4,3,Nickelodeon Digital
+Dakota Robinson,Social Media Manager,Google Gemini,2,2,Nickelodeon Digital
+Dakota Robinson,Social Media Manager,Adobe Firefly,4,4,Nickelodeon Digital
+Dakota Robinson,Social Media Manager,ChatGPT,2,0,Nickelodeon Digital
+Dakota Robinson,Social Media Manager,Microsoft Copilot,3,0,Nickelodeon Digital
+Dakota Robinson,Social Media Manager,Claude AI,1,0,Nickelodeon Digital
+Dakota Robinson,Social Media Manager,Cursor,3,0,Nickelodeon Digital
+Riley Taylor,Digital Producer,Runway ML,5,4,Nickelodeon Digital
+Riley Taylor,Digital Producer,Google Gemini,2,2,Nickelodeon Digital
+Riley Taylor,Digital Producer,Adobe Firefly,4,3,Nickelodeon Digital
+Riley Taylor,Digital Producer,ChatGPT,5,4,Nickelodeon Digital
+Riley Taylor,Digital Producer,Microsoft Copilot,3,0,Nickelodeon Digital
+Riley Taylor,Digital Producer,Claude AI,3,0,Nickelodeon Digital
+Riley Taylor,Digital Producer,Cursor,0,0,Nickelodeon Digital
+Cameron Roberts,Kids Content Creator,Runway ML,4,3,Nickelodeon Digital
+Cameron Roberts,Kids Content Creator,Google Gemini,3,1,Nickelodeon Digital
+Cameron Roberts,Kids Content Creator,Adobe Firefly,4,3,Nickelodeon Digital
+Cameron Roberts,Kids Content Creator,ChatGPT,1,0,Nickelodeon Digital
+Cameron Roberts,Kids Content Creator,Microsoft Copilot,2,0,Nickelodeon Digital
+Cameron Roberts,Kids Content Creator,Claude AI,3,0,Nickelodeon Digital
+Cameron Roberts,Kids Content Creator,Cursor,3,1,Nickelodeon Digital
+Parker Garcia,Brand Manager,Runway ML,5,2,Nickelodeon Digital
+Parker Garcia,Brand Manager,Google Gemini,4,1,Nickelodeon Digital
+Parker Garcia,Brand Manager,Adobe Firefly,0,0,Nickelodeon Digital
+Parker Garcia,Brand Manager,ChatGPT,5,3,Nickelodeon Digital
+Parker Garcia,Brand Manager,Microsoft Copilot,3,1,Nickelodeon Digital
+Parker Garcia,Brand Manager,Claude AI,0,0,Nickelodeon Digital
+Parker Garcia,Brand Manager,Cursor,1,1,Nickelodeon Digital
+Quincy Hall,Brand Manager,Runway ML,1,0,Nickelodeon Digital
+Quincy Hall,Brand Manager,Google Gemini,4,2,Nickelodeon Digital
+Quincy Hall,Brand Manager,Adobe Firefly,4,3,Nickelodeon Digital
+Quincy Hall,Brand Manager,ChatGPT,4,2,Nickelodeon Digital
+Quincy Hall,Brand Manager,Microsoft Copilot,2,0,Nickelodeon Digital
+Quincy Hall,Brand Manager,Claude AI,2,0,Nickelodeon Digital
+Quincy Hall,Brand Manager,Cursor,2,1,Nickelodeon Digital
+Frankie Wilson,Video Editor,Runway ML,2,0,Nickelodeon Digital
+Frankie Wilson,Video Editor,Google Gemini,4,2,Nickelodeon Digital
+Frankie Wilson,Video Editor,Adobe Firefly,5,5,Nickelodeon Digital
+Frankie Wilson,Video Editor,ChatGPT,5,4,Nickelodeon Digital
+Frankie Wilson,Video Editor,Microsoft Copilot,3,1,Nickelodeon Digital
+Frankie Wilson,Video Editor,Claude AI,4,2,Nickelodeon Digital
+Frankie Wilson,Video Editor,Cursor,3,1,Nickelodeon Digital
+Cameron Flores,Video Editor,Runway ML,5,3,Nickelodeon Digital
+Cameron Flores,Video Editor,Google Gemini,2,0,Nickelodeon Digital
+Cameron Flores,Video Editor,Adobe Firefly,4,5,Nickelodeon Digital
+Cameron Flores,Video Editor,ChatGPT,5,4,Nickelodeon Digital
+Cameron Flores,Video Editor,Microsoft Copilot,0,0,Nickelodeon Digital
+Cameron Flores,Video Editor,Claude AI,4,1,Nickelodeon Digital
+Cameron Flores,Video Editor,Cursor,1,1,Nickelodeon Digital
+Hollis Lee,Kids Content Creator,Runway ML,3,4,Nickelodeon Digital
+Hollis Lee,Kids Content Creator,Google Gemini,3,2,Nickelodeon Digital
+Hollis Lee,Kids Content Creator,Adobe Firefly,1,0,Nickelodeon Digital
+Hollis Lee,Kids Content Creator,ChatGPT,5,2,Nickelodeon Digital
+Hollis Lee,Kids Content Creator,Microsoft Copilot,3,0,Nickelodeon Digital
+Hollis Lee,Kids Content Creator,Claude AI,4,1,Nickelodeon Digital
+Hollis Lee,Kids Content Creator,Cursor,3,1,Nickelodeon Digital
+Charlie Clark,Kids Content Creator,Runway ML,5,3,Nickelodeon Digital
+Charlie Clark,Kids Content Creator,Google Gemini,4,1,Nickelodeon Digital
+Charlie Clark,Kids Content Creator,Adobe Firefly,4,3,Nickelodeon Digital
+Charlie Clark,Kids Content Creator,ChatGPT,4,3,Nickelodeon Digital
+Charlie Clark,Kids Content Creator,Microsoft Copilot,1,1,Nickelodeon Digital
+Charlie Clark,Kids Content Creator,Claude AI,4,2,Nickelodeon Digital
+Charlie Clark,Kids Content Creator,Cursor,0,0,Nickelodeon Digital
+Finch Gomez,Graphic Designer,Runway ML,5,3,Nickelodeon Digital
+Finch Gomez,Graphic Designer,Google Gemini,0,0,Nickelodeon Digital
+Finch Gomez,Graphic Designer,Adobe Firefly,5,4,Nickelodeon Digital
+Finch Gomez,Graphic Designer,ChatGPT,0,0,Nickelodeon Digital
+Finch Gomez,Graphic Designer,Microsoft Copilot,1,0,Nickelodeon Digital
+Finch Gomez,Graphic Designer,Claude AI,2,1,Nickelodeon Digital
+Finch Gomez,Graphic Designer,Cursor,1,0,Nickelodeon Digital
+Blake Campbell,Motion Designer,Runway ML,0,0,Nickelodeon Digital
+Blake Campbell,Motion Designer,Google Gemini,4,2,Nickelodeon Digital
+Blake Campbell,Motion Designer,Adobe Firefly,1,0,Nickelodeon Digital
+Blake Campbell,Motion Designer,ChatGPT,5,4,Nickelodeon Digital
+Blake Campbell,Motion Designer,Microsoft Copilot,3,0,Nickelodeon Digital
+Blake Campbell,Motion Designer,Claude AI,2,0,Nickelodeon Digital
+Blake Campbell,Motion Designer,Cursor,1,0,Nickelodeon Digital
+Marley Wilson,Digital Producer,Runway ML,3,2,Nickelodeon Digital
+Marley Wilson,Digital Producer,Google Gemini,4,1,Nickelodeon Digital
+Marley Wilson,Digital Producer,Adobe Firefly,1,0,Nickelodeon Digital
+Marley Wilson,Digital Producer,ChatGPT,3,1,Nickelodeon Digital
+Marley Wilson,Digital Producer,Microsoft Copilot,1,0,Nickelodeon Digital
+Marley Wilson,Digital Producer,Claude AI,4,1,Nickelodeon Digital
+Marley Wilson,Digital Producer,Cursor,3,1,Nickelodeon Digital
+Drew Jones,Graphic Designer,Runway ML,5,3,Nickelodeon Digital
+Drew Jones,Graphic Designer,Google Gemini,2,0,Nickelodeon Digital
+Drew Jones,Graphic Designer,Adobe Firefly,4,3,Nickelodeon Digital
+Drew Jones,Graphic Designer,ChatGPT,3,4,Nickelodeon Digital
+Drew Jones,Graphic Designer,Microsoft Copilot,2,1,Nickelodeon Digital
+Drew Jones,Graphic Designer,Claude AI,4,2,Nickelodeon Digital
+Drew Jones,Graphic Designer,Cursor,1,1,Nickelodeon Digital
+Riley Evans,Creative Lead,Runway ML,3,3,Nickelodeon Digital
+Riley Evans,Creative Lead,Google Gemini,4,2,Nickelodeon Digital
+Riley Evans,Creative Lead,Adobe Firefly,5,3,Nickelodeon Digital
+Riley Evans,Creative Lead,ChatGPT,3,4,Nickelodeon Digital
+Riley Evans,Creative Lead,Microsoft Copilot,3,1,Nickelodeon Digital
+Riley Evans,Creative Lead,Claude AI,3,1,Nickelodeon Digital
+Riley Evans,Creative Lead,Cursor,1,0,Nickelodeon Digital
+Ryan Diaz,Social Media Manager,Runway ML,4,3,Nickelodeon Digital
+Ryan Diaz,Social Media Manager,Google Gemini,2,0,Nickelodeon Digital
+Ryan Diaz,Social Media Manager,Adobe Firefly,4,4,Nickelodeon Digital
+Ryan Diaz,Social Media Manager,ChatGPT,3,4,Nickelodeon Digital
+Ryan Diaz,Social Media Manager,Microsoft Copilot,1,0,Nickelodeon Digital
+Ryan Diaz,Social Media Manager,Claude AI,0,0,Nickelodeon Digital
+Ryan Diaz,Social Media Manager,Cursor,3,1,Nickelodeon Digital
+Madison Torres,Digital Producer,Runway ML,5,4,Nickelodeon Digital
+Madison Torres,Digital Producer,Google Gemini,2,0,Nickelodeon Digital
+Madison Torres,Digital Producer,Adobe Firefly,5,3,Nickelodeon Digital
+Madison Torres,Digital Producer,ChatGPT,1,0,Nickelodeon Digital
+Madison Torres,Digital Producer,Microsoft Copilot,1,0,Nickelodeon Digital
+Madison Torres,Digital Producer,Claude AI,4,1,Nickelodeon Digital
+Madison Torres,Digital Producer,Cursor,0,0,Nickelodeon Digital
+Jules Carter,Kids Content Creator,Runway ML,2,0,Nickelodeon Digital
+Jules Carter,Kids Content Creator,Google Gemini,3,1,Nickelodeon Digital
+Jules Carter,Kids Content Creator,Adobe Firefly,5,3,Nickelodeon Digital
+Jules Carter,Kids Content Creator,ChatGPT,4,4,Nickelodeon Digital
+Jules Carter,Kids Content Creator,Microsoft Copilot,2,1,Nickelodeon Digital
+Jules Carter,Kids Content Creator,Claude AI,4,0,Nickelodeon Digital
+Jules Carter,Kids Content Creator,Cursor,3,1,Nickelodeon Digital
+Eden Jackson,Kids Content Creator,Runway ML,4,4,Nickelodeon Digital
+Eden Jackson,Kids Content Creator,Google Gemini,2,2,Nickelodeon Digital
+Eden Jackson,Kids Content Creator,Adobe Firefly,5,3,Nickelodeon Digital
+Eden Jackson,Kids Content Creator,ChatGPT,3,3,Nickelodeon Digital
+Eden Jackson,Kids Content Creator,Microsoft Copilot,3,1,Nickelodeon Digital
+Eden Jackson,Kids Content Creator,Claude AI,3,2,Nickelodeon Digital
+Eden Jackson,Kids Content Creator,Cursor,2,0,Nickelodeon Digital
+Hayden Turner,Digital Producer,Runway ML,4,2,Nickelodeon Digital
+Hayden Turner,Digital Producer,Google Gemini,0,0,Nickelodeon Digital
+Hayden Turner,Digital Producer,Adobe Firefly,4,3,Nickelodeon Digital
+Hayden Turner,Digital Producer,ChatGPT,2,0,Nickelodeon Digital
+Hayden Turner,Digital Producer,Microsoft Copilot,2,1,Nickelodeon Digital
+Hayden Turner,Digital Producer,Claude AI,4,2,Nickelodeon Digital
+Hayden Turner,Digital Producer,Cursor,3,0,Nickelodeon Digital
+Madison Scott,Creative Lead,Runway ML,4,3,Nickelodeon Digital
+Madison Scott,Creative Lead,Google Gemini,1,0,Nickelodeon Digital
+Madison Scott,Creative Lead,Adobe Firefly,4,5,Nickelodeon Digital
+Madison Scott,Creative Lead,ChatGPT,4,4,Nickelodeon Digital
+Madison Scott,Creative Lead,Microsoft Copilot,3,1,Nickelodeon Digital
+Madison Scott,Creative Lead,Claude AI,2,2,Nickelodeon Digital
+Madison Scott,Creative Lead,Cursor,2,0,Nickelodeon Digital
+Frankie Diaz,Graphic Designer,Runway ML,2,0,Nickelodeon Digital
+Frankie Diaz,Graphic Designer,Google Gemini,2,0,Nickelodeon Digital
+Frankie Diaz,Graphic Designer,Adobe Firefly,4,5,Nickelodeon Digital
+Frankie Diaz,Graphic Designer,ChatGPT,5,4,Nickelodeon Digital
+Frankie Diaz,Graphic Designer,Microsoft Copilot,1,1,Nickelodeon Digital
+Frankie Diaz,Graphic Designer,Claude AI,3,2,Nickelodeon Digital
+Frankie Diaz,Graphic Designer,Cursor,2,1,Nickelodeon Digital
+Dakota Hernandez,Kids Content Creator,Runway ML,5,4,Nickelodeon Digital
+Dakota Hernandez,Kids Content Creator,Google Gemini,4,2,Nickelodeon Digital
+Dakota Hernandez,Kids Content Creator,Adobe Firefly,0,0,Nickelodeon Digital
+Dakota Hernandez,Kids Content Creator,ChatGPT,5,2,Nickelodeon Digital
+Dakota Hernandez,Kids Content Creator,Microsoft Copilot,2,0,Nickelodeon Digital
+Dakota Hernandez,Kids Content Creator,Claude AI,2,1,Nickelodeon Digital
+Dakota Hernandez,Kids Content Creator,Cursor,3,1,Nickelodeon Digital
+Finley Smith,Animation Designer,Runway ML,5,2,Nickelodeon Digital
+Finley Smith,Animation Designer,Google Gemini,4,0,Nickelodeon Digital
+Finley Smith,Animation Designer,Adobe Firefly,5,3,Nickelodeon Digital
+Finley Smith,Animation Designer,ChatGPT,5,2,Nickelodeon Digital
+Finley Smith,Animation Designer,Microsoft Copilot,1,0,Nickelodeon Digital
+Finley Smith,Animation Designer,Claude AI,2,1,Nickelodeon Digital
+Finley Smith,Animation Designer,Cursor,2,1,Nickelodeon Digital
+Parker Campbell,Social Media Manager,Runway ML,3,4,Nickelodeon Digital
+Parker Campbell,Social Media Manager,Google Gemini,3,0,Nickelodeon Digital
+Parker Campbell,Social Media Manager,Adobe Firefly,1,0,Nickelodeon Digital
+Parker Campbell,Social Media Manager,ChatGPT,4,3,Nickelodeon Digital
+Parker Campbell,Social Media Manager,Microsoft Copilot,3,1,Nickelodeon Digital
+Parker Campbell,Social Media Manager,Claude AI,2,2,Nickelodeon Digital
+Parker Campbell,Social Media Manager,Cursor,1,1,Nickelodeon Digital
+Parker Harris,Digital Producer,Runway ML,5,4,Nickelodeon Digital
+Parker Harris,Digital Producer,Google Gemini,2,2,Nickelodeon Digital
+Parker Harris,Digital Producer,Adobe Firefly,5,5,Nickelodeon Digital
+Parker Harris,Digital Producer,ChatGPT,4,3,Nickelodeon Digital
+Parker Harris,Digital Producer,Microsoft Copilot,3,1,Nickelodeon Digital
+Parker Harris,Digital Producer,Claude AI,4,2,Nickelodeon Digital
+Parker Harris,Digital Producer,Cursor,3,0,Nickelodeon Digital
+Palmer Hall,Social Media Manager,Runway ML,0,0,Nickelodeon Digital
+Palmer Hall,Social Media Manager,Google Gemini,2,0,Nickelodeon Digital
+Palmer Hall,Social Media Manager,Adobe Firefly,4,5,Nickelodeon Digital
+Palmer Hall,Social Media Manager,ChatGPT,2,0,Nickelodeon Digital
+Palmer Hall,Social Media Manager,Microsoft Copilot,1,0,Nickelodeon Digital
+Palmer Hall,Social Media Manager,Claude AI,4,0,Nickelodeon Digital
+Palmer Hall,Social Media Manager,Cursor,3,0,Nickelodeon Digital
+Quinn Garcia,Brand Manager,Runway ML,3,3,Nickelodeon Digital
+Quinn Garcia,Brand Manager,Google Gemini,4,2,Nickelodeon Digital
+Quinn Garcia,Brand Manager,Adobe Firefly,4,3,Nickelodeon Digital
+Quinn Garcia,Brand Manager,ChatGPT,4,3,Nickelodeon Digital
+Quinn Garcia,Brand Manager,Microsoft Copilot,2,1,Nickelodeon Digital
+Quinn Garcia,Brand Manager,Claude AI,4,1,Nickelodeon Digital
+Quinn Garcia,Brand Manager,Cursor,1,1,Nickelodeon Digital
+Hayden Harris,Digital Producer,Runway ML,3,3,Nickelodeon Digital
+Hayden Harris,Digital Producer,Google Gemini,3,0,Nickelodeon Digital
+Hayden Harris,Digital Producer,Adobe Firefly,5,3,Nickelodeon Digital
+Hayden Harris,Digital Producer,ChatGPT,3,4,Nickelodeon Digital
+Hayden Harris,Digital Producer,Microsoft Copilot,2,0,Nickelodeon Digital
+Hayden Harris,Digital Producer,Claude AI,2,1,Nickelodeon Digital
+Hayden Harris,Digital Producer,Cursor,2,0,Nickelodeon Digital
+Sawyer Taylor,Creative Lead,Runway ML,2,0,Nickelodeon Digital
+Sawyer Taylor,Creative Lead,Google Gemini,2,0,Nickelodeon Digital
+Sawyer Taylor,Creative Lead,Adobe Firefly,5,3,Nickelodeon Digital
+Sawyer Taylor,Creative Lead,ChatGPT,4,4,Nickelodeon Digital
+Sawyer Taylor,Creative Lead,Microsoft Copilot,2,0,Nickelodeon Digital
+Sawyer Taylor,Creative Lead,Claude AI,2,1,Nickelodeon Digital
+Sawyer Taylor,Creative Lead,Cursor,2,0,Nickelodeon Digital
+Kai Perez,Graphic Designer,Runway ML,4,2,Nickelodeon Digital
+Kai Perez,Graphic Designer,Google Gemini,4,0,Nickelodeon Digital
+Kai Perez,Graphic Designer,Adobe Firefly,5,3,Nickelodeon Digital
+Kai Perez,Graphic Designer,ChatGPT,4,4,Nickelodeon Digital
+Kai Perez,Graphic Designer,Microsoft Copilot,3,0,Nickelodeon Digital
+Kai Perez,Graphic Designer,Claude AI,3,0,Nickelodeon Digital
+Kai Perez,Graphic Designer,Cursor,2,0,Nickelodeon Digital
+Parker Mitchell,Video Editor,Runway ML,2,0,Nickelodeon Digital
+Parker Mitchell,Video Editor,Google Gemini,4,0,Nickelodeon Digital
+Parker Mitchell,Video Editor,Adobe Firefly,4,5,Nickelodeon Digital
+Parker Mitchell,Video Editor,ChatGPT,4,3,Nickelodeon Digital
+Parker Mitchell,Video Editor,Microsoft Copilot,1,0,Nickelodeon Digital
+Parker Mitchell,Video Editor,Claude AI,0,0,Nickelodeon Digital
+Parker Mitchell,Video Editor,Cursor,1,1,Nickelodeon Digital
+Finch Parker,Motion Designer,Runway ML,3,4,Nickelodeon Digital
+Finch Parker,Motion Designer,Google Gemini,2,0,Nickelodeon Digital
+Finch Parker,Motion Designer,Adobe Firefly,2,0,Nickelodeon Digital
+Finch Parker,Motion Designer,ChatGPT,0,0,Nickelodeon Digital
+Finch Parker,Motion Designer,Microsoft Copilot,3,0,Nickelodeon Digital
+Finch Parker,Motion Designer,Claude AI,2,1,Nickelodeon Digital
+Finch Parker,Motion Designer,Cursor,3,0,Nickelodeon Digital
+Avery Davis,Creative Lead,Runway ML,5,4,Nickelodeon Digital
+Avery Davis,Creative Lead,Google Gemini,2,1,Nickelodeon Digital
+Avery Davis,Creative Lead,Adobe Firefly,2,0,Nickelodeon Digital
+Avery Davis,Creative Lead,ChatGPT,5,4,Nickelodeon Digital
+Avery Davis,Creative Lead,Microsoft Copilot,3,0,Nickelodeon Digital
+Avery Davis,Creative Lead,Claude AI,1,0,Nickelodeon Digital
+Avery Davis,Creative Lead,Cursor,1,1,Nickelodeon Digital
+Jules Williams,Social Media Manager,Runway ML,3,4,Nickelodeon Digital
+Jules Williams,Social Media Manager,Google Gemini,2,0,Nickelodeon Digital
+Jules Williams,Social Media Manager,Adobe Firefly,0,0,Nickelodeon Digital
+Jules Williams,Social Media Manager,ChatGPT,5,4,Nickelodeon Digital
+Jules Williams,Social Media Manager,Microsoft Copilot,2,0,Nickelodeon Digital
+Jules Williams,Social Media Manager,Claude AI,4,1,Nickelodeon Digital
+Jules Williams,Social Media Manager,Cursor,2,0,Nickelodeon Digital
+Lane Hall,Kids Content Creator,Runway ML,5,2,Nickelodeon Digital
+Lane Hall,Kids Content Creator,Google Gemini,4,0,Nickelodeon Digital
+Lane Hall,Kids Content Creator,Adobe Firefly,5,4,Nickelodeon Digital
+Lane Hall,Kids Content Creator,ChatGPT,5,2,Nickelodeon Digital
+Lane Hall,Kids Content Creator,Microsoft Copilot,3,0,Nickelodeon Digital
+Lane Hall,Kids Content Creator,Claude AI,4,2,Nickelodeon Digital
+Lane Hall,Kids Content Creator,Cursor,0,0,Nickelodeon Digital
+Palmer Diaz,Creative Lead,Runway ML,0,0,Nickelodeon Digital
+Palmer Diaz,Creative Lead,Google Gemini,2,2,Nickelodeon Digital
+Palmer Diaz,Creative Lead,Adobe Firefly,4,4,Nickelodeon Digital
+Palmer Diaz,Creative Lead,ChatGPT,5,3,Nickelodeon Digital
+Palmer Diaz,Creative Lead,Microsoft Copilot,1,0,Nickelodeon Digital
+Palmer Diaz,Creative Lead,Claude AI,0,0,Nickelodeon Digital
+Palmer Diaz,Creative Lead,Cursor,3,1,Nickelodeon Digital

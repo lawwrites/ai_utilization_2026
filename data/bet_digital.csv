@@ -1,0 +1,456 @@
+User Name,Role,Product,User Satisfaction (0-5),Weekly Usage (0-7),Team
+Marley Davis,Social Media Manager,Runway ML,5,3,BET Digital
+Marley Davis,Social Media Manager,Google Gemini,2,0,BET Digital
+Marley Davis,Social Media Manager,Adobe Firefly,4,5,BET Digital
+Marley Davis,Social Media Manager,ChatGPT,3,2,BET Digital
+Marley Davis,Social Media Manager,Microsoft Copilot,3,1,BET Digital
+Marley Davis,Social Media Manager,Claude AI,4,1,BET Digital
+Marley Davis,Social Media Manager,Cursor,1,0,BET Digital
+Phoenix Moore,Video Editor,Runway ML,1,0,BET Digital
+Phoenix Moore,Video Editor,Google Gemini,2,1,BET Digital
+Phoenix Moore,Video Editor,Adobe Firefly,5,3,BET Digital
+Phoenix Moore,Video Editor,ChatGPT,5,1,BET Digital
+Phoenix Moore,Video Editor,Microsoft Copilot,3,1,BET Digital
+Phoenix Moore,Video Editor,Claude AI,4,1,BET Digital
+Phoenix Moore,Video Editor,Cursor,0,0,BET Digital
+Winter Jackson,Content Creator,Runway ML,3,2,BET Digital
+Winter Jackson,Content Creator,Google Gemini,3,2,BET Digital
+Winter Jackson,Content Creator,Adobe Firefly,4,4,BET Digital
+Winter Jackson,Content Creator,ChatGPT,5,2,BET Digital
+Winter Jackson,Content Creator,Microsoft Copilot,1,0,BET Digital
+Winter Jackson,Content Creator,Claude AI,2,0,BET Digital
+Winter Jackson,Content Creator,Cursor,2,0,BET Digital
+Dylan Roberts,Social Media Manager,Runway ML,3,2,BET Digital
+Dylan Roberts,Social Media Manager,Google Gemini,2,0,BET Digital
+Dylan Roberts,Social Media Manager,Adobe Firefly,5,3,BET Digital
+Dylan Roberts,Social Media Manager,ChatGPT,2,0,BET Digital
+Dylan Roberts,Social Media Manager,Microsoft Copilot,3,1,BET Digital
+Dylan Roberts,Social Media Manager,Claude AI,3,2,BET Digital
+Dylan Roberts,Social Media Manager,Cursor,1,0,BET Digital
+Riley Carter,Social Media Manager,Runway ML,3,2,BET Digital
+Riley Carter,Social Media Manager,Google Gemini,4,1,BET Digital
+Riley Carter,Social Media Manager,Adobe Firefly,5,4,BET Digital
+Riley Carter,Social Media Manager,ChatGPT,4,4,BET Digital
+Riley Carter,Social Media Manager,Microsoft Copilot,1,1,BET Digital
+Riley Carter,Social Media Manager,Claude AI,3,0,BET Digital
+Riley Carter,Social Media Manager,Cursor,2,0,BET Digital
+Sawyer Taylor,Motion Designer,Runway ML,3,4,BET Digital
+Sawyer Taylor,Motion Designer,Google Gemini,4,1,BET Digital
+Sawyer Taylor,Motion Designer,Adobe Firefly,4,3,BET Digital
+Sawyer Taylor,Motion Designer,ChatGPT,3,3,BET Digital
+Sawyer Taylor,Motion Designer,Microsoft Copilot,1,1,BET Digital
+Sawyer Taylor,Motion Designer,Claude AI,2,1,BET Digital
+Sawyer Taylor,Motion Designer,Cursor,2,0,BET Digital
+Riley Garcia,Producer,Runway ML,3,4,BET Digital
+Riley Garcia,Producer,Google Gemini,2,2,BET Digital
+Riley Garcia,Producer,Adobe Firefly,4,4,BET Digital
+Riley Garcia,Producer,ChatGPT,5,2,BET Digital
+Riley Garcia,Producer,Microsoft Copilot,3,0,BET Digital
+Riley Garcia,Producer,Claude AI,3,2,BET Digital
+Riley Garcia,Producer,Cursor,0,0,BET Digital
+Casey Perez,Social Media Manager,Runway ML,5,4,BET Digital
+Casey Perez,Social Media Manager,Google Gemini,2,0,BET Digital
+Casey Perez,Social Media Manager,Adobe Firefly,0,0,BET Digital
+Casey Perez,Social Media Manager,ChatGPT,4,3,BET Digital
+Casey Perez,Social Media Manager,Microsoft Copilot,1,0,BET Digital
+Casey Perez,Social Media Manager,Claude AI,4,2,BET Digital
+Casey Perez,Social Media Manager,Cursor,0,0,BET Digital
+Oakley Ramirez,Digital Strategist,Runway ML,4,3,BET Digital
+Oakley Ramirez,Digital Strategist,Google Gemini,4,0,BET Digital
+Oakley Ramirez,Digital Strategist,Adobe Firefly,4,3,BET Digital
+Oakley Ramirez,Digital Strategist,ChatGPT,4,2,BET Digital
+Oakley Ramirez,Digital Strategist,Microsoft Copilot,1,0,BET Digital
+Oakley Ramirez,Digital Strategist,Claude AI,2,0,BET Digital
+Oakley Ramirez,Digital Strategist,Cursor,2,0,BET Digital
+Dylan Smith,Content Creator,Runway ML,3,2,BET Digital
+Dylan Smith,Content Creator,Google Gemini,3,0,BET Digital
+Dylan Smith,Content Creator,Adobe Firefly,4,3,BET Digital
+Dylan Smith,Content Creator,ChatGPT,4,2,BET Digital
+Dylan Smith,Content Creator,Microsoft Copilot,2,1,BET Digital
+Dylan Smith,Content Creator,Claude AI,4,2,BET Digital
+Dylan Smith,Content Creator,Cursor,0,0,BET Digital
+Morgan Nguyen,Motion Designer,Runway ML,3,4,BET Digital
+Morgan Nguyen,Motion Designer,Google Gemini,2,2,BET Digital
+Morgan Nguyen,Motion Designer,Adobe Firefly,4,3,BET Digital
+Morgan Nguyen,Motion Designer,ChatGPT,3,2,BET Digital
+Morgan Nguyen,Motion Designer,Microsoft Copilot,2,0,BET Digital
+Morgan Nguyen,Motion Designer,Claude AI,2,2,BET Digital
+Morgan Nguyen,Motion Designer,Cursor,3,0,BET Digital
+Jules Torres,Motion Designer,Runway ML,4,3,BET Digital
+Jules Torres,Motion Designer,Google Gemini,4,1,BET Digital
+Jules Torres,Motion Designer,Adobe Firefly,5,3,BET Digital
+Jules Torres,Motion Designer,ChatGPT,2,0,BET Digital
+Jules Torres,Motion Designer,Microsoft Copilot,0,0,BET Digital
+Jules Torres,Motion Designer,Claude AI,1,0,BET Digital
+Jules Torres,Motion Designer,Cursor,1,0,BET Digital
+Drew Lewis,Motion Designer,Runway ML,5,3,BET Digital
+Drew Lewis,Motion Designer,Google Gemini,2,0,BET Digital
+Drew Lewis,Motion Designer,Adobe Firefly,0,0,BET Digital
+Drew Lewis,Motion Designer,ChatGPT,4,1,BET Digital
+Drew Lewis,Motion Designer,Microsoft Copilot,1,1,BET Digital
+Drew Lewis,Motion Designer,Claude AI,2,2,BET Digital
+Drew Lewis,Motion Designer,Cursor,3,1,BET Digital
+Finley Diaz,Social Media Manager,Runway ML,3,4,BET Digital
+Finley Diaz,Social Media Manager,Google Gemini,0,0,BET Digital
+Finley Diaz,Social Media Manager,Adobe Firefly,5,3,BET Digital
+Finley Diaz,Social Media Manager,ChatGPT,2,0,BET Digital
+Finley Diaz,Social Media Manager,Microsoft Copilot,1,0,BET Digital
+Finley Diaz,Social Media Manager,Claude AI,0,0,BET Digital
+Finley Diaz,Social Media Manager,Cursor,1,1,BET Digital
+Arden Parker,Social Media Manager,Runway ML,4,2,BET Digital
+Arden Parker,Social Media Manager,Google Gemini,4,0,BET Digital
+Arden Parker,Social Media Manager,Adobe Firefly,5,5,BET Digital
+Arden Parker,Social Media Manager,ChatGPT,3,1,BET Digital
+Arden Parker,Social Media Manager,Microsoft Copilot,1,0,BET Digital
+Arden Parker,Social Media Manager,Claude AI,3,2,BET Digital
+Arden Parker,Social Media Manager,Cursor,2,0,BET Digital
+Avery Harris,Social Media Manager,Runway ML,1,0,BET Digital
+Avery Harris,Social Media Manager,Google Gemini,3,1,BET Digital
+Avery Harris,Social Media Manager,Adobe Firefly,0,0,BET Digital
+Avery Harris,Social Media Manager,ChatGPT,4,3,BET Digital
+Avery Harris,Social Media Manager,Microsoft Copilot,2,1,BET Digital
+Avery Harris,Social Media Manager,Claude AI,3,2,BET Digital
+Avery Harris,Social Media Manager,Cursor,3,1,BET Digital
+Quinn Taylor,Video Editor,Runway ML,2,0,BET Digital
+Quinn Taylor,Video Editor,Google Gemini,3,1,BET Digital
+Quinn Taylor,Video Editor,Adobe Firefly,5,4,BET Digital
+Quinn Taylor,Video Editor,ChatGPT,5,2,BET Digital
+Quinn Taylor,Video Editor,Microsoft Copilot,2,0,BET Digital
+Quinn Taylor,Video Editor,Claude AI,4,2,BET Digital
+Quinn Taylor,Video Editor,Cursor,3,0,BET Digital
+Casey Nelson,Digital Strategist,Runway ML,5,3,BET Digital
+Casey Nelson,Digital Strategist,Google Gemini,2,2,BET Digital
+Casey Nelson,Digital Strategist,Adobe Firefly,5,5,BET Digital
+Casey Nelson,Digital Strategist,ChatGPT,2,0,BET Digital
+Casey Nelson,Digital Strategist,Microsoft Copilot,2,0,BET Digital
+Casey Nelson,Digital Strategist,Claude AI,3,1,BET Digital
+Casey Nelson,Digital Strategist,Cursor,1,1,BET Digital
+Madison Gomez,Copywriter,Runway ML,5,4,BET Digital
+Madison Gomez,Copywriter,Google Gemini,3,1,BET Digital
+Madison Gomez,Copywriter,Adobe Firefly,0,0,BET Digital
+Madison Gomez,Copywriter,ChatGPT,0,0,BET Digital
+Madison Gomez,Copywriter,Microsoft Copilot,3,1,BET Digital
+Madison Gomez,Copywriter,Claude AI,0,0,BET Digital
+Madison Gomez,Copywriter,Cursor,2,0,BET Digital
+Marley Torres,Graphic Designer,Runway ML,5,4,BET Digital
+Marley Torres,Graphic Designer,Google Gemini,2,0,BET Digital
+Marley Torres,Graphic Designer,Adobe Firefly,4,3,BET Digital
+Marley Torres,Graphic Designer,ChatGPT,3,1,BET Digital
+Marley Torres,Graphic Designer,Microsoft Copilot,2,0,BET Digital
+Marley Torres,Graphic Designer,Claude AI,1,0,BET Digital
+Marley Torres,Graphic Designer,Cursor,3,1,BET Digital
+Parker Flores,Motion Designer,Runway ML,4,4,BET Digital
+Parker Flores,Motion Designer,Google Gemini,2,2,BET Digital
+Parker Flores,Motion Designer,Adobe Firefly,5,4,BET Digital
+Parker Flores,Motion Designer,ChatGPT,5,2,BET Digital
+Parker Flores,Motion Designer,Microsoft Copilot,3,0,BET Digital
+Parker Flores,Motion Designer,Claude AI,2,2,BET Digital
+Parker Flores,Motion Designer,Cursor,2,1,BET Digital
+Gray Garcia,Video Editor,Runway ML,3,2,BET Digital
+Gray Garcia,Video Editor,Google Gemini,2,2,BET Digital
+Gray Garcia,Video Editor,Adobe Firefly,5,4,BET Digital
+Gray Garcia,Video Editor,ChatGPT,4,4,BET Digital
+Gray Garcia,Video Editor,Microsoft Copilot,3,0,BET Digital
+Gray Garcia,Video Editor,Claude AI,4,1,BET Digital
+Gray Garcia,Video Editor,Cursor,2,1,BET Digital
+Eden Turner,Creative Director,Runway ML,5,4,BET Digital
+Eden Turner,Creative Director,Google Gemini,4,0,BET Digital
+Eden Turner,Creative Director,Adobe Firefly,5,4,BET Digital
+Eden Turner,Creative Director,ChatGPT,4,4,BET Digital
+Eden Turner,Creative Director,Microsoft Copilot,2,0,BET Digital
+Eden Turner,Creative Director,Claude AI,4,0,BET Digital
+Eden Turner,Creative Director,Cursor,1,0,BET Digital
+Jamie Parker,Producer,Runway ML,3,2,BET Digital
+Jamie Parker,Producer,Google Gemini,3,0,BET Digital
+Jamie Parker,Producer,Adobe Firefly,5,4,BET Digital
+Jamie Parker,Producer,ChatGPT,4,2,BET Digital
+Jamie Parker,Producer,Microsoft Copilot,3,0,BET Digital
+Jamie Parker,Producer,Claude AI,3,0,BET Digital
+Jamie Parker,Producer,Cursor,3,0,BET Digital
+Harper Gonzalez,Social Media Manager,Runway ML,5,2,BET Digital
+Harper Gonzalez,Social Media Manager,Google Gemini,0,0,BET Digital
+Harper Gonzalez,Social Media Manager,Adobe Firefly,5,5,BET Digital
+Harper Gonzalez,Social Media Manager,ChatGPT,4,2,BET Digital
+Harper Gonzalez,Social Media Manager,Microsoft Copilot,0,0,BET Digital
+Harper Gonzalez,Social Media Manager,Claude AI,3,2,BET Digital
+Harper Gonzalez,Social Media Manager,Cursor,2,1,BET Digital
+Peyton Jones,Copywriter,Runway ML,5,4,BET Digital
+Peyton Jones,Copywriter,Google Gemini,4,1,BET Digital
+Peyton Jones,Copywriter,Adobe Firefly,4,5,BET Digital
+Peyton Jones,Copywriter,ChatGPT,2,0,BET Digital
+Peyton Jones,Copywriter,Microsoft Copilot,2,0,BET Digital
+Peyton Jones,Copywriter,Claude AI,3,0,BET Digital
+Peyton Jones,Copywriter,Cursor,2,1,BET Digital
+Madison Lopez,Motion Designer,Runway ML,5,3,BET Digital
+Madison Lopez,Motion Designer,Google Gemini,4,1,BET Digital
+Madison Lopez,Motion Designer,Adobe Firefly,5,4,BET Digital
+Madison Lopez,Motion Designer,ChatGPT,3,2,BET Digital
+Madison Lopez,Motion Designer,Microsoft Copilot,2,1,BET Digital
+Madison Lopez,Motion Designer,Claude AI,0,0,BET Digital
+Madison Lopez,Motion Designer,Cursor,2,1,BET Digital
+Kirby Hall,Community Manager,Runway ML,5,2,BET Digital
+Kirby Hall,Community Manager,Google Gemini,2,0,BET Digital
+Kirby Hall,Community Manager,Adobe Firefly,5,4,BET Digital
+Kirby Hall,Community Manager,ChatGPT,3,4,BET Digital
+Kirby Hall,Community Manager,Microsoft Copilot,1,0,BET Digital
+Kirby Hall,Community Manager,Claude AI,3,2,BET Digital
+Kirby Hall,Community Manager,Cursor,3,1,BET Digital
+Frankie Thompson,Creative Director,Runway ML,5,4,BET Digital
+Frankie Thompson,Creative Director,Google Gemini,4,1,BET Digital
+Frankie Thompson,Creative Director,Adobe Firefly,0,0,BET Digital
+Frankie Thompson,Creative Director,ChatGPT,4,1,BET Digital
+Frankie Thompson,Creative Director,Microsoft Copilot,2,0,BET Digital
+Frankie Thompson,Creative Director,Claude AI,3,1,BET Digital
+Frankie Thompson,Creative Director,Cursor,3,1,BET Digital
+Dylan Gonzalez,Community Manager,Runway ML,0,0,BET Digital
+Dylan Gonzalez,Community Manager,Google Gemini,0,0,BET Digital
+Dylan Gonzalez,Community Manager,Adobe Firefly,4,5,BET Digital
+Dylan Gonzalez,Community Manager,ChatGPT,3,3,BET Digital
+Dylan Gonzalez,Community Manager,Microsoft Copilot,1,1,BET Digital
+Dylan Gonzalez,Community Manager,Claude AI,0,0,BET Digital
+Dylan Gonzalez,Community Manager,Cursor,0,0,BET Digital
+Kendall Young,Content Creator,Runway ML,5,4,BET Digital
+Kendall Young,Content Creator,Google Gemini,2,0,BET Digital
+Kendall Young,Content Creator,Adobe Firefly,5,3,BET Digital
+Kendall Young,Content Creator,ChatGPT,3,3,BET Digital
+Kendall Young,Content Creator,Microsoft Copilot,3,0,BET Digital
+Kendall Young,Content Creator,Claude AI,3,1,BET Digital
+Kendall Young,Content Creator,Cursor,2,1,BET Digital
+Lane Brown,Copywriter,Runway ML,5,2,BET Digital
+Lane Brown,Copywriter,Google Gemini,2,2,BET Digital
+Lane Brown,Copywriter,Adobe Firefly,4,3,BET Digital
+Lane Brown,Copywriter,ChatGPT,5,3,BET Digital
+Lane Brown,Copywriter,Microsoft Copilot,3,1,BET Digital
+Lane Brown,Copywriter,Claude AI,2,1,BET Digital
+Lane Brown,Copywriter,Cursor,0,0,BET Digital
+Finley Gomez,Brand Manager,Runway ML,5,4,BET Digital
+Finley Gomez,Brand Manager,Google Gemini,0,0,BET Digital
+Finley Gomez,Brand Manager,Adobe Firefly,4,4,BET Digital
+Finley Gomez,Brand Manager,ChatGPT,3,3,BET Digital
+Finley Gomez,Brand Manager,Microsoft Copilot,3,1,BET Digital
+Finley Gomez,Brand Manager,Claude AI,3,2,BET Digital
+Finley Gomez,Brand Manager,Cursor,2,1,BET Digital
+Devon Lewis,Content Creator,Runway ML,5,2,BET Digital
+Devon Lewis,Content Creator,Google Gemini,4,1,BET Digital
+Devon Lewis,Content Creator,Adobe Firefly,4,3,BET Digital
+Devon Lewis,Content Creator,ChatGPT,5,4,BET Digital
+Devon Lewis,Content Creator,Microsoft Copilot,3,1,BET Digital
+Devon Lewis,Content Creator,Claude AI,2,1,BET Digital
+Devon Lewis,Content Creator,Cursor,2,0,BET Digital
+Madison Green,Producer,Runway ML,3,3,BET Digital
+Madison Green,Producer,Google Gemini,3,1,BET Digital
+Madison Green,Producer,Adobe Firefly,4,4,BET Digital
+Madison Green,Producer,ChatGPT,4,4,BET Digital
+Madison Green,Producer,Microsoft Copilot,3,0,BET Digital
+Madison Green,Producer,Claude AI,3,1,BET Digital
+Madison Green,Producer,Cursor,2,0,BET Digital
+Gray Robinson,Creative Director,Runway ML,3,2,BET Digital
+Gray Robinson,Creative Director,Google Gemini,4,1,BET Digital
+Gray Robinson,Creative Director,Adobe Firefly,4,3,BET Digital
+Gray Robinson,Creative Director,ChatGPT,2,0,BET Digital
+Gray Robinson,Creative Director,Microsoft Copilot,3,0,BET Digital
+Gray Robinson,Creative Director,Claude AI,1,0,BET Digital
+Gray Robinson,Creative Director,Cursor,1,0,BET Digital
+Quinn Robinson,Content Creator,Runway ML,5,2,BET Digital
+Quinn Robinson,Content Creator,Google Gemini,4,1,BET Digital
+Quinn Robinson,Content Creator,Adobe Firefly,5,4,BET Digital
+Quinn Robinson,Content Creator,ChatGPT,4,2,BET Digital
+Quinn Robinson,Content Creator,Microsoft Copilot,3,0,BET Digital
+Quinn Robinson,Content Creator,Claude AI,3,1,BET Digital
+Quinn Robinson,Content Creator,Cursor,3,1,BET Digital
+Dakota Campbell,Community Manager,Runway ML,5,4,BET Digital
+Dakota Campbell,Community Manager,Google Gemini,3,0,BET Digital
+Dakota Campbell,Community Manager,Adobe Firefly,5,4,BET Digital
+Dakota Campbell,Community Manager,ChatGPT,5,4,BET Digital
+Dakota Campbell,Community Manager,Microsoft Copilot,3,0,BET Digital
+Dakota Campbell,Community Manager,Claude AI,2,0,BET Digital
+Dakota Campbell,Community Manager,Cursor,2,1,BET Digital
+Oakley Gomez,Brand Manager,Runway ML,3,3,BET Digital
+Oakley Gomez,Brand Manager,Google Gemini,2,2,BET Digital
+Oakley Gomez,Brand Manager,Adobe Firefly,5,3,BET Digital
+Oakley Gomez,Brand Manager,ChatGPT,0,0,BET Digital
+Oakley Gomez,Brand Manager,Microsoft Copilot,1,0,BET Digital
+Oakley Gomez,Brand Manager,Claude AI,3,2,BET Digital
+Oakley Gomez,Brand Manager,Cursor,3,0,BET Digital
+Eden Baker,Motion Designer,Runway ML,4,3,BET Digital
+Eden Baker,Motion Designer,Google Gemini,0,0,BET Digital
+Eden Baker,Motion Designer,Adobe Firefly,4,5,BET Digital
+Eden Baker,Motion Designer,ChatGPT,4,1,BET Digital
+Eden Baker,Motion Designer,Microsoft Copilot,1,0,BET Digital
+Eden Baker,Motion Designer,Claude AI,4,1,BET Digital
+Eden Baker,Motion Designer,Cursor,1,1,BET Digital
+Dakota Thompson,Digital Strategist,Runway ML,4,2,BET Digital
+Dakota Thompson,Digital Strategist,Google Gemini,3,2,BET Digital
+Dakota Thompson,Digital Strategist,Adobe Firefly,2,0,BET Digital
+Dakota Thompson,Digital Strategist,ChatGPT,4,4,BET Digital
+Dakota Thompson,Digital Strategist,Microsoft Copilot,1,0,BET Digital
+Dakota Thompson,Digital Strategist,Claude AI,3,1,BET Digital
+Dakota Thompson,Digital Strategist,Cursor,1,1,BET Digital
+Palmer Wright,Video Editor,Runway ML,3,3,BET Digital
+Palmer Wright,Video Editor,Google Gemini,4,1,BET Digital
+Palmer Wright,Video Editor,Adobe Firefly,5,5,BET Digital
+Palmer Wright,Video Editor,ChatGPT,4,1,BET Digital
+Palmer Wright,Video Editor,Microsoft Copilot,1,0,BET Digital
+Palmer Wright,Video Editor,Claude AI,3,2,BET Digital
+Palmer Wright,Video Editor,Cursor,2,0,BET Digital
+Kendall Moore,Social Media Manager,Runway ML,5,4,BET Digital
+Kendall Moore,Social Media Manager,Google Gemini,2,2,BET Digital
+Kendall Moore,Social Media Manager,Adobe Firefly,5,3,BET Digital
+Kendall Moore,Social Media Manager,ChatGPT,4,3,BET Digital
+Kendall Moore,Social Media Manager,Microsoft Copilot,3,0,BET Digital
+Kendall Moore,Social Media Manager,Claude AI,1,0,BET Digital
+Kendall Moore,Social Media Manager,Cursor,1,1,BET Digital
+Riley Jackson,Digital Strategist,Runway ML,0,0,BET Digital
+Riley Jackson,Digital Strategist,Google Gemini,4,1,BET Digital
+Riley Jackson,Digital Strategist,Adobe Firefly,5,3,BET Digital
+Riley Jackson,Digital Strategist,ChatGPT,4,2,BET Digital
+Riley Jackson,Digital Strategist,Microsoft Copilot,1,1,BET Digital
+Riley Jackson,Digital Strategist,Claude AI,2,0,BET Digital
+Riley Jackson,Digital Strategist,Cursor,3,1,BET Digital
+Blair Scott,Digital Strategist,Runway ML,2,0,BET Digital
+Blair Scott,Digital Strategist,Google Gemini,2,1,BET Digital
+Blair Scott,Digital Strategist,Adobe Firefly,5,5,BET Digital
+Blair Scott,Digital Strategist,ChatGPT,5,3,BET Digital
+Blair Scott,Digital Strategist,Microsoft Copilot,3,1,BET Digital
+Blair Scott,Digital Strategist,Claude AI,1,0,BET Digital
+Blair Scott,Digital Strategist,Cursor,3,1,BET Digital
+Quinn Rodriguez,Social Media Manager,Runway ML,3,3,BET Digital
+Quinn Rodriguez,Social Media Manager,Google Gemini,2,0,BET Digital
+Quinn Rodriguez,Social Media Manager,Adobe Firefly,4,4,BET Digital
+Quinn Rodriguez,Social Media Manager,ChatGPT,5,4,BET Digital
+Quinn Rodriguez,Social Media Manager,Microsoft Copilot,3,0,BET Digital
+Quinn Rodriguez,Social Media Manager,Claude AI,4,0,BET Digital
+Quinn Rodriguez,Social Media Manager,Cursor,3,1,BET Digital
+Rowan Williams,Digital Strategist,Runway ML,3,3,BET Digital
+Rowan Williams,Digital Strategist,Google Gemini,2,0,BET Digital
+Rowan Williams,Digital Strategist,Adobe Firefly,5,5,BET Digital
+Rowan Williams,Digital Strategist,ChatGPT,0,0,BET Digital
+Rowan Williams,Digital Strategist,Microsoft Copilot,2,0,BET Digital
+Rowan Williams,Digital Strategist,Claude AI,4,2,BET Digital
+Rowan Williams,Digital Strategist,Cursor,1,0,BET Digital
+Harper Rodriguez,Copywriter,Runway ML,3,2,BET Digital
+Harper Rodriguez,Copywriter,Google Gemini,4,0,BET Digital
+Harper Rodriguez,Copywriter,Adobe Firefly,4,4,BET Digital
+Harper Rodriguez,Copywriter,ChatGPT,5,2,BET Digital
+Harper Rodriguez,Copywriter,Microsoft Copilot,3,1,BET Digital
+Harper Rodriguez,Copywriter,Claude AI,2,2,BET Digital
+Harper Rodriguez,Copywriter,Cursor,1,0,BET Digital
+Arden Thomas,Copywriter,Runway ML,0,0,BET Digital
+Arden Thomas,Copywriter,Google Gemini,2,2,BET Digital
+Arden Thomas,Copywriter,Adobe Firefly,1,0,BET Digital
+Arden Thomas,Copywriter,ChatGPT,4,4,BET Digital
+Arden Thomas,Copywriter,Microsoft Copilot,3,0,BET Digital
+Arden Thomas,Copywriter,Claude AI,4,2,BET Digital
+Arden Thomas,Copywriter,Cursor,1,0,BET Digital
+Eden Sanchez,Creative Director,Runway ML,5,2,BET Digital
+Eden Sanchez,Creative Director,Google Gemini,3,0,BET Digital
+Eden Sanchez,Creative Director,Adobe Firefly,0,0,BET Digital
+Eden Sanchez,Creative Director,ChatGPT,4,4,BET Digital
+Eden Sanchez,Creative Director,Microsoft Copilot,3,1,BET Digital
+Eden Sanchez,Creative Director,Claude AI,2,0,BET Digital
+Eden Sanchez,Creative Director,Cursor,1,0,BET Digital
+Reese Clark,Digital Strategist,Runway ML,4,3,BET Digital
+Reese Clark,Digital Strategist,Google Gemini,2,1,BET Digital
+Reese Clark,Digital Strategist,Adobe Firefly,5,4,BET Digital
+Reese Clark,Digital Strategist,ChatGPT,0,0,BET Digital
+Reese Clark,Digital Strategist,Microsoft Copilot,3,1,BET Digital
+Reese Clark,Digital Strategist,Claude AI,4,0,BET Digital
+Reese Clark,Digital Strategist,Cursor,3,1,BET Digital
+Logan Thompson,Brand Manager,Runway ML,1,0,BET Digital
+Logan Thompson,Brand Manager,Google Gemini,4,1,BET Digital
+Logan Thompson,Brand Manager,Adobe Firefly,4,3,BET Digital
+Logan Thompson,Brand Manager,ChatGPT,1,0,BET Digital
+Logan Thompson,Brand Manager,Microsoft Copilot,3,0,BET Digital
+Logan Thompson,Brand Manager,Claude AI,4,2,BET Digital
+Logan Thompson,Brand Manager,Cursor,3,0,BET Digital
+Oakley Turner,Community Manager,Runway ML,3,2,BET Digital
+Oakley Turner,Community Manager,Google Gemini,3,1,BET Digital
+Oakley Turner,Community Manager,Adobe Firefly,4,3,BET Digital
+Oakley Turner,Community Manager,ChatGPT,2,0,BET Digital
+Oakley Turner,Community Manager,Microsoft Copilot,1,1,BET Digital
+Oakley Turner,Community Manager,Claude AI,3,0,BET Digital
+Oakley Turner,Community Manager,Cursor,3,1,BET Digital
+Indigo Hill,Content Creator,Runway ML,2,0,BET Digital
+Indigo Hill,Content Creator,Google Gemini,1,0,BET Digital
+Indigo Hill,Content Creator,Adobe Firefly,5,4,BET Digital
+Indigo Hill,Content Creator,ChatGPT,4,3,BET Digital
+Indigo Hill,Content Creator,Microsoft Copilot,1,1,BET Digital
+Indigo Hill,Content Creator,Claude AI,4,1,BET Digital
+Indigo Hill,Content Creator,Cursor,2,0,BET Digital
+Kirby Brown,Social Media Manager,Runway ML,3,3,BET Digital
+Kirby Brown,Social Media Manager,Google Gemini,2,1,BET Digital
+Kirby Brown,Social Media Manager,Adobe Firefly,4,3,BET Digital
+Kirby Brown,Social Media Manager,ChatGPT,4,2,BET Digital
+Kirby Brown,Social Media Manager,Microsoft Copilot,2,0,BET Digital
+Kirby Brown,Social Media Manager,Claude AI,0,0,BET Digital
+Kirby Brown,Social Media Manager,Cursor,2,1,BET Digital
+Remy Green,Creative Director,Runway ML,4,2,BET Digital
+Remy Green,Creative Director,Google Gemini,3,0,BET Digital
+Remy Green,Creative Director,Adobe Firefly,5,5,BET Digital
+Remy Green,Creative Director,ChatGPT,3,2,BET Digital
+Remy Green,Creative Director,Microsoft Copilot,3,1,BET Digital
+Remy Green,Creative Director,Claude AI,3,1,BET Digital
+Remy Green,Creative Director,Cursor,1,1,BET Digital
+Casey Allen,Brand Manager,Runway ML,3,4,BET Digital
+Casey Allen,Brand Manager,Google Gemini,3,1,BET Digital
+Casey Allen,Brand Manager,Adobe Firefly,1,0,BET Digital
+Casey Allen,Brand Manager,ChatGPT,2,0,BET Digital
+Casey Allen,Brand Manager,Microsoft Copilot,2,1,BET Digital
+Casey Allen,Brand Manager,Claude AI,4,1,BET Digital
+Casey Allen,Brand Manager,Cursor,3,1,BET Digital
+Marley Lee,Video Editor,Runway ML,4,2,BET Digital
+Marley Lee,Video Editor,Google Gemini,4,1,BET Digital
+Marley Lee,Video Editor,Adobe Firefly,4,4,BET Digital
+Marley Lee,Video Editor,ChatGPT,4,3,BET Digital
+Marley Lee,Video Editor,Microsoft Copilot,2,0,BET Digital
+Marley Lee,Video Editor,Claude AI,2,2,BET Digital
+Marley Lee,Video Editor,Cursor,2,1,BET Digital
+Arden Mitchell,Social Media Manager,Runway ML,4,4,BET Digital
+Arden Mitchell,Social Media Manager,Google Gemini,3,2,BET Digital
+Arden Mitchell,Social Media Manager,Adobe Firefly,4,3,BET Digital
+Arden Mitchell,Social Media Manager,ChatGPT,2,0,BET Digital
+Arden Mitchell,Social Media Manager,Microsoft Copilot,2,1,BET Digital
+Arden Mitchell,Social Media Manager,Claude AI,4,0,BET Digital
+Arden Mitchell,Social Media Manager,Cursor,2,1,BET Digital
+Phoenix Baker,Copywriter,Runway ML,3,4,BET Digital
+Phoenix Baker,Copywriter,Google Gemini,2,0,BET Digital
+Phoenix Baker,Copywriter,Adobe Firefly,5,4,BET Digital
+Phoenix Baker,Copywriter,ChatGPT,5,3,BET Digital
+Phoenix Baker,Copywriter,Microsoft Copilot,3,0,BET Digital
+Phoenix Baker,Copywriter,Claude AI,3,2,BET Digital
+Phoenix Baker,Copywriter,Cursor,2,0,BET Digital
+Riley Martin,Motion Designer,Runway ML,4,4,BET Digital
+Riley Martin,Motion Designer,Google Gemini,2,2,BET Digital
+Riley Martin,Motion Designer,Adobe Firefly,4,5,BET Digital
+Riley Martin,Motion Designer,ChatGPT,0,0,BET Digital
+Riley Martin,Motion Designer,Microsoft Copilot,0,0,BET Digital
+Riley Martin,Motion Designer,Claude AI,2,0,BET Digital
+Riley Martin,Motion Designer,Cursor,1,0,BET Digital
+Winter Flores,Video Editor,Runway ML,0,0,BET Digital
+Winter Flores,Video Editor,Google Gemini,4,2,BET Digital
+Winter Flores,Video Editor,Adobe Firefly,4,5,BET Digital
+Winter Flores,Video Editor,ChatGPT,4,3,BET Digital
+Winter Flores,Video Editor,Microsoft Copilot,3,1,BET Digital
+Winter Flores,Video Editor,Claude AI,3,0,BET Digital
+Winter Flores,Video Editor,Cursor,2,1,BET Digital
+Peyton White,Brand Manager,Runway ML,5,3,BET Digital
+Peyton White,Brand Manager,Google Gemini,3,1,BET Digital
+Peyton White,Brand Manager,Adobe Firefly,5,3,BET Digital
+Peyton White,Brand Manager,ChatGPT,1,0,BET Digital
+Peyton White,Brand Manager,Microsoft Copilot,2,0,BET Digital
+Peyton White,Brand Manager,Claude AI,4,0,BET Digital
+Peyton White,Brand Manager,Cursor,1,1,BET Digital
+Elliott Martinez,Creative Director,Runway ML,3,2,BET Digital
+Elliott Martinez,Creative Director,Google Gemini,3,0,BET Digital
+Elliott Martinez,Creative Director,Adobe Firefly,5,5,BET Digital
+Elliott Martinez,Creative Director,ChatGPT,4,2,BET Digital
+Elliott Martinez,Creative Director,Microsoft Copilot,1,1,BET Digital
+Elliott Martinez,Creative Director,Claude AI,2,0,BET Digital
+Elliott Martinez,Creative Director,Cursor,2,0,BET Digital
+Blake Lewis,Copywriter,Runway ML,0,0,BET Digital
+Blake Lewis,Copywriter,Google Gemini,2,2,BET Digital
+Blake Lewis,Copywriter,Adobe Firefly,5,3,BET Digital
+Blake Lewis,Copywriter,ChatGPT,3,3,BET Digital
+Blake Lewis,Copywriter,Microsoft Copilot,1,0,BET Digital
+Blake Lewis,Copywriter,Claude AI,2,0,BET Digital
+Blake Lewis,Copywriter,Cursor,3,0,BET Digital

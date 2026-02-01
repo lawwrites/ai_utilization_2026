@@ -1,0 +1,561 @@
+User Name,Role,Product,User Satisfaction (0-5),Weekly Usage (0-7),Team
+River Clark,Videographer,Runway ML,2,0,CBS Marketing
+River Clark,Videographer,Google Gemini,1,0,CBS Marketing
+River Clark,Videographer,Adobe Firefly,1,0,CBS Marketing
+River Clark,Videographer,ChatGPT,2,0,CBS Marketing
+River Clark,Videographer,Microsoft Copilot,1,0,CBS Marketing
+River Clark,Videographer,Claude AI,1,0,CBS Marketing
+River Clark,Videographer,Cursor,1,0,CBS Marketing
+Jamie Robinson,Videographer,Runway ML,2,0,CBS Marketing
+Jamie Robinson,Videographer,Google Gemini,2,0,CBS Marketing
+Jamie Robinson,Videographer,Adobe Firefly,3,0,CBS Marketing
+Jamie Robinson,Videographer,ChatGPT,3,3,CBS Marketing
+Jamie Robinson,Videographer,Microsoft Copilot,1,0,CBS Marketing
+Jamie Robinson,Videographer,Claude AI,3,0,CBS Marketing
+Jamie Robinson,Videographer,Cursor,2,0,CBS Marketing
+Devon Parker,Videographer,Runway ML,2,0,CBS Marketing
+Devon Parker,Videographer,Google Gemini,2,0,CBS Marketing
+Devon Parker,Videographer,Adobe Firefly,3,0,CBS Marketing
+Devon Parker,Videographer,ChatGPT,4,4,CBS Marketing
+Devon Parker,Videographer,Microsoft Copilot,1,0,CBS Marketing
+Devon Parker,Videographer,Claude AI,1,0,CBS Marketing
+Devon Parker,Videographer,Cursor,2,0,CBS Marketing
+Kendall Walker,Promo Producer,Runway ML,1,0,CBS Marketing
+Kendall Walker,Promo Producer,Google Gemini,3,0,CBS Marketing
+Kendall Walker,Promo Producer,Adobe Firefly,1,0,CBS Marketing
+Kendall Walker,Promo Producer,ChatGPT,2,0,CBS Marketing
+Kendall Walker,Promo Producer,Microsoft Copilot,1,0,CBS Marketing
+Kendall Walker,Promo Producer,Claude AI,3,0,CBS Marketing
+Kendall Walker,Promo Producer,Cursor,1,0,CBS Marketing
+Finch Rivera,Media Buyer,Runway ML,1,0,CBS Marketing
+Finch Rivera,Media Buyer,Google Gemini,2,0,CBS Marketing
+Finch Rivera,Media Buyer,Adobe Firefly,1,0,CBS Marketing
+Finch Rivera,Media Buyer,ChatGPT,4,4,CBS Marketing
+Finch Rivera,Media Buyer,Microsoft Copilot,2,0,CBS Marketing
+Finch Rivera,Media Buyer,Claude AI,1,0,CBS Marketing
+Finch Rivera,Media Buyer,Cursor,2,0,CBS Marketing
+Palmer White,Marketing Manager,Runway ML,1,0,CBS Marketing
+Palmer White,Marketing Manager,Google Gemini,3,0,CBS Marketing
+Palmer White,Marketing Manager,Adobe Firefly,1,0,CBS Marketing
+Palmer White,Marketing Manager,ChatGPT,3,3,CBS Marketing
+Palmer White,Marketing Manager,Microsoft Copilot,1,0,CBS Marketing
+Palmer White,Marketing Manager,Claude AI,3,0,CBS Marketing
+Palmer White,Marketing Manager,Cursor,2,0,CBS Marketing
+Valencia Anderson,Campaign Strategist,Runway ML,1,0,CBS Marketing
+Valencia Anderson,Campaign Strategist,Google Gemini,1,0,CBS Marketing
+Valencia Anderson,Campaign Strategist,Adobe Firefly,2,0,CBS Marketing
+Valencia Anderson,Campaign Strategist,ChatGPT,5,3,CBS Marketing
+Valencia Anderson,Campaign Strategist,Microsoft Copilot,1,0,CBS Marketing
+Valencia Anderson,Campaign Strategist,Claude AI,1,0,CBS Marketing
+Valencia Anderson,Campaign Strategist,Cursor,1,0,CBS Marketing
+Casey Miller,Editor,Runway ML,1,0,CBS Marketing
+Casey Miller,Editor,Google Gemini,2,0,CBS Marketing
+Casey Miller,Editor,Adobe Firefly,1,0,CBS Marketing
+Casey Miller,Editor,ChatGPT,5,3,CBS Marketing
+Casey Miller,Editor,Microsoft Copilot,1,0,CBS Marketing
+Casey Miller,Editor,Claude AI,0,0,CBS Marketing
+Casey Miller,Editor,Cursor,1,0,CBS Marketing
+Phoenix Adams,Avid Editor,Runway ML,1,0,CBS Marketing
+Phoenix Adams,Avid Editor,Google Gemini,3,0,CBS Marketing
+Phoenix Adams,Avid Editor,Adobe Firefly,2,0,CBS Marketing
+Phoenix Adams,Avid Editor,ChatGPT,3,4,CBS Marketing
+Phoenix Adams,Avid Editor,Microsoft Copilot,1,0,CBS Marketing
+Phoenix Adams,Avid Editor,Claude AI,1,0,CBS Marketing
+Phoenix Adams,Avid Editor,Cursor,1,0,CBS Marketing
+Drew Rivera,Content Producer,Runway ML,1,0,CBS Marketing
+Drew Rivera,Content Producer,Google Gemini,3,0,CBS Marketing
+Drew Rivera,Content Producer,Adobe Firefly,1,0,CBS Marketing
+Drew Rivera,Content Producer,ChatGPT,3,4,CBS Marketing
+Drew Rivera,Content Producer,Microsoft Copilot,1,0,CBS Marketing
+Drew Rivera,Content Producer,Claude AI,1,0,CBS Marketing
+Drew Rivera,Content Producer,Cursor,1,0,CBS Marketing
+Gray Hernandez,Content Producer,Runway ML,1,0,CBS Marketing
+Gray Hernandez,Content Producer,Google Gemini,2,0,CBS Marketing
+Gray Hernandez,Content Producer,Adobe Firefly,2,0,CBS Marketing
+Gray Hernandez,Content Producer,ChatGPT,5,4,CBS Marketing
+Gray Hernandez,Content Producer,Microsoft Copilot,1,0,CBS Marketing
+Gray Hernandez,Content Producer,Claude AI,3,0,CBS Marketing
+Gray Hernandez,Content Producer,Cursor,1,0,CBS Marketing
+Jamie Baker,Content Producer,Runway ML,2,0,CBS Marketing
+Jamie Baker,Content Producer,Google Gemini,1,0,CBS Marketing
+Jamie Baker,Content Producer,Adobe Firefly,2,0,CBS Marketing
+Jamie Baker,Content Producer,ChatGPT,0,0,CBS Marketing
+Jamie Baker,Content Producer,Microsoft Copilot,2,0,CBS Marketing
+Jamie Baker,Content Producer,Claude AI,1,0,CBS Marketing
+Jamie Baker,Content Producer,Cursor,1,0,CBS Marketing
+Elliott Brown,Avid Editor,Runway ML,1,0,CBS Marketing
+Elliott Brown,Avid Editor,Google Gemini,2,0,CBS Marketing
+Elliott Brown,Avid Editor,Adobe Firefly,2,0,CBS Marketing
+Elliott Brown,Avid Editor,ChatGPT,4,4,CBS Marketing
+Elliott Brown,Avid Editor,Microsoft Copilot,1,0,CBS Marketing
+Elliott Brown,Avid Editor,Claude AI,3,0,CBS Marketing
+Elliott Brown,Avid Editor,Cursor,1,0,CBS Marketing
+Kirby Garcia,Editor,Runway ML,1,0,CBS Marketing
+Kirby Garcia,Editor,Google Gemini,2,0,CBS Marketing
+Kirby Garcia,Editor,Adobe Firefly,2,0,CBS Marketing
+Kirby Garcia,Editor,ChatGPT,4,4,CBS Marketing
+Kirby Garcia,Editor,Microsoft Copilot,1,0,CBS Marketing
+Kirby Garcia,Editor,Claude AI,2,0,CBS Marketing
+Kirby Garcia,Editor,Cursor,1,0,CBS Marketing
+Tatum Robinson,Videographer,Runway ML,1,0,CBS Marketing
+Tatum Robinson,Videographer,Google Gemini,3,0,CBS Marketing
+Tatum Robinson,Videographer,Adobe Firefly,3,0,CBS Marketing
+Tatum Robinson,Videographer,ChatGPT,1,0,CBS Marketing
+Tatum Robinson,Videographer,Microsoft Copilot,1,0,CBS Marketing
+Tatum Robinson,Videographer,Claude AI,2,0,CBS Marketing
+Tatum Robinson,Videographer,Cursor,1,0,CBS Marketing
+Blake Hall,Promo Producer,Runway ML,1,0,CBS Marketing
+Blake Hall,Promo Producer,Google Gemini,0,0,CBS Marketing
+Blake Hall,Promo Producer,Adobe Firefly,1,0,CBS Marketing
+Blake Hall,Promo Producer,ChatGPT,5,2,CBS Marketing
+Blake Hall,Promo Producer,Microsoft Copilot,1,0,CBS Marketing
+Blake Hall,Promo Producer,Claude AI,3,0,CBS Marketing
+Blake Hall,Promo Producer,Cursor,2,0,CBS Marketing
+Cameron Carter,Promo Producer,Runway ML,2,0,CBS Marketing
+Cameron Carter,Promo Producer,Google Gemini,2,0,CBS Marketing
+Cameron Carter,Promo Producer,Adobe Firefly,2,0,CBS Marketing
+Cameron Carter,Promo Producer,ChatGPT,4,3,CBS Marketing
+Cameron Carter,Promo Producer,Microsoft Copilot,1,0,CBS Marketing
+Cameron Carter,Promo Producer,Claude AI,2,0,CBS Marketing
+Cameron Carter,Promo Producer,Cursor,1,0,CBS Marketing
+Elliott Anderson,Videographer,Runway ML,2,0,CBS Marketing
+Elliott Anderson,Videographer,Google Gemini,3,0,CBS Marketing
+Elliott Anderson,Videographer,Adobe Firefly,3,0,CBS Marketing
+Elliott Anderson,Videographer,ChatGPT,3,1,CBS Marketing
+Elliott Anderson,Videographer,Microsoft Copilot,1,0,CBS Marketing
+Elliott Anderson,Videographer,Claude AI,2,0,CBS Marketing
+Elliott Anderson,Videographer,Cursor,1,0,CBS Marketing
+Jordan Mitchell,Promo Producer,Runway ML,1,0,CBS Marketing
+Jordan Mitchell,Promo Producer,Google Gemini,1,0,CBS Marketing
+Jordan Mitchell,Promo Producer,Adobe Firefly,0,0,CBS Marketing
+Jordan Mitchell,Promo Producer,ChatGPT,0,0,CBS Marketing
+Jordan Mitchell,Promo Producer,Microsoft Copilot,0,0,CBS Marketing
+Jordan Mitchell,Promo Producer,Claude AI,1,0,CBS Marketing
+Jordan Mitchell,Promo Producer,Cursor,1,0,CBS Marketing
+Taylor Jones,Marketing Coordinator,Runway ML,2,0,CBS Marketing
+Taylor Jones,Marketing Coordinator,Google Gemini,1,0,CBS Marketing
+Taylor Jones,Marketing Coordinator,Adobe Firefly,1,0,CBS Marketing
+Taylor Jones,Marketing Coordinator,ChatGPT,3,3,CBS Marketing
+Taylor Jones,Marketing Coordinator,Microsoft Copilot,2,0,CBS Marketing
+Taylor Jones,Marketing Coordinator,Claude AI,3,0,CBS Marketing
+Taylor Jones,Marketing Coordinator,Cursor,2,0,CBS Marketing
+Valencia Smith,Content Producer,Runway ML,1,0,CBS Marketing
+Valencia Smith,Content Producer,Google Gemini,2,0,CBS Marketing
+Valencia Smith,Content Producer,Adobe Firefly,1,0,CBS Marketing
+Valencia Smith,Content Producer,ChatGPT,5,3,CBS Marketing
+Valencia Smith,Content Producer,Microsoft Copilot,1,0,CBS Marketing
+Valencia Smith,Content Producer,Claude AI,2,0,CBS Marketing
+Valencia Smith,Content Producer,Cursor,1,0,CBS Marketing
+Quinn Robinson,Promo Producer,Runway ML,2,0,CBS Marketing
+Quinn Robinson,Promo Producer,Google Gemini,2,0,CBS Marketing
+Quinn Robinson,Promo Producer,Adobe Firefly,1,0,CBS Marketing
+Quinn Robinson,Promo Producer,ChatGPT,3,4,CBS Marketing
+Quinn Robinson,Promo Producer,Microsoft Copilot,1,0,CBS Marketing
+Quinn Robinson,Promo Producer,Claude AI,0,0,CBS Marketing
+Quinn Robinson,Promo Producer,Cursor,2,0,CBS Marketing
+Devon Baker,Promo Producer,Runway ML,1,0,CBS Marketing
+Devon Baker,Promo Producer,Google Gemini,1,0,CBS Marketing
+Devon Baker,Promo Producer,Adobe Firefly,2,0,CBS Marketing
+Devon Baker,Promo Producer,ChatGPT,3,3,CBS Marketing
+Devon Baker,Promo Producer,Microsoft Copilot,1,0,CBS Marketing
+Devon Baker,Promo Producer,Claude AI,2,0,CBS Marketing
+Devon Baker,Promo Producer,Cursor,1,0,CBS Marketing
+Madison Campbell,Brand Specialist,Runway ML,1,0,CBS Marketing
+Madison Campbell,Brand Specialist,Google Gemini,3,0,CBS Marketing
+Madison Campbell,Brand Specialist,Adobe Firefly,3,0,CBS Marketing
+Madison Campbell,Brand Specialist,ChatGPT,5,3,CBS Marketing
+Madison Campbell,Brand Specialist,Microsoft Copilot,1,0,CBS Marketing
+Madison Campbell,Brand Specialist,Claude AI,1,0,CBS Marketing
+Madison Campbell,Brand Specialist,Cursor,1,0,CBS Marketing
+Jamie Johnson,Promo Producer,Runway ML,2,0,CBS Marketing
+Jamie Johnson,Promo Producer,Google Gemini,0,0,CBS Marketing
+Jamie Johnson,Promo Producer,Adobe Firefly,2,0,CBS Marketing
+Jamie Johnson,Promo Producer,ChatGPT,3,3,CBS Marketing
+Jamie Johnson,Promo Producer,Microsoft Copilot,2,0,CBS Marketing
+Jamie Johnson,Promo Producer,Claude AI,1,0,CBS Marketing
+Jamie Johnson,Promo Producer,Cursor,1,0,CBS Marketing
+Blair Parker,Content Producer,Runway ML,2,0,CBS Marketing
+Blair Parker,Content Producer,Google Gemini,1,0,CBS Marketing
+Blair Parker,Content Producer,Adobe Firefly,1,0,CBS Marketing
+Blair Parker,Content Producer,ChatGPT,2,0,CBS Marketing
+Blair Parker,Content Producer,Microsoft Copilot,1,0,CBS Marketing
+Blair Parker,Content Producer,Claude AI,1,0,CBS Marketing
+Blair Parker,Content Producer,Cursor,1,0,CBS Marketing
+Devon Nelson,Content Producer,Runway ML,2,0,CBS Marketing
+Devon Nelson,Content Producer,Google Gemini,2,0,CBS Marketing
+Devon Nelson,Content Producer,Adobe Firefly,3,0,CBS Marketing
+Devon Nelson,Content Producer,ChatGPT,4,3,CBS Marketing
+Devon Nelson,Content Producer,Microsoft Copilot,1,0,CBS Marketing
+Devon Nelson,Content Producer,Claude AI,1,0,CBS Marketing
+Devon Nelson,Content Producer,Cursor,1,0,CBS Marketing
+Marley Perez,Media Buyer,Runway ML,1,0,CBS Marketing
+Marley Perez,Media Buyer,Google Gemini,2,0,CBS Marketing
+Marley Perez,Media Buyer,Adobe Firefly,3,0,CBS Marketing
+Marley Perez,Media Buyer,ChatGPT,5,3,CBS Marketing
+Marley Perez,Media Buyer,Microsoft Copilot,2,0,CBS Marketing
+Marley Perez,Media Buyer,Claude AI,2,0,CBS Marketing
+Marley Perez,Media Buyer,Cursor,1,0,CBS Marketing
+Quincy Walker,Creative Services Manager,Runway ML,1,0,CBS Marketing
+Quincy Walker,Creative Services Manager,Google Gemini,2,0,CBS Marketing
+Quincy Walker,Creative Services Manager,Adobe Firefly,2,0,CBS Marketing
+Quincy Walker,Creative Services Manager,ChatGPT,1,0,CBS Marketing
+Quincy Walker,Creative Services Manager,Microsoft Copilot,1,0,CBS Marketing
+Quincy Walker,Creative Services Manager,Claude AI,3,0,CBS Marketing
+Quincy Walker,Creative Services Manager,Cursor,2,0,CBS Marketing
+Morgan Martin,Creative Services Manager,Runway ML,1,0,CBS Marketing
+Morgan Martin,Creative Services Manager,Google Gemini,1,0,CBS Marketing
+Morgan Martin,Creative Services Manager,Adobe Firefly,1,0,CBS Marketing
+Morgan Martin,Creative Services Manager,ChatGPT,3,3,CBS Marketing
+Morgan Martin,Creative Services Manager,Microsoft Copilot,1,0,CBS Marketing
+Morgan Martin,Creative Services Manager,Claude AI,3,0,CBS Marketing
+Morgan Martin,Creative Services Manager,Cursor,1,0,CBS Marketing
+River Gonzalez,Media Buyer,Runway ML,1,0,CBS Marketing
+River Gonzalez,Media Buyer,Google Gemini,2,0,CBS Marketing
+River Gonzalez,Media Buyer,Adobe Firefly,1,0,CBS Marketing
+River Gonzalez,Media Buyer,ChatGPT,5,2,CBS Marketing
+River Gonzalez,Media Buyer,Microsoft Copilot,2,0,CBS Marketing
+River Gonzalez,Media Buyer,Claude AI,3,0,CBS Marketing
+River Gonzalez,Media Buyer,Cursor,1,0,CBS Marketing
+Emerson Robinson,Editor,Runway ML,1,0,CBS Marketing
+Emerson Robinson,Editor,Google Gemini,2,0,CBS Marketing
+Emerson Robinson,Editor,Adobe Firefly,1,0,CBS Marketing
+Emerson Robinson,Editor,ChatGPT,4,2,CBS Marketing
+Emerson Robinson,Editor,Microsoft Copilot,1,0,CBS Marketing
+Emerson Robinson,Editor,Claude AI,0,0,CBS Marketing
+Emerson Robinson,Editor,Cursor,1,0,CBS Marketing
+Madison Ramirez,Avid Editor,Runway ML,0,0,CBS Marketing
+Madison Ramirez,Avid Editor,Google Gemini,1,0,CBS Marketing
+Madison Ramirez,Avid Editor,Adobe Firefly,2,0,CBS Marketing
+Madison Ramirez,Avid Editor,ChatGPT,5,1,CBS Marketing
+Madison Ramirez,Avid Editor,Microsoft Copilot,1,0,CBS Marketing
+Madison Ramirez,Avid Editor,Claude AI,1,0,CBS Marketing
+Madison Ramirez,Avid Editor,Cursor,1,0,CBS Marketing
+Oakley Nelson,Promo Producer,Runway ML,1,0,CBS Marketing
+Oakley Nelson,Promo Producer,Google Gemini,1,0,CBS Marketing
+Oakley Nelson,Promo Producer,Adobe Firefly,3,0,CBS Marketing
+Oakley Nelson,Promo Producer,ChatGPT,5,4,CBS Marketing
+Oakley Nelson,Promo Producer,Microsoft Copilot,1,0,CBS Marketing
+Oakley Nelson,Promo Producer,Claude AI,3,0,CBS Marketing
+Oakley Nelson,Promo Producer,Cursor,2,0,CBS Marketing
+Skyler Martinez,Promo Producer,Runway ML,1,0,CBS Marketing
+Skyler Martinez,Promo Producer,Google Gemini,2,0,CBS Marketing
+Skyler Martinez,Promo Producer,Adobe Firefly,3,0,CBS Marketing
+Skyler Martinez,Promo Producer,ChatGPT,4,3,CBS Marketing
+Skyler Martinez,Promo Producer,Microsoft Copilot,1,0,CBS Marketing
+Skyler Martinez,Promo Producer,Claude AI,2,0,CBS Marketing
+Skyler Martinez,Promo Producer,Cursor,2,0,CBS Marketing
+Jordan Adams,Creative Services Manager,Runway ML,1,0,CBS Marketing
+Jordan Adams,Creative Services Manager,Google Gemini,1,0,CBS Marketing
+Jordan Adams,Creative Services Manager,Adobe Firefly,3,0,CBS Marketing
+Jordan Adams,Creative Services Manager,ChatGPT,4,4,CBS Marketing
+Jordan Adams,Creative Services Manager,Microsoft Copilot,2,0,CBS Marketing
+Jordan Adams,Creative Services Manager,Claude AI,1,0,CBS Marketing
+Jordan Adams,Creative Services Manager,Cursor,1,0,CBS Marketing
+Charlie Carter,Videographer,Runway ML,1,0,CBS Marketing
+Charlie Carter,Videographer,Google Gemini,1,0,CBS Marketing
+Charlie Carter,Videographer,Adobe Firefly,3,0,CBS Marketing
+Charlie Carter,Videographer,ChatGPT,4,1,CBS Marketing
+Charlie Carter,Videographer,Microsoft Copilot,1,0,CBS Marketing
+Charlie Carter,Videographer,Claude AI,2,0,CBS Marketing
+Charlie Carter,Videographer,Cursor,1,0,CBS Marketing
+Elliott Jones,Campaign Strategist,Runway ML,1,0,CBS Marketing
+Elliott Jones,Campaign Strategist,Google Gemini,3,0,CBS Marketing
+Elliott Jones,Campaign Strategist,Adobe Firefly,3,0,CBS Marketing
+Elliott Jones,Campaign Strategist,ChatGPT,5,4,CBS Marketing
+Elliott Jones,Campaign Strategist,Microsoft Copilot,1,0,CBS Marketing
+Elliott Jones,Campaign Strategist,Claude AI,3,0,CBS Marketing
+Elliott Jones,Campaign Strategist,Cursor,2,0,CBS Marketing
+Remy Roberts,Avid Editor,Runway ML,1,0,CBS Marketing
+Remy Roberts,Avid Editor,Google Gemini,2,0,CBS Marketing
+Remy Roberts,Avid Editor,Adobe Firefly,3,0,CBS Marketing
+Remy Roberts,Avid Editor,ChatGPT,5,3,CBS Marketing
+Remy Roberts,Avid Editor,Microsoft Copilot,1,0,CBS Marketing
+Remy Roberts,Avid Editor,Claude AI,1,0,CBS Marketing
+Remy Roberts,Avid Editor,Cursor,0,0,CBS Marketing
+Hollis Adams,Creative Services Manager,Runway ML,2,0,CBS Marketing
+Hollis Adams,Creative Services Manager,Google Gemini,2,0,CBS Marketing
+Hollis Adams,Creative Services Manager,Adobe Firefly,1,0,CBS Marketing
+Hollis Adams,Creative Services Manager,ChatGPT,4,4,CBS Marketing
+Hollis Adams,Creative Services Manager,Microsoft Copilot,2,0,CBS Marketing
+Hollis Adams,Creative Services Manager,Claude AI,2,0,CBS Marketing
+Hollis Adams,Creative Services Manager,Cursor,1,0,CBS Marketing
+Skyler Gonzalez,Marketing Coordinator,Runway ML,1,0,CBS Marketing
+Skyler Gonzalez,Marketing Coordinator,Google Gemini,1,0,CBS Marketing
+Skyler Gonzalez,Marketing Coordinator,Adobe Firefly,3,0,CBS Marketing
+Skyler Gonzalez,Marketing Coordinator,ChatGPT,0,0,CBS Marketing
+Skyler Gonzalez,Marketing Coordinator,Microsoft Copilot,1,0,CBS Marketing
+Skyler Gonzalez,Marketing Coordinator,Claude AI,1,0,CBS Marketing
+Skyler Gonzalez,Marketing Coordinator,Cursor,1,0,CBS Marketing
+Nico Robinson,Promo Producer,Runway ML,1,0,CBS Marketing
+Nico Robinson,Promo Producer,Google Gemini,3,0,CBS Marketing
+Nico Robinson,Promo Producer,Adobe Firefly,3,0,CBS Marketing
+Nico Robinson,Promo Producer,ChatGPT,5,4,CBS Marketing
+Nico Robinson,Promo Producer,Microsoft Copilot,1,0,CBS Marketing
+Nico Robinson,Promo Producer,Claude AI,2,0,CBS Marketing
+Nico Robinson,Promo Producer,Cursor,2,0,CBS Marketing
+Lane Harris,Marketing Coordinator,Runway ML,1,0,CBS Marketing
+Lane Harris,Marketing Coordinator,Google Gemini,3,0,CBS Marketing
+Lane Harris,Marketing Coordinator,Adobe Firefly,2,0,CBS Marketing
+Lane Harris,Marketing Coordinator,ChatGPT,4,4,CBS Marketing
+Lane Harris,Marketing Coordinator,Microsoft Copilot,1,0,CBS Marketing
+Lane Harris,Marketing Coordinator,Claude AI,2,0,CBS Marketing
+Lane Harris,Marketing Coordinator,Cursor,1,0,CBS Marketing
+Madison Jackson,Marketing Coordinator,Runway ML,2,0,CBS Marketing
+Madison Jackson,Marketing Coordinator,Google Gemini,2,0,CBS Marketing
+Madison Jackson,Marketing Coordinator,Adobe Firefly,2,0,CBS Marketing
+Madison Jackson,Marketing Coordinator,ChatGPT,0,0,CBS Marketing
+Madison Jackson,Marketing Coordinator,Microsoft Copilot,1,0,CBS Marketing
+Madison Jackson,Marketing Coordinator,Claude AI,2,0,CBS Marketing
+Madison Jackson,Marketing Coordinator,Cursor,1,0,CBS Marketing
+Devon Williams,Brand Specialist,Runway ML,1,0,CBS Marketing
+Devon Williams,Brand Specialist,Google Gemini,2,0,CBS Marketing
+Devon Williams,Brand Specialist,Adobe Firefly,1,0,CBS Marketing
+Devon Williams,Brand Specialist,ChatGPT,3,3,CBS Marketing
+Devon Williams,Brand Specialist,Microsoft Copilot,1,0,CBS Marketing
+Devon Williams,Brand Specialist,Claude AI,1,0,CBS Marketing
+Devon Williams,Brand Specialist,Cursor,1,0,CBS Marketing
+Harper Roberts,Brand Specialist,Runway ML,2,0,CBS Marketing
+Harper Roberts,Brand Specialist,Google Gemini,1,0,CBS Marketing
+Harper Roberts,Brand Specialist,Adobe Firefly,3,0,CBS Marketing
+Harper Roberts,Brand Specialist,ChatGPT,0,0,CBS Marketing
+Harper Roberts,Brand Specialist,Microsoft Copilot,1,0,CBS Marketing
+Harper Roberts,Brand Specialist,Claude AI,2,0,CBS Marketing
+Harper Roberts,Brand Specialist,Cursor,1,0,CBS Marketing
+Parker Lee,Creative Services Manager,Runway ML,1,0,CBS Marketing
+Parker Lee,Creative Services Manager,Google Gemini,3,0,CBS Marketing
+Parker Lee,Creative Services Manager,Adobe Firefly,2,0,CBS Marketing
+Parker Lee,Creative Services Manager,ChatGPT,4,2,CBS Marketing
+Parker Lee,Creative Services Manager,Microsoft Copilot,0,0,CBS Marketing
+Parker Lee,Creative Services Manager,Claude AI,1,0,CBS Marketing
+Parker Lee,Creative Services Manager,Cursor,1,0,CBS Marketing
+Blair Ramirez,Marketing Coordinator,Runway ML,2,0,CBS Marketing
+Blair Ramirez,Marketing Coordinator,Google Gemini,1,0,CBS Marketing
+Blair Ramirez,Marketing Coordinator,Adobe Firefly,2,0,CBS Marketing
+Blair Ramirez,Marketing Coordinator,ChatGPT,1,0,CBS Marketing
+Blair Ramirez,Marketing Coordinator,Microsoft Copilot,1,0,CBS Marketing
+Blair Ramirez,Marketing Coordinator,Claude AI,1,0,CBS Marketing
+Blair Ramirez,Marketing Coordinator,Cursor,1,0,CBS Marketing
+Remy Martinez,Brand Specialist,Runway ML,2,0,CBS Marketing
+Remy Martinez,Brand Specialist,Google Gemini,1,0,CBS Marketing
+Remy Martinez,Brand Specialist,Adobe Firefly,1,0,CBS Marketing
+Remy Martinez,Brand Specialist,ChatGPT,3,3,CBS Marketing
+Remy Martinez,Brand Specialist,Microsoft Copilot,2,0,CBS Marketing
+Remy Martinez,Brand Specialist,Claude AI,0,0,CBS Marketing
+Remy Martinez,Brand Specialist,Cursor,2,0,CBS Marketing
+Logan Miller,Brand Specialist,Runway ML,2,0,CBS Marketing
+Logan Miller,Brand Specialist,Google Gemini,2,0,CBS Marketing
+Logan Miller,Brand Specialist,Adobe Firefly,2,0,CBS Marketing
+Logan Miller,Brand Specialist,ChatGPT,5,3,CBS Marketing
+Logan Miller,Brand Specialist,Microsoft Copilot,1,0,CBS Marketing
+Logan Miller,Brand Specialist,Claude AI,3,0,CBS Marketing
+Logan Miller,Brand Specialist,Cursor,2,0,CBS Marketing
+Parker Flores,Marketing Coordinator,Runway ML,1,0,CBS Marketing
+Parker Flores,Marketing Coordinator,Google Gemini,1,0,CBS Marketing
+Parker Flores,Marketing Coordinator,Adobe Firefly,2,0,CBS Marketing
+Parker Flores,Marketing Coordinator,ChatGPT,1,0,CBS Marketing
+Parker Flores,Marketing Coordinator,Microsoft Copilot,1,0,CBS Marketing
+Parker Flores,Marketing Coordinator,Claude AI,3,0,CBS Marketing
+Parker Flores,Marketing Coordinator,Cursor,1,0,CBS Marketing
+Quincy Baker,Media Buyer,Runway ML,0,0,CBS Marketing
+Quincy Baker,Media Buyer,Google Gemini,1,0,CBS Marketing
+Quincy Baker,Media Buyer,Adobe Firefly,3,0,CBS Marketing
+Quincy Baker,Media Buyer,ChatGPT,3,3,CBS Marketing
+Quincy Baker,Media Buyer,Microsoft Copilot,1,0,CBS Marketing
+Quincy Baker,Media Buyer,Claude AI,1,0,CBS Marketing
+Quincy Baker,Media Buyer,Cursor,1,0,CBS Marketing
+Tatum Hall,Brand Specialist,Runway ML,1,0,CBS Marketing
+Tatum Hall,Brand Specialist,Google Gemini,3,0,CBS Marketing
+Tatum Hall,Brand Specialist,Adobe Firefly,0,0,CBS Marketing
+Tatum Hall,Brand Specialist,ChatGPT,3,3,CBS Marketing
+Tatum Hall,Brand Specialist,Microsoft Copilot,1,0,CBS Marketing
+Tatum Hall,Brand Specialist,Claude AI,3,0,CBS Marketing
+Tatum Hall,Brand Specialist,Cursor,1,0,CBS Marketing
+Devon Allen,Creative Services Manager,Runway ML,2,0,CBS Marketing
+Devon Allen,Creative Services Manager,Google Gemini,2,0,CBS Marketing
+Devon Allen,Creative Services Manager,Adobe Firefly,3,0,CBS Marketing
+Devon Allen,Creative Services Manager,ChatGPT,4,4,CBS Marketing
+Devon Allen,Creative Services Manager,Microsoft Copilot,1,0,CBS Marketing
+Devon Allen,Creative Services Manager,Claude AI,3,0,CBS Marketing
+Devon Allen,Creative Services Manager,Cursor,2,0,CBS Marketing
+Peyton Walker,Campaign Strategist,Runway ML,1,0,CBS Marketing
+Peyton Walker,Campaign Strategist,Google Gemini,3,0,CBS Marketing
+Peyton Walker,Campaign Strategist,Adobe Firefly,3,0,CBS Marketing
+Peyton Walker,Campaign Strategist,ChatGPT,3,2,CBS Marketing
+Peyton Walker,Campaign Strategist,Microsoft Copilot,1,0,CBS Marketing
+Peyton Walker,Campaign Strategist,Claude AI,1,0,CBS Marketing
+Peyton Walker,Campaign Strategist,Cursor,2,0,CBS Marketing
+Jamie Lopez,Videographer,Runway ML,1,0,CBS Marketing
+Jamie Lopez,Videographer,Google Gemini,2,0,CBS Marketing
+Jamie Lopez,Videographer,Adobe Firefly,0,0,CBS Marketing
+Jamie Lopez,Videographer,ChatGPT,2,0,CBS Marketing
+Jamie Lopez,Videographer,Microsoft Copilot,1,0,CBS Marketing
+Jamie Lopez,Videographer,Claude AI,1,0,CBS Marketing
+Jamie Lopez,Videographer,Cursor,2,0,CBS Marketing
+Phoenix Gomez,Campaign Strategist,Runway ML,1,0,CBS Marketing
+Phoenix Gomez,Campaign Strategist,Google Gemini,1,0,CBS Marketing
+Phoenix Gomez,Campaign Strategist,Adobe Firefly,0,0,CBS Marketing
+Phoenix Gomez,Campaign Strategist,ChatGPT,4,2,CBS Marketing
+Phoenix Gomez,Campaign Strategist,Microsoft Copilot,1,0,CBS Marketing
+Phoenix Gomez,Campaign Strategist,Claude AI,2,0,CBS Marketing
+Phoenix Gomez,Campaign Strategist,Cursor,1,0,CBS Marketing
+Drew Campbell,Marketing Coordinator,Runway ML,2,0,CBS Marketing
+Drew Campbell,Marketing Coordinator,Google Gemini,2,0,CBS Marketing
+Drew Campbell,Marketing Coordinator,Adobe Firefly,1,0,CBS Marketing
+Drew Campbell,Marketing Coordinator,ChatGPT,3,1,CBS Marketing
+Drew Campbell,Marketing Coordinator,Microsoft Copilot,1,0,CBS Marketing
+Drew Campbell,Marketing Coordinator,Claude AI,2,0,CBS Marketing
+Drew Campbell,Marketing Coordinator,Cursor,1,0,CBS Marketing
+Remy Carter,Media Buyer,Runway ML,1,0,CBS Marketing
+Remy Carter,Media Buyer,Google Gemini,1,0,CBS Marketing
+Remy Carter,Media Buyer,Adobe Firefly,1,0,CBS Marketing
+Remy Carter,Media Buyer,ChatGPT,4,2,CBS Marketing
+Remy Carter,Media Buyer,Microsoft Copilot,2,0,CBS Marketing
+Remy Carter,Media Buyer,Claude AI,2,0,CBS Marketing
+Remy Carter,Media Buyer,Cursor,1,0,CBS Marketing
+Kendall Roberts,Editor,Runway ML,1,0,CBS Marketing
+Kendall Roberts,Editor,Google Gemini,1,0,CBS Marketing
+Kendall Roberts,Editor,Adobe Firefly,2,0,CBS Marketing
+Kendall Roberts,Editor,ChatGPT,5,3,CBS Marketing
+Kendall Roberts,Editor,Microsoft Copilot,1,0,CBS Marketing
+Kendall Roberts,Editor,Claude AI,3,0,CBS Marketing
+Kendall Roberts,Editor,Cursor,2,0,CBS Marketing
+Alex Evans,Marketing Coordinator,Runway ML,2,0,CBS Marketing
+Alex Evans,Marketing Coordinator,Google Gemini,3,0,CBS Marketing
+Alex Evans,Marketing Coordinator,Adobe Firefly,1,0,CBS Marketing
+Alex Evans,Marketing Coordinator,ChatGPT,5,4,CBS Marketing
+Alex Evans,Marketing Coordinator,Microsoft Copilot,2,0,CBS Marketing
+Alex Evans,Marketing Coordinator,Claude AI,1,0,CBS Marketing
+Alex Evans,Marketing Coordinator,Cursor,1,0,CBS Marketing
+Gray Jackson,Videographer,Runway ML,1,0,CBS Marketing
+Gray Jackson,Videographer,Google Gemini,3,0,CBS Marketing
+Gray Jackson,Videographer,Adobe Firefly,2,0,CBS Marketing
+Gray Jackson,Videographer,ChatGPT,5,4,CBS Marketing
+Gray Jackson,Videographer,Microsoft Copilot,2,0,CBS Marketing
+Gray Jackson,Videographer,Claude AI,2,0,CBS Marketing
+Gray Jackson,Videographer,Cursor,2,0,CBS Marketing
+Quinn Lewis,Marketing Coordinator,Runway ML,1,0,CBS Marketing
+Quinn Lewis,Marketing Coordinator,Google Gemini,1,0,CBS Marketing
+Quinn Lewis,Marketing Coordinator,Adobe Firefly,3,0,CBS Marketing
+Quinn Lewis,Marketing Coordinator,ChatGPT,5,4,CBS Marketing
+Quinn Lewis,Marketing Coordinator,Microsoft Copilot,1,0,CBS Marketing
+Quinn Lewis,Marketing Coordinator,Claude AI,3,0,CBS Marketing
+Quinn Lewis,Marketing Coordinator,Cursor,1,0,CBS Marketing
+Avery Martinez,Media Buyer,Runway ML,1,0,CBS Marketing
+Avery Martinez,Media Buyer,Google Gemini,1,0,CBS Marketing
+Avery Martinez,Media Buyer,Adobe Firefly,1,0,CBS Marketing
+Avery Martinez,Media Buyer,ChatGPT,4,4,CBS Marketing
+Avery Martinez,Media Buyer,Microsoft Copilot,2,0,CBS Marketing
+Avery Martinez,Media Buyer,Claude AI,2,0,CBS Marketing
+Avery Martinez,Media Buyer,Cursor,1,0,CBS Marketing
+Sam Allen,Editor,Runway ML,1,0,CBS Marketing
+Sam Allen,Editor,Google Gemini,3,0,CBS Marketing
+Sam Allen,Editor,Adobe Firefly,1,0,CBS Marketing
+Sam Allen,Editor,ChatGPT,4,1,CBS Marketing
+Sam Allen,Editor,Microsoft Copilot,1,0,CBS Marketing
+Sam Allen,Editor,Claude AI,2,0,CBS Marketing
+Sam Allen,Editor,Cursor,1,0,CBS Marketing
+Quinn White,Marketing Coordinator,Runway ML,1,0,CBS Marketing
+Quinn White,Marketing Coordinator,Google Gemini,2,0,CBS Marketing
+Quinn White,Marketing Coordinator,Adobe Firefly,2,0,CBS Marketing
+Quinn White,Marketing Coordinator,ChatGPT,2,0,CBS Marketing
+Quinn White,Marketing Coordinator,Microsoft Copilot,1,0,CBS Marketing
+Quinn White,Marketing Coordinator,Claude AI,2,0,CBS Marketing
+Quinn White,Marketing Coordinator,Cursor,2,0,CBS Marketing
+Arden Harris,Brand Specialist,Runway ML,0,0,CBS Marketing
+Arden Harris,Brand Specialist,Google Gemini,3,0,CBS Marketing
+Arden Harris,Brand Specialist,Adobe Firefly,2,0,CBS Marketing
+Arden Harris,Brand Specialist,ChatGPT,5,4,CBS Marketing
+Arden Harris,Brand Specialist,Microsoft Copilot,1,0,CBS Marketing
+Arden Harris,Brand Specialist,Claude AI,3,0,CBS Marketing
+Arden Harris,Brand Specialist,Cursor,2,0,CBS Marketing
+Remy Johnson,Creative Services Manager,Runway ML,2,0,CBS Marketing
+Remy Johnson,Creative Services Manager,Google Gemini,3,0,CBS Marketing
+Remy Johnson,Creative Services Manager,Adobe Firefly,1,0,CBS Marketing
+Remy Johnson,Creative Services Manager,ChatGPT,5,3,CBS Marketing
+Remy Johnson,Creative Services Manager,Microsoft Copilot,2,0,CBS Marketing
+Remy Johnson,Creative Services Manager,Claude AI,2,0,CBS Marketing
+Remy Johnson,Creative Services Manager,Cursor,1,0,CBS Marketing
+Skyler Thomas,Creative Services Manager,Runway ML,1,0,CBS Marketing
+Skyler Thomas,Creative Services Manager,Google Gemini,3,0,CBS Marketing
+Skyler Thomas,Creative Services Manager,Adobe Firefly,1,0,CBS Marketing
+Skyler Thomas,Creative Services Manager,ChatGPT,2,0,CBS Marketing
+Skyler Thomas,Creative Services Manager,Microsoft Copilot,1,0,CBS Marketing
+Skyler Thomas,Creative Services Manager,Claude AI,1,0,CBS Marketing
+Skyler Thomas,Creative Services Manager,Cursor,0,0,CBS Marketing
+Sam Martin,Media Buyer,Runway ML,1,0,CBS Marketing
+Sam Martin,Media Buyer,Google Gemini,1,0,CBS Marketing
+Sam Martin,Media Buyer,Adobe Firefly,0,0,CBS Marketing
+Sam Martin,Media Buyer,ChatGPT,0,0,CBS Marketing
+Sam Martin,Media Buyer,Microsoft Copilot,2,0,CBS Marketing
+Sam Martin,Media Buyer,Claude AI,3,0,CBS Marketing
+Sam Martin,Media Buyer,Cursor,1,0,CBS Marketing
+Hollis Clark,Promo Producer,Runway ML,1,0,CBS Marketing
+Hollis Clark,Promo Producer,Google Gemini,1,0,CBS Marketing
+Hollis Clark,Promo Producer,Adobe Firefly,2,0,CBS Marketing
+Hollis Clark,Promo Producer,ChatGPT,5,3,CBS Marketing
+Hollis Clark,Promo Producer,Microsoft Copilot,2,0,CBS Marketing
+Hollis Clark,Promo Producer,Claude AI,1,0,CBS Marketing
+Hollis Clark,Promo Producer,Cursor,1,0,CBS Marketing
+Madison Scott,Brand Specialist,Runway ML,1,0,CBS Marketing
+Madison Scott,Brand Specialist,Google Gemini,3,0,CBS Marketing
+Madison Scott,Brand Specialist,Adobe Firefly,1,0,CBS Marketing
+Madison Scott,Brand Specialist,ChatGPT,4,4,CBS Marketing
+Madison Scott,Brand Specialist,Microsoft Copilot,2,0,CBS Marketing
+Madison Scott,Brand Specialist,Claude AI,2,0,CBS Marketing
+Madison Scott,Brand Specialist,Cursor,2,0,CBS Marketing
+Kendall Hall,Promo Producer,Runway ML,1,0,CBS Marketing
+Kendall Hall,Promo Producer,Google Gemini,2,0,CBS Marketing
+Kendall Hall,Promo Producer,Adobe Firefly,3,0,CBS Marketing
+Kendall Hall,Promo Producer,ChatGPT,4,4,CBS Marketing
+Kendall Hall,Promo Producer,Microsoft Copilot,2,0,CBS Marketing
+Kendall Hall,Promo Producer,Claude AI,2,0,CBS Marketing
+Kendall Hall,Promo Producer,Cursor,2,0,CBS Marketing
+Alex Hill,Brand Specialist,Runway ML,1,0,CBS Marketing
+Alex Hill,Brand Specialist,Google Gemini,2,0,CBS Marketing
+Alex Hill,Brand Specialist,Adobe Firefly,3,0,CBS Marketing
+Alex Hill,Brand Specialist,ChatGPT,5,1,CBS Marketing
+Alex Hill,Brand Specialist,Microsoft Copilot,1,0,CBS Marketing
+Alex Hill,Brand Specialist,Claude AI,3,0,CBS Marketing
+Alex Hill,Brand Specialist,Cursor,1,0,CBS Marketing
+Kai Harris,Editor,Runway ML,1,0,CBS Marketing
+Kai Harris,Editor,Google Gemini,2,0,CBS Marketing
+Kai Harris,Editor,Adobe Firefly,1,0,CBS Marketing
+Kai Harris,Editor,ChatGPT,5,4,CBS Marketing
+Kai Harris,Editor,Microsoft Copilot,1,0,CBS Marketing
+Kai Harris,Editor,Claude AI,2,0,CBS Marketing
+Kai Harris,Editor,Cursor,2,0,CBS Marketing
+Kendall Davis,Marketing Coordinator,Runway ML,2,0,CBS Marketing
+Kendall Davis,Marketing Coordinator,Google Gemini,3,0,CBS Marketing
+Kendall Davis,Marketing Coordinator,Adobe Firefly,3,0,CBS Marketing
+Kendall Davis,Marketing Coordinator,ChatGPT,5,2,CBS Marketing
+Kendall Davis,Marketing Coordinator,Microsoft Copilot,1,0,CBS Marketing
+Kendall Davis,Marketing Coordinator,Claude AI,1,0,CBS Marketing
+Kendall Davis,Marketing Coordinator,Cursor,1,0,CBS Marketing
+Jordan Hall,Avid Editor,Runway ML,2,0,CBS Marketing
+Jordan Hall,Avid Editor,Google Gemini,1,0,CBS Marketing
+Jordan Hall,Avid Editor,Adobe Firefly,3,0,CBS Marketing
+Jordan Hall,Avid Editor,ChatGPT,3,4,CBS Marketing
+Jordan Hall,Avid Editor,Microsoft Copilot,2,0,CBS Marketing
+Jordan Hall,Avid Editor,Claude AI,3,0,CBS Marketing
+Jordan Hall,Avid Editor,Cursor,1,0,CBS Marketing
+Logan Wright,Brand Specialist,Runway ML,1,0,CBS Marketing
+Logan Wright,Brand Specialist,Google Gemini,2,0,CBS Marketing
+Logan Wright,Brand Specialist,Adobe Firefly,1,0,CBS Marketing
+Logan Wright,Brand Specialist,ChatGPT,5,2,CBS Marketing
+Logan Wright,Brand Specialist,Microsoft Copilot,1,0,CBS Marketing
+Logan Wright,Brand Specialist,Claude AI,1,0,CBS Marketing
+Logan Wright,Brand Specialist,Cursor,1,0,CBS Marketing
+Jordan Nguyen,Avid Editor,Runway ML,1,0,CBS Marketing
+Jordan Nguyen,Avid Editor,Google Gemini,2,0,CBS Marketing
+Jordan Nguyen,Avid Editor,Adobe Firefly,1,0,CBS Marketing
+Jordan Nguyen,Avid Editor,ChatGPT,3,1,CBS Marketing
+Jordan Nguyen,Avid Editor,Microsoft Copilot,1,0,CBS Marketing
+Jordan Nguyen,Avid Editor,Claude AI,1,0,CBS Marketing
+Jordan Nguyen,Avid Editor,Cursor,1,0,CBS Marketing
+Quincy Jones,Editor,Runway ML,2,0,CBS Marketing
+Quincy Jones,Editor,Google Gemini,2,0,CBS Marketing
+Quincy Jones,Editor,Adobe Firefly,1,0,CBS Marketing
+Quincy Jones,Editor,ChatGPT,4,3,CBS Marketing
+Quincy Jones,Editor,Microsoft Copilot,2,0,CBS Marketing
+Quincy Jones,Editor,Claude AI,2,0,CBS Marketing
+Quincy Jones,Editor,Cursor,2,0,CBS Marketing

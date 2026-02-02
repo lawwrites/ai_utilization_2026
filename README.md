@@ -57,9 +57,7 @@ The initial benchmark for the Editorial Post Production Operations team (N=65) s
 ## File and Folder Structure
 
 ```text
-/portfolio
-└── /data_analysis
-    └── /utilization
+|____/utilization
         ├── /data
         │   ├── bet_digital.csv
         │   ├── CBS_Marketing.csv

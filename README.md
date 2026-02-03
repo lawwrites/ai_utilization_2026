@@ -1,77 +1,100 @@
-# Editorial Post Production: AI Strategic Analysis & CapEx Planning
+This is a massive milestone! You’ve moved from raw data cleaning to a sophisticated **Financial ROI framework**. Your code now handles complex data mapping, statistical correlation, and an "Efficiency Ratio" that separates useful tools from budget-drainers.
 
-This repository contains a data-driven framework for evaluating AI software adoption across creative and operations teams. The primary goal is to provide the **Editorial Post Production Operations** team with quantitative benchmarks to guide the mid-year CapEx cycle, specifically evaluating whether to extend partnerships for the licenses of their clients. 
+Below is the updated `README.md` that reflects your actual code logic, including the **Cost of Void** and **Efficiency Ratio** metrics.
 
-## The Organic Adoption Proxy: "Weekend Usage"
+---
 
-Weekly usage takes weekend days into account to capture employees' tendency to use AI tools they are passionate about outside of work. Traditional software metrics often fail to capture true user-centricity. This project introduces a **0–7 usage scale** to distinguish between standard business utilization and organic, personal adoption.
+# AI Tool Utilization & Sentiment Analysis (CapEx 2026)
 
-* **0–5 Range:** Represents standard business-week utilization and mandatory task completion.
-* **6–7 Range:** Captures weekend usage for personal work, hobbies, or fulfilling side projects.
+Over the last year, Paramount invested heavily in generative AI products. A year later, the list of active tools has ballooned alongside increased CapEx, creating a significant division in tool usage, satisfaction, and engagement.
 
-This serves as a proxy for **Cognitive Ease** and **Stickiness**. If a teammate uses a tool during their personal time, the "Learning Tax" is effectively zero, and the tool has transitioned from a corporate requirement to a natural extension of their creative workflow. Higher personal usage leads to a happier, more engaged employee base and reduced long-term operational friction.
+This repository provides a **data-driven framework** to evaluate AI software adoption across creative and operations teams. We focus on gaining a granular understanding of **Value per Expenditure** by synthesizing survey data from BET Digital, CBS Marketing, Editorial Post Production, Paramount Plus, The Multiplatform Group, and Nickelodeon Digital.
 
-## Mathematical Framework & Weighted ROI
+**GitHub Repository:** [https://github.com/lawwrites/ai_utilization_2026](https://github.com/lawwrites/ai_utilization_2026)
 
-To move beyond simple averages which can be skewed by outliers, this analysis employs **Expected Value ()** to determine the weighted performance of each tool.
+## Key Business Questions
 
-### Expected Value Calculation
+1. **Product Performance:** Which generative AI products deliver the highest perceived value based on the `value_index`?
+2. **Strategic ROI:** Which tools provide the highest **Efficiency per Dollar** spent?
 
-The Expected Value is calculated by taking the sum of each satisfaction rating () multiplied by its probability (), determined by the relative frequency of that rating within the team.
-
-```python
-# Python logic for Expected Value (E[X])
-total_respondents = 65
-ratings = [1, 2, 3, 4, 5]
-frequencies = [12, 32, 11, 5, 5]
-
-# Calculate weighted probability for each rating
-weighted_probabilities = [r * (f / total_respondents) for r, f in zip(ratings, frequencies)]
-
-# Expected Value is the sum of these probabilities
-expected_value = sum(weighted_probabilities)
-# Result: 2.69
-
-```
-
-### Value-per-Seat Metric
-
-By calculating the cost per weighted value of satisfaction and utilization, we can determine the true ROI of a seat license. This allows for a direct "Value-per-Dollar" comparison across products with different price points.
-
-```python
-# Python logic for Value-per-Seat
-monthly_cost_per_seat = 30.00
-weighted_satisfaction = 2.69
-
-value_per_seat = monthly_cost_per_seat / weighted_satisfaction
-
-```
-
-## Microsoft Copilot Performance Summary
-
-The initial benchmark for the Editorial Post Production Operations team (N=65) shows an **Expected Value of 2.69** for User Satisfaction.
-
-* **Primary Cluster:** 49% of the team reported a satisfaction rating of 2.
-* **Interpretation:** While the tool has established a baseline, the low  suggests that the "Learning Tax" remains high, or the current feature set is not yet meeting the specific technical needs of the post-production workflow.
-
-## File and Folder Structure
-
-```text
-|____/utilization
-        ├── /data
-        │   ├── bet_digital.csv
-        │   ├── CBS_Marketing.csv
-        │   ├── Editorial_Post_Production_Operations.csv
-        │   ├── Nickelodeon_Digital.csv
-        │   ├── Paramount_Plus_Brand_Creative.csv
-        │   ├── The_Multiplatform_Group.csv
-        │   └── total_department_surveys.csv
-        └── analysis_script.py
-
-```
+---
 
 ## Technical Methodology
 
-* **Standardization:** Automated cleaning of row and column data using Pandas `.str` accessors to ensure data integrity across multiple department CSVs.
-* **Categorization:** Role mapping to consolidate disparate job titles into standardized professional cohorts (e.g., "Avid Editor" and "Multi-platform Editor" to "Video Editor").
-* **Aggregation:** Using `groupby` and `pivot_table` to identify high-performing AI tools by specific business units.
+### 1. Data Exploration & Cleaning
+
+To ensure data integrity, we performed the following:
+
+* **Standardization:** Merged datasets from 6 departments and standardized 15+ job titles (e.g., mapping "Avid Editor" to "Video Editor").
+* **Sanitization:** Stripped whitespace and normalized column headers to `snake_case`.
+* **Verification:** Checked for null values and duplicates before exporting the master `total_department_surveys.csv`.
+
+### 2. The Baseline Metric: Value Index
+
+We established a baseline "Realized Value" for every seat license:
+
+
+
+This metric ensures that tools with high satisfaction but low usage (or vice versa) are accurately weighted.
+
+### 3. Correlation Analysis
+
+We utilized a **Pearson Correlation Coefficient ()** to determine the relationship between satisfaction and usage. A high  value indicates that satisfaction is a reliable predictor of organic adoption.
+
+---
+
+## Financial Framework for ROI
+
+### Defining the Sample Space & Outcomes
+
+Probability theory relies on a defined environment. For this analysis:
+
+* **Sample Space ():** * Satisfaction: 
+* Utilization: 
+
+
+* **Expected Value ():** We calculate the average realized value per license by grouping the `value_index` by product.
+
+### The "Cost of Void" (Sunk Cost Modeling)
+
+A major challenge in software procurement is paying for "Ghost Seats." We modeled the **Cost of Void** to identify financial waste:
+
+* If a `value_index` is 0, the **Cost of Void** is the full price of the license (100% Waste).
+* If a `value_index` is , we calculate the **Cost per Unit of Value**.
+
+```python
+# Logic implemented in the analysis
+ts['cost_of_void'] = np.where(
+    ts['value_index'] == 0, 
+    ts['cost_per_seat'], 
+    ts['cost_per_seat'] / ts['value_index']
+)
+
+```
+
+### The Efficiency Ratio
+
+Finally, we calculate the **Efficiency Ratio** to rank products. This tells us which tool gives the company the most "bang for its buck."
+
+
+---
+
+## Visualizing Performance
+
+We utilize Seaborn to identify "High Performance" tools. Any tool exceeding a satisfaction threshold of **3.0** is flagged for an **Extension Review**.
+
+---
+
+## Project Structure
+
+```text
+/portfolio
+└── /data_analysis
+    └── /utilization
+        ├── /data
+        │   ├── surveys/ (Raw Departmental CSVs)
+        │   ├── total_department_surveys.csv (Cleaned Master)
+        │   └── final_pivot_report.csv (Stakeholder Table)
+        └── analysis_script.py
+
+```

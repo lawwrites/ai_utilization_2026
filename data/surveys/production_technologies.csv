@@ -1,0 +1,29 @@
+User Name,Role,Product,User Satisfaction (0-5),Weekly Usage (0-7),Team
+Alex Rivera,Lead Engineer,Cursor,5,7,Production Technologies
+Alex Rivera,Lead Engineer,Claude AI,5,6,Production Technologies
+Alex Rivera,Lead Engineer,ChatGPT,4,6,Production Technologies
+Alex Rivera,Lead Engineer,Microsoft Copilot,1,3,Production Technologies
+Alex Rivera,Lead Engineer,Runway ML,2,1,Production Technologies
+Alex Rivera,Lead Engineer,Adobe Firefly,2,1,Production Technologies
+Alex Rivera,Lead Engineer,Google Gemini,2,1,Production Technologies
+Sam Chen,Sr Director of Production Technologies,Cursor,5,7,Production Technologies
+Sam Chen,Sr Director of Production Technologies,Claude AI,5,6,Production Technologies
+Sam Chen,Sr Director of Production Technologies,ChatGPT,4,6,Production Technologies
+Sam Chen,Sr Director of Production Technologies,Microsoft Copilot,1,3,Production Technologies
+Sam Chen,Sr Director of Production Technologies,Runway ML,2,1,Production Technologies
+Sam Chen,Sr Director of Production Technologies,Adobe Firefly,2,1,Production Technologies
+Sam Chen,Sr Director of Production Technologies,Google Gemini,2,1,Production Technologies
+Jordan Smith,Engineer,Cursor,5,7,Production Technologies
+Jordan Smith,Engineer,Claude AI,5,6,Production Technologies
+Jordan Smith,Engineer,ChatGPT,4,6,Production Technologies
+Jordan Smith,Engineer,Microsoft Copilot,1,3,Production Technologies
+Jordan Smith,Engineer,Runway ML,2,1,Production Technologies
+Jordan Smith,Engineer,Adobe Firefly,2,1,Production Technologies
+Jordan Smith,Engineer,Google Gemini,2,1,Production Technologies
+Casey Vang,Technical Production,Cursor,5,7,Production Technologies
+Casey Vang,Technical Production,Claude AI,5,6,Production Technologies
+Casey Vang,Technical Production,ChatGPT,4,6,Production Technologies
+Casey Vang,Technical Production,Microsoft Copilot,1,3,Production Technologies
+Casey Vang,Technical Production,Runway ML,2,1,Production Technologies
+Casey Vang,Technical Production,Adobe Firefly,2,1,Production Technologies
+Casey Vang,Technical Production,Google Gemini,2,1,Production Technologies

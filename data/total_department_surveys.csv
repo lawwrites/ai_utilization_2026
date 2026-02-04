@@ -1028,13 +1028,13 @@ Madison Allen,Media Manager,ChatGPT,2,0,Editorial Post Production Operations,25,
 Madison Allen,Media Manager,Microsoft Copilot,2,3,Editorial Post Production Operations,30,6
 Madison Allen,Media Manager,Claude AI,2,2,Editorial Post Production Operations,30,4
 Madison Allen,Media Manager,Cursor,1,0,Editorial Post Production Operations,40,0
-Quincy Hall,Media Manager,Runway ML,5,4,Editorial Post Production Operations,95,20
-Quincy Hall,Media Manager,Google Gemini,4,2,Editorial Post Production Operations,20,8
-Quincy Hall,Media Manager,Adobe Firefly,4,1,Editorial Post Production Operations,90,4
-Quincy Hall,Media Manager,ChatGPT,3,2,Editorial Post Production Operations,25,6
-Quincy Hall,Media Manager,Microsoft Copilot,2,4,Editorial Post Production Operations,30,8
-Quincy Hall,Media Manager,Claude AI,2,1,Editorial Post Production Operations,30,2
-Quincy Hall,Media Manager,Cursor,1,1,Editorial Post Production Operations,40,1
+Quincy Hall,Media Coordinator,Runway ML,5,4,Editorial Post Production Operations,95,20
+Quincy Hall,Media Coordinator,Google Gemini,4,2,Editorial Post Production Operations,20,8
+Quincy Hall,Media Coordinator,Adobe Firefly,4,1,Editorial Post Production Operations,90,4
+Quincy Hall,Media Coordinator,ChatGPT,3,2,Editorial Post Production Operations,25,6
+Quincy Hall,Media Coordinator,Microsoft Copilot,2,4,Editorial Post Production Operations,30,8
+Quincy Hall,Media Coordinator,Claude AI,2,1,Editorial Post Production Operations,30,2
+Quincy Hall,Media Coordinator,Cursor,1,1,Editorial Post Production Operations,40,1
 Charlie Perez,Quality Control Specialist,Runway ML,0,0,Editorial Post Production Operations,95,0
 Charlie Perez,Quality Control Specialist,Google Gemini,0,0,Editorial Post Production Operations,20,0
 Charlie Perez,Quality Control Specialist,Adobe Firefly,1,0,Editorial Post Production Operations,90,0
@@ -1112,13 +1112,13 @@ Finch Wilson,Assistant Editor,ChatGPT,5,3,Editorial Post Production Operations,2
 Finch Wilson,Assistant Editor,Microsoft Copilot,2,2,Editorial Post Production Operations,30,4
 Finch Wilson,Assistant Editor,Claude AI,3,2,Editorial Post Production Operations,30,6
 Finch Wilson,Assistant Editor,Cursor,3,1,Editorial Post Production Operations,40,3
-Devon Robinson,Media Manager,Runway ML,5,2,Editorial Post Production Operations,95,10
-Devon Robinson,Media Manager,Google Gemini,3,2,Editorial Post Production Operations,20,6
-Devon Robinson,Media Manager,Adobe Firefly,3,1,Editorial Post Production Operations,90,3
-Devon Robinson,Media Manager,ChatGPT,5,3,Editorial Post Production Operations,25,15
-Devon Robinson,Media Manager,Microsoft Copilot,2,4,Editorial Post Production Operations,30,8
-Devon Robinson,Media Manager,Claude AI,3,1,Editorial Post Production Operations,30,3
-Devon Robinson,Media Manager,Cursor,1,0,Editorial Post Production Operations,40,0
+Devon Robinson,Media Coordinator,Runway ML,5,2,Editorial Post Production Operations,95,10
+Devon Robinson,Media Coordinator,Google Gemini,3,2,Editorial Post Production Operations,20,6
+Devon Robinson,Media Coordinator,Adobe Firefly,3,1,Editorial Post Production Operations,90,3
+Devon Robinson,Media Coordinator,ChatGPT,5,3,Editorial Post Production Operations,25,15
+Devon Robinson,Media Coordinator,Microsoft Copilot,2,4,Editorial Post Production Operations,30,8
+Devon Robinson,Media Coordinator,Claude AI,3,1,Editorial Post Production Operations,30,3
+Devon Robinson,Media Coordinator,Cursor,1,0,Editorial Post Production Operations,40,0
 Taylor Thomas,Assistant Editor,Runway ML,4,4,Editorial Post Production Operations,95,16
 Taylor Thomas,Assistant Editor,Google Gemini,4,0,Editorial Post Production Operations,20,0
 Taylor Thomas,Assistant Editor,Adobe Firefly,4,0,Editorial Post Production Operations,90,0
@@ -1126,13 +1126,13 @@ Taylor Thomas,Assistant Editor,ChatGPT,0,0,Editorial Post Production Operations,
 Taylor Thomas,Assistant Editor,Microsoft Copilot,3,3,Editorial Post Production Operations,30,9
 Taylor Thomas,Assistant Editor,Claude AI,3,0,Editorial Post Production Operations,30,0
 Taylor Thomas,Assistant Editor,Cursor,2,0,Editorial Post Production Operations,40,0
-Palmer Mitchell,Media Manager,Runway ML,4,3,Editorial Post Production Operations,95,12
-Palmer Mitchell,Media Manager,Google Gemini,1,0,Editorial Post Production Operations,20,0
-Palmer Mitchell,Media Manager,Adobe Firefly,2,2,Editorial Post Production Operations,90,4
-Palmer Mitchell,Media Manager,ChatGPT,4,3,Editorial Post Production Operations,25,12
-Palmer Mitchell,Media Manager,Microsoft Copilot,2,2,Editorial Post Production Operations,30,4
-Palmer Mitchell,Media Manager,Claude AI,2,2,Editorial Post Production Operations,30,4
-Palmer Mitchell,Media Manager,Cursor,1,1,Editorial Post Production Operations,40,1
+Palmer Mitchell,Media Coordinator,Runway ML,4,3,Editorial Post Production Operations,95,12
+Palmer Mitchell,Media Coordinator,Google Gemini,1,0,Editorial Post Production Operations,20,0
+Palmer Mitchell,Media Coordinator,Adobe Firefly,2,2,Editorial Post Production Operations,90,4
+Palmer Mitchell,Media Coordinator,ChatGPT,4,3,Editorial Post Production Operations,25,12
+Palmer Mitchell,Media Coordinator,Microsoft Copilot,2,2,Editorial Post Production Operations,30,4
+Palmer Mitchell,Media Coordinator,Claude AI,2,2,Editorial Post Production Operations,30,4
+Palmer Mitchell,Media Coordinator,Cursor,1,1,Editorial Post Production Operations,40,1
 Dylan Hernandez,Assistant Editor,Runway ML,1,0,Editorial Post Production Operations,95,0
 Dylan Hernandez,Assistant Editor,Google Gemini,2,2,Editorial Post Production Operations,20,4
 Dylan Hernandez,Assistant Editor,Adobe Firefly,2,0,Editorial Post Production Operations,90,0
@@ -1245,13 +1245,13 @@ Kendall Campbell,Assistant Editor,ChatGPT,5,3,Editorial Post Production Operatio
 Kendall Campbell,Assistant Editor,Microsoft Copilot,2,2,Editorial Post Production Operations,30,4
 Kendall Campbell,Assistant Editor,Claude AI,3,0,Editorial Post Production Operations,30,0
 Kendall Campbell,Assistant Editor,Cursor,1,1,Editorial Post Production Operations,40,1
-Reese Hill,Media Manager,Runway ML,4,4,Editorial Post Production Operations,95,16
-Reese Hill,Media Manager,Google Gemini,2,1,Editorial Post Production Operations,20,2
-Reese Hill,Media Manager,Adobe Firefly,3,2,Editorial Post Production Operations,90,6
-Reese Hill,Media Manager,ChatGPT,3,4,Editorial Post Production Operations,25,12
-Reese Hill,Media Manager,Microsoft Copilot,2,2,Editorial Post Production Operations,30,4
-Reese Hill,Media Manager,Claude AI,2,1,Editorial Post Production Operations,30,2
-Reese Hill,Media Manager,Cursor,1,0,Editorial Post Production Operations,40,0
+Reese Hill,Media Coordinator,Runway ML,4,4,Editorial Post Production Operations,95,16
+Reese Hill,Media Coordinator,Google Gemini,2,1,Editorial Post Production Operations,20,2
+Reese Hill,Media Coordinator,Adobe Firefly,3,2,Editorial Post Production Operations,90,6
+Reese Hill,Media Coordinator,ChatGPT,3,4,Editorial Post Production Operations,25,12
+Reese Hill,Media Coordinator,Microsoft Copilot,2,2,Editorial Post Production Operations,30,4
+Reese Hill,Media Coordinator,Claude AI,2,1,Editorial Post Production Operations,30,2
+Reese Hill,Media Coordinator,Cursor,1,0,Editorial Post Production Operations,40,0
 Quinn Walker,Archive Specialist,Runway ML,3,2,Editorial Post Production Operations,95,6
 Quinn Walker,Archive Specialist,Google Gemini,1,0,Editorial Post Production Operations,20,0
 Quinn Walker,Archive Specialist,Adobe Firefly,1,0,Editorial Post Production Operations,90,0
@@ -2309,3 +2309,31 @@ Marley Wright,Video Editor,ChatGPT,3,3,The Multiplatform Group,25,9
 Marley Wright,Video Editor,Microsoft Copilot,2,1,The Multiplatform Group,30,2
 Marley Wright,Video Editor,Claude AI,2,2,The Multiplatform Group,30,4
 Marley Wright,Video Editor,Cursor,1,0,The Multiplatform Group,40,0
+Alex Rivera,Lead Engineer,Cursor,5,7,Production Technologies,40,35
+Alex Rivera,Lead Engineer,Claude AI,5,6,Production Technologies,30,30
+Alex Rivera,Lead Engineer,ChatGPT,4,6,Production Technologies,25,24
+Alex Rivera,Lead Engineer,Microsoft Copilot,1,3,Production Technologies,30,3
+Alex Rivera,Lead Engineer,Runway ML,2,1,Production Technologies,95,2
+Alex Rivera,Lead Engineer,Adobe Firefly,2,1,Production Technologies,90,2
+Alex Rivera,Lead Engineer,Google Gemini,2,1,Production Technologies,20,2
+Sam Chen,Sr Director of Production Technologies,Cursor,5,7,Production Technologies,40,35
+Sam Chen,Sr Director of Production Technologies,Claude AI,5,6,Production Technologies,30,30
+Sam Chen,Sr Director of Production Technologies,ChatGPT,4,6,Production Technologies,25,24
+Sam Chen,Sr Director of Production Technologies,Microsoft Copilot,1,3,Production Technologies,30,3
+Sam Chen,Sr Director of Production Technologies,Runway ML,2,1,Production Technologies,95,2
+Sam Chen,Sr Director of Production Technologies,Adobe Firefly,2,1,Production Technologies,90,2
+Sam Chen,Sr Director of Production Technologies,Google Gemini,2,1,Production Technologies,20,2
+Jordan Smith,Engineer,Cursor,5,7,Production Technologies,40,35
+Jordan Smith,Engineer,Claude AI,5,6,Production Technologies,30,30
+Jordan Smith,Engineer,ChatGPT,4,6,Production Technologies,25,24
+Jordan Smith,Engineer,Microsoft Copilot,1,3,Production Technologies,30,3
+Jordan Smith,Engineer,Runway ML,2,1,Production Technologies,95,2
+Jordan Smith,Engineer,Adobe Firefly,2,1,Production Technologies,90,2
+Jordan Smith,Engineer,Google Gemini,2,1,Production Technologies,20,2
+Casey Vang,Technical Production,Cursor,5,7,Production Technologies,40,35
+Casey Vang,Technical Production,Claude AI,5,6,Production Technologies,30,30
+Casey Vang,Technical Production,ChatGPT,4,6,Production Technologies,25,24
+Casey Vang,Technical Production,Microsoft Copilot,1,3,Production Technologies,30,3
+Casey Vang,Technical Production,Runway ML,2,1,Production Technologies,95,2
+Casey Vang,Technical Production,Adobe Firefly,2,1,Production Technologies,90,2
+Casey Vang,Technical Production,Google Gemini,2,1,Production Technologies,20,2

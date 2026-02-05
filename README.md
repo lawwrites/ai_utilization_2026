@@ -1,16 +1,13 @@
-This is a massive milestone! You’ve moved from raw data cleaning to a sophisticated **Financial ROI framework**. Your code now handles complex data mapping, statistical correlation, and an "Efficiency Ratio" that separates useful tools from budget-drainers.
 
-Below is the updated `README.md` that reflects your actual code logic, including the **Cost of Void** and **Efficiency Ratio** metrics.
-
----
 
 # AI Tool Utilization & Sentiment Analysis (CapEx 2026)
 
 Over the last year, Paramount invested heavily in generative AI products. A year later, the list of active tools has ballooned alongside increased CapEx, creating a significant division in tool usage, satisfaction, and engagement.
 
-This repository provides a **data-driven framework** to evaluate AI software adoption across creative and operations teams. We focus on gaining a granular understanding of **Value per Expenditure** by synthesizing survey data from BET Digital, CBS Marketing, Editorial Post Production, Paramount Plus, The Multiplatform Group, and Nickelodeon Digital.
+This repository provides a **data-driven framework** to evaluate AI software adoption across creative and operations teams. I focused on gaining a granular understanding of **Value per Expenditure** by synthesizing survey data from Production Technologies, BET Digital, CBS Marketing, Editorial Post Production, Paramount Plus, The Multiplatform Group, and Nickelodeon Digital.
 
 **GitHub Repository:** [https://github.com/lawwrites/ai_utilization_2026](https://github.com/lawwrites/ai_utilization_2026)
+**Further Learnings:** The idea to use expected value to determine satisfaction and engagement comes from [Khan Academy's](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library) Unit 9 on Discrete Random Variable
 
 ## Key Business Questions
 
@@ -23,7 +20,7 @@ This repository provides a **data-driven framework** to evaluate AI software ado
 
 ### 1. Data Exploration & Cleaning
 
-To ensure data integrity, we performed the following:
+To ensure data integrity, I performed the following:
 
 * **Standardization:** Merged datasets from 6 departments and standardized 15+ job titles (e.g., mapping "Avid Editor" to "Video Editor").
 * **Sanitization:** Stripped whitespace and normalized column headers to `snake_case`.
@@ -31,7 +28,7 @@ To ensure data integrity, we performed the following:
 
 ### 2. The Baseline Metric: Value Index
 
-We established a baseline "Realized Value" for every seat license:
+I established a baseline "Realized Value" for every seat license:
 
 
 
@@ -39,7 +36,7 @@ This metric ensures that tools with high satisfaction but low usage (or vice ver
 
 ### 3. Correlation Analysis
 
-We utilized a **Pearson Correlation Coefficient ()** to determine the relationship between satisfaction and usage. A high  value indicates that satisfaction is a reliable predictor of organic adoption.
+I utilized a **Pearson Correlation Coefficient ()** to determine the relationship between satisfaction and usage. A high  value indicates that satisfaction is a reliable predictor of organic adoption.
 
 ---
 
@@ -53,14 +50,14 @@ Probability theory relies on a defined environment. For this analysis:
 * Utilization: 
 
 
-* **Expected Value ():** We calculate the average realized value per license by grouping the `value_index` by product.
+* **Expected Value ():** I calculated the average realized value per license by grouping the `value_index` by product.
 
 ### The "Cost of Void" (Sunk Cost Modeling)
 
-A major challenge in software procurement is paying for "Ghost Seats." We modeled the **Cost of Void** to identify financial waste:
+A major challenge in software procurement is paying for "Ghost Seats." I modeled the **Cost of Void** to identify financial waste:
 
 * If a `value_index` is 0, the **Cost of Void** is the full price of the license (100% Waste).
-* If a `value_index` is , we calculate the **Cost per Unit of Value**.
+* If a `value_index` is , I calculated the **Cost per Unit of Value**.
 
 ```python
 # Logic implemented in the analysis
@@ -74,14 +71,14 @@ ts['cost_of_void'] = np.where(
 
 ### The Efficiency Ratio
 
-Finally, we calculate the **Efficiency Ratio** to rank products. This tells us which tool gives the company the most "bang for its buck."
+Finally, I calculated the **Efficiency Ratio** to rank products. This tells us which tool gives the company the most "bang for its buck."
 
 
 ---
 
 ## Visualizing Performance
 
-We utilize Seaborn to identify "High Performance" tools. Any tool exceeding a satisfaction threshold of **3.0** is flagged for an **Extension Review**.
+I utilized Seaborn to identify "High Performance" tools. Any tool exceeding a satisfaction threshold of **3.0** is flagged for an **Extension Review**.
 
 ---
 
@@ -98,3 +95,7 @@ We utilize Seaborn to identify "High Performance" tools. Any tool exceeding a sa
         └── analysis_script.py
 
 ```
+
+## AI Usage
+
+Google Gemini is used to create the synthetic survey data. It was also used to calculate the expected value scores.

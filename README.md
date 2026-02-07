@@ -57,7 +57,7 @@ Probability theory relies on a defined environment. For this analysis:
 A major challenge in software procurement is paying for "Ghost Seats." I modeled the **Cost of Void** to identify financial waste:
 
 * If a `value_index` is 0, the **Cost of Void** is the full price of the license (100% Waste).
-* If a `value_index` is , I calculated the **Cost per Unit of Value**.
+* If a `value_index` is not 0, I calculated the **Cost per Unit of Value**.
 
 ```python
 # Logic implemented in the analysis
